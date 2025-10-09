@@ -1,0 +1,30 @@
+{
+  "doc-3a1f70aeebd435a4569c63e50af09a60": {
+    "status": "processed",
+    "chunks_count": 11,
+    "chunks_list": [
+      "chunk-96b586e144360ef80aa8abc561f73854",
+      "chunk-619c2f7f68856aebad4b43e5180a797d",
+      "chunk-955f3bcc2b443e2e7604b1e8bd4fc758",
+      "chunk-83ca4195a3f5f9fa7ecdb28e60122379",
+      "chunk-69bbd43b13ba8685843c414bf93d64bc",
+      "chunk-ec6417bc419266b6d4432d11ccf2ddd9",
+      "chunk-01ba47ce93bd63521560507f4e60ebd1",
+      "chunk-6789897058a30b32172d17be14ab5980",
+      "chunk-7dec2795b9a7da8240c60af2e5d93ee1",
+      "chunk-9b19e990273d899596baca4278c9632b",
+      "chunk-9d04bcaf9de54cebb144034ea39c9de0"
+    ],
+    "content_summary": "(1)\n\n标题：2025年山东省汽车置换更新补贴实施细则，时间：2025/1/23 ，发布级别：省级文件，类型：汽车类\n\n内容：\n\n```\n\n\"为贯彻党中央、国务院决策部署，根据《国家发展改革委 财政部关于2025年加力扩围实施大规模设备更新和消费品以旧换新政策的通知》（发改环资〔2025〕13号）和《商务部等8部门办公厅关于做好2025年汽车以旧换新工作的通知》（商办消费函〔2025〕8号）要求，做好2025年汽车置换更新工作，推动汽车消费升级，特制定本细则。\n\n一、补贴范围及标准\n\n（一）补...",
+    "content_length": 16928,
+    "created_at": "2025-10-07T02:43:30.263433+00:00",
+    "updated_at": "2025-10-07T10:46:29+00:00",
+    "file_path": "car.docx",
+    "track_id": "insert_20251007_104330_402df30e",
+    "metadata": {
+      "processing_start_time": 1759805010,
+      "processing_end_time": 1759805189
+    },
+    "multimodal_processed": true
+  }
+}

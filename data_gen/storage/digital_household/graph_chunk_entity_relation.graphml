@@ -1,0 +1,2014 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity">
+  <data key="d0">Jinan City's 2025 Online 3C Product Purchase Subsidy Activity</data>
+  <data key="d1">event</data>
+  <data key="d2">An event held in Jinan City starting January 25, 2025, offering subsidies for purchasing 3C products like phones, tablets, and smartwatches through online platforms.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806625</data>
+</node>
+<node id="Jinan City">
+  <data key="d0">Jinan City</data>
+  <data key="d1">location</data>
+  <data key="d2">A city in Shandong Province, China, organizing the 2025 online 3C product purchase subsidy activity.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806625</data>
+</node>
+<node id="Phones">
+  <data key="d0">Phones</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Mobile phones eligible for purchase under the subsidy program with a price cap of 6000 yuan.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806625</data>
+</node>
+<node id="Tablets">
+  <data key="d0">Tablets</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Tablets are included in the list of eligible electronic devices for the subsidy program.&lt;SEP&gt;Tablets eligible for purchase under the subsidy program with a price cap of 6000 yuan.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8&lt;SEP&gt;chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806625</data>
+</node>
+<node id="Smartwatches">
+  <data key="d0">Smartwatches</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Smartwatches (or smart bands) eligible for purchase under the subsidy program with a price cap of 6000 yuan.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806625</data>
+</node>
+<node id="JD Platform">
+  <data key="d0">JD Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">An e-commerce platform participating in Jinan City's subsidy activity, enabling consumers to purchase eligible products.&lt;SEP&gt;JD Platform is one of the e-commerce platforms participating in the Jinan City trade-in program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a&lt;SEP&gt;chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806625</data>
+</node>
+<node id="Taobao &amp; Tmall Platform">
+  <data key="d0">Taobao &amp; Tmall Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">An e-commerce platform participating in Jinan City's subsidy activity, providing eligible products through event-specific discounts.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806625</data>
+</node>
+<node id="Suning E-Commerce Platform">
+  <data key="d0">Suning E-Commerce Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">An e-commerce platform participating in Jinan City's subsidy activity with tailored discount rules.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806625</data>
+</node>
+<node id="Kuaishou Platform">
+  <data key="d0">Kuaishou Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">A social commerce platform included in Jinan City's subsidy program, allowing consumers to acquire discounted goods.&lt;SEP&gt;Kuaishou Platform is an e-commerce website participating in the appliance subsidy program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a&lt;SEP&gt;chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806627</data>
+</node>
+<node id="Vipshop Platform">
+  <data key="d0">Vipshop Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">An e-commerce platform participating in the subsidy activity, providing specific digital products.&lt;SEP&gt;Vipshop Platform is an e-commerce site involved in the trade-in program for home appliances in Jinan City.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a&lt;SEP&gt;chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806627</data>
+</node>
+<node id="Dewu Platform">
+  <data key="d0">Dewu Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">An online platform listed under subsidy eligibility, branded as "以旧换新" for the program.&lt;SEP&gt;Dewu Platform is among the e-commerce channels participating in Jinan City's trade-in program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a&lt;SEP&gt;chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806627</data>
+</node>
+<node id="Nengliang Platform">
+  <data key="d0">Nengliang Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">An e-commerce platform enabling purchases via “购机通” mini-program, part of the subsidy initiative.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806627</data>
+</node>
+<node id="Honor Platform">
+  <data key="d0">Honor Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">A vendor-specific platform participating in the subsidy program through its mini-program "荣耀商城."</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806627</data>
+</node>
+<node id="Cloud QuickPass">
+  <data key="d0">Cloud QuickPass</data>
+  <data key="d1">method</data>
+  <data key="d2">A payment method required for customers to use in order to qualify for subsidy discounts.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806628</data>
+</node>
+<node id="Subsidy Qualification">
+  <data key="d0">Subsidy Qualification</data>
+  <data key="d1">concept</data>
+  <data key="d2">A qualification that consumers need to obtain in order to avail of subsidies on eligible 3C products.&lt;SEP&gt;Subsidy Qualification is the eligibility a consumer must meet to access financial subsidies for replacing old appliances under the policy.&lt;SEP&gt;Subsidy Qualification refers to the eligibility criteria determined for accessing incentives under the home appliance trade-in program.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5&lt;SEP&gt;chunk-febf6109f34913ae55354e7147217954&lt;SEP&gt;chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806628</data>
+</node>
+<node id="Shandong Province">
+  <data key="d0">Shandong Province</data>
+  <data key="d1">location</data>
+  <data key="d2">Shandong Province is a region in China issuing a policy for subsidies on digital product purchases.&lt;SEP&gt;A region in China where the Jinan City subsidy initiative is conducted.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8&lt;SEP&gt;chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806628</data>
+</node>
+<node id="Electronic Products">
+  <data key="d0">Electronic Products</data>
+  <data key="d1">category</data>
+  <data key="d2">Electronic products including phones, tablets, and smartwatches are eligible for subsidies under the program.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806629</data>
+</node>
+<node id="E-Commerce Platforms">
+  <data key="d0">E-Commerce Platforms</data>
+  <data key="d1">concept</data>
+  <data key="d2">E-commerce platforms are online marketplaces such as JD, Taobao &amp; Tmall, and others participating in the subsidy activity.</data>
+  <data key="d3">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806629</data>
+</node>
+<node id="济南市">
+  <data key="d0">济南市</data>
+  <data key="d1">location</data>
+  <data key="d2">济南市is a city where consumers can receive specific government subsidies for digital products.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806630</data>
+</node>
+<node id="京东">
+  <data key="d0">京东</data>
+  <data key="d1">organization</data>
+  <data key="d2">京东is an e-commerce platform with a customer service hotline listed as 950618.&lt;SEP&gt;京东provides customer service support for consumers, reachable at 950618.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806630</data>
+</node>
+<node id="淘宝&amp;天猫">
+  <data key="d0">淘宝&amp;天猫</data>
+  <data key="d1">organization</data>
+  <data key="d2">淘宝&amp;天猫are e-commerce platforms with a shared customer service hotline listed as 4008260826.&lt;SEP&gt;淘宝&amp;天猫offer customer service support for consumers, reachable at 4008260826.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806630</data>
+</node>
+<node id="苏宁易购">
+  <data key="d0">苏宁易购</data>
+  <data key="d1">organization</data>
+  <data key="d2">苏宁易购is an e-commerce platform with a customer service hotline listed as 4008365365.&lt;SEP&gt;苏宁易购provides customer service for consumers, reachable at 4008365365.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806630</data>
+</node>
+<node id="快手">
+  <data key="d0">快手</data>
+  <data key="d1">organization</data>
+  <data key="d2">快手is an e-commerce platform with a customer service hotline listed as 4001015454.&lt;SEP&gt;快手offers customer service, reachable at 4001015454.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806630</data>
+</node>
+<node id="唯品会">
+  <data key="d0">唯品会</data>
+  <data key="d1">organization</data>
+  <data key="d2">唯品会is an e-commerce platform with a customer service hotline listed as 4006789888.&lt;SEP&gt;唯品会is a platform where consumers can participate in the subsidy program by shopping in the济南活动会场and utilizing银联云闪付for payment.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806631</data>
+</node>
+<node id="得物">
+  <data key="d0">得物</data>
+  <data key="d1">organization</data>
+  <data key="d2">得物is an e-commerce platform with a customer service hotline listed as 4008919888.&lt;SEP&gt;得物is a platform where consumers can join the subsidy program by searching "以旧换新," accessing济南活动会场, and using银联云闪付for payment.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806631</data>
+</node>
+<node id="能良">
+  <data key="d0">能良</data>
+  <data key="d1">organization</data>
+  <data key="d2">能良is an e-commerce platform with a customer service hotline listed as 02163831880.&lt;SEP&gt;能良is a platform where consumers can engage in the subsidy program via the购机通WeChat mini-program, selecting济南市and utilizing银联云闪付for payment.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806631</data>
+</node>
+<node id="荣耀">
+  <data key="d0">荣耀</data>
+  <data key="d1">organization</data>
+  <data key="d2">荣耀is an e-commerce platform with a customer service hotline listed as 95030.&lt;SEP&gt;荣耀operates the荣耀商城WeChat mini-program, enabling consumers to participate in the subsidy program via the "以旧换新" section and using银联云闪付for payment.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806631</data>
+</node>
+<node id="山东省家电以旧换新实施方案">
+  <data key="d0">山东省家电以旧换新实施方案</data>
+  <data key="d1">concept</data>
+  <data key="d2">The山东省家电以旧换新实施方案is a policy aimed at promoting appliance updates via trade-in programs to enhance consumer demand and economic development.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806632</data>
+</node>
+<node id="家电以旧换新活动">
+  <data key="d0">家电以旧换新活动</data>
+  <data key="d1">event</data>
+  <data key="d2">家电以旧换新活动refers to events promoting trade-ins for upgraded appliances with subsidies.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806632</data>
+</node>
+<node id="省委、省政府">
+  <data key="d0">省委、省政府</data>
+  <data key="d1">organization</data>
+  <data key="d2">省委、省政府oversee the implementation and decision-making of policies at the provincial level.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806632</data>
+</node>
+<node id="国家发展改革委">
+  <data key="d0">国家发展改革委</data>
+  <data key="d1">organization</data>
+  <data key="d2">国家发展改革委is a national administrative organization involved in the policy directive发改环资〔2025〕13号.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806633</data>
+</node>
+<node id="财政部">
+  <data key="d0">财政部</data>
+  <data key="d1">organization</data>
+  <data key="d2">财政部is a national administrative organization involved in issuing the trade-in policy directive alongside国家发展改革委.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806633</data>
+</node>
+<node id="商务部">
+  <data key="d0">商务部</data>
+  <data key="d1">organization</data>
+  <data key="d2">商务部is one of the departments providing instructions for conducting appliance trade-in programs.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806633</data>
+</node>
+<node id="商办流通函〔2025〕6号">
+  <data key="d0">商办流通函〔2025〕6号</data>
+  <data key="d1">data</data>
+  <data key="d2">商办流通函〔2025〕6号is a directive associated with the 2025 home appliance trade-in policy.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806633</data>
+</node>
+<node id="国家特别国债">
+  <data key="d0">国家特别国债</data>
+  <data key="d1">artifact</data>
+  <data key="d2">国家特别国债refers to ultra-long-term bonds designated for supporting national policies, including trade-in funding.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806633</data>
+</node>
+<node id="电冰箱">
+  <data key="d0">电冰箱</data>
+  <data key="d1">artifact</data>
+  <data key="d2">电冰箱includes refrigerators, ice bars, iceboxes, and cold storage units eligible for trade-in subsidies under efficiency standards.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806633</data>
+</node>
+<node id="洗衣机">
+  <data key="d0">洗衣机</data>
+  <data key="d1">artifact</data>
+  <data key="d2">洗衣机includes washing machines, dryers, and washer-dryer combos eligible for trade-in subsidies under efficiency standards.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806635</data>
+</node>
+<node id="电视机">
+  <data key="d0">电视机</data>
+  <data key="d1">artifact</data>
+  <data key="d2">电视机includes televisions, laser TVs, and smart screens eligible for trade-in subsidies under efficiency standards.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806635</data>
+</node>
+<node id="空调">
+  <data key="d0">空调</data>
+  <data key="d1">artifact</data>
+  <data key="d2">空调includes household centralized air conditioners and ducted units eligible for trade-in subsidies under efficiency standards.&lt;SEP&gt;空调is a type of home appliance eligible for the subsidy program, with up to three units qualifying for subsidies per consumer.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627&lt;SEP&gt;chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806635</data>
+</node>
+<node id="电脑">
+  <data key="d0">电脑</data>
+  <data key="d1">artifact</data>
+  <data key="d2">电脑includes desktop computers and laptops eligible for trade-in subsidies under efficiency standards.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806635</data>
+</node>
+<node id="热水器">
+  <data key="d0">热水器</data>
+  <data key="d1">artifact</data>
+  <data key="d2">热水器includes gas-fired wall-mounted heaters eligible for trade-in subsidies under efficiency standards.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806635</data>
+</node>
+<node id="家用灶具">
+  <data key="d0">家用灶具</data>
+  <data key="d1">artifact</data>
+  <data key="d2">家用灶具includes integrated stoves eligible for trade-in subsidies under efficiency standards.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806635</data>
+</node>
+<node id="吸油烟机">
+  <data key="d0">吸油烟机</data>
+  <data key="d1">artifact</data>
+  <data key="d2">吸油烟机refers to household exhaust fans eligible for trade-in subsidies under efficiency standards.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806635</data>
+</node>
+<node id="净水器">
+  <data key="d0">净水器</data>
+  <data key="d1">artifact</data>
+  <data key="d2">净水器includes home water purifiers eligible for trade-in subsidies under new policy additions.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806635</data>
+</node>
+<node id="洗碗机">
+  <data key="d0">洗碗机</data>
+  <data key="d1">artifact</data>
+  <data key="d2">洗碗机refers to dishwashers eligible for trade-in subsidies under new policy additions.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806636</data>
+</node>
+<node id="微波炉">
+  <data key="d0">微波炉</data>
+  <data key="d1">artifact</data>
+  <data key="d2">微波炉refers to microwave ovens eligible for trade-in subsidies under new policy additions.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806637</data>
+</node>
+<node id="电饭煲">
+  <data key="d0">电饭煲</data>
+  <data key="d1">artifact</data>
+  <data key="d2">电饭煲refers to rice cookers eligible for trade-in subsidies under new policy additions.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806637</data>
+</node>
+<node id="消费者">
+  <data key="d0">消费者</data>
+  <data key="d1">concept</data>
+  <data key="d2">消费者refers to individuals who purchase goods and are eligible for government subsidies under the trade-in program for appliances.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806637</data>
+</node>
+<node id="习近平新时代中国特色社会主义思想">
+  <data key="d0">习近平新时代中国特色社会主义思想</data>
+  <data key="d1">concept</data>
+  <data key="d2">习近平新时代中国特色社会主义思想is a guiding ideology for policy implementation, including trade-in programs for consumption enhancement.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806637</data>
+</node>
+<node id="党的二十大">
+  <data key="d0">党的二十大</data>
+  <data key="d1">event</data>
+  <data key="d2">党的二十大refers to the 20th Party Congress of China, influencing policy directions including economic reforms.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806637</data>
+</node>
+<node id="二十届二中、三中全会">
+  <data key="d0">二十届二中、三中全会</data>
+  <data key="d1">event</data>
+  <data key="d2">二十届二中、三中全会are key sessions of the 20th Central Committee, providing guidelines for policy decisions in various sectors.</data>
+  <data key="d3">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806638</data>
+</node>
+<node id="Shandong Province Home Appliance Trade-In Qualification Verification System">
+  <data key="d0">Shandong Province Home Appliance Trade-In Qualification Verification System</data>
+  <data key="d1">system</data>
+  <data key="d2">The Shandong Province Home Appliance Trade-In Qualification Verification System is a platform developed to manage the verification process for the home appliance trade-in program at the provincial level.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806638</data>
+</node>
+<node id="Central Government-Level Home Appliance Trade-In Subsidy Qualification Verification System">
+  <data key="d0">Central Government-Level Home Appliance Trade-In Subsidy Qualification Verification System</data>
+  <data key="d1">system</data>
+  <data key="d2">The Central Government-Level Home Appliance Trade-In Subsidy Qualification Verification System is a national platform for real-time subsidy eligibility verification.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806638</data>
+</node>
+<node id="Home Appliance Trade-In Platform">
+  <data key="d0">Home Appliance Trade-In Platform</data>
+  <data key="d1">system</data>
+  <data key="d2">The Home Appliance Trade-In Platform is a system managed at the municipal level to support trade-in activities, subsidy management, and reporting.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806638</data>
+</node>
+<node id="Home Appliance Trade-In Program">
+  <data key="d0">Home Appliance Trade-In Program</data>
+  <data key="d1">program</data>
+  <data key="d2">The Home Appliance Trade-In Program is an initiative that encourages consumers to trade in old appliances in exchange for government subsidies.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806639</data>
+</node>
+<node id="Subsidy Funds">
+  <data key="d0">Subsidy Funds</data>
+  <data key="d1">concept</data>
+  <data key="d2">Subsidy Funds are resources allocated to incentivize consumer participation in the home appliance trade-in initiative.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806639</data>
+</node>
+<node id="State Subsidy Standards">
+  <data key="d0">State Subsidy Standards</data>
+  <data key="d1">concept</data>
+  <data key="d2">State Subsidy Standards refer to the official criteria for subsidy amounts and their nature under the home appliance trade-in program.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806639</data>
+</node>
+<node id="12 Appliance Categories Database">
+  <data key="d0">12 Appliance Categories Database</data>
+  <data key="d1">data</data>
+  <data key="d2">The 12 Appliance Categories Database comprises details of energy-efficient or water-efficient home appliances eligible for the trade-in program.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806639</data>
+</node>
+<node id="Home Appliance Recycling System">
+  <data key="d0">Home Appliance Recycling System</data>
+  <data key="d1">system</data>
+  <data key="d2">The Home Appliance Recycling System aims to promote the collection, recycling, and proper disposal of used home appliances.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806639</data>
+</node>
+<node id="Installment of Appliances">
+  <data key="d0">Installment of Appliances</data>
+  <data key="d1">process</data>
+  <data key="d2">The Installment of Appliances includes the delivery, installation, and consumer receipt of traded-in and new home appliances.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806640</data>
+</node>
+<node id="2025 Trade-In Deadline">
+  <data key="d0">2025 Trade-In Deadline</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 Trade-In Deadline marks the conclusion of trade-in activities, with the final delivery expected by January 15, 2026.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806640</data>
+</node>
+<node id="Risk Prevention Measures">
+  <data key="d0">Risk Prevention Measures</data>
+  <data key="d1">concept</data>
+  <data key="d2">Risk Prevention Measures include policies designed to ensure compliance and mitigate fraud within the home appliance trade-in initiative.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806640</data>
+</node>
+<node id="Provincial Commerce Departments">
+  <data key="d0">Provincial Commerce Departments</data>
+  <data key="d1">organization</data>
+  <data key="d2">Provincial Commerce Departments oversee and implement trade-in program policies at a regional level.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806640</data>
+</node>
+<node id="Municipal Commerce Departments">
+  <data key="d0">Municipal Commerce Departments</data>
+  <data key="d1">organization</data>
+  <data key="d2">Municipal Commerce Departments are responsible for the local execution of the home appliance trade-in program guidelines.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806640</data>
+</node>
+<node id="Multi-Scene Promotion Activities">
+  <data key="d0">Multi-Scene Promotion Activities</data>
+  <data key="d1">event</data>
+  <data key="d2">Multi-Scene Promotion Activities are events designed to encourage consumer participation in the trade-in program both online and offline.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806641</data>
+</node>
+<node id="Home Appliance Manufacturers">
+  <data key="d0">Home Appliance Manufacturers</data>
+  <data key="d1">organization</data>
+  <data key="d2">Home Appliance Manufacturers are businesses producing appliances that participate in the trade-in program, often contributing to recycling systems.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806641</data>
+</node>
+<node id="Third-Party Service Providers">
+  <data key="d0">Third-Party Service Providers</data>
+  <data key="d1">organization</data>
+  <data key="d2">Third-Party Service Providers are entities tasked with supporting the trade-in program by ensuring compliance, data management, and verification.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806641</data>
+</node>
+<node id="Counterfeit Deterrence Policies">
+  <data key="d0">Counterfeit Deterrence Policies</data>
+  <data key="d1">concept</data>
+  <data key="d2">Counterfeit Deterrence Policies cover measures to prevent fraud, such as fake subsidies or false price claims under the program.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806642</data>
+</node>
+<node id="Home Appliance Maintenance Network">
+  <data key="d0">Home Appliance Maintenance Network</data>
+  <data key="d1">system</data>
+  <data key="d2">The Home Appliance Maintenance Network integrates recycling, repairs, and sales across rural and urban areas to enhance consumer convenience.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806642</data>
+</node>
+<node id="Consumer Complaint Channels">
+  <data key="d0">Consumer Complaint Channels</data>
+  <data key="d1">system</data>
+  <data key="d2">Consumer Complaint Channels offer platforms for customers to report issues such as fraud or poor service in relation to the trade-in program.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806642</data>
+</node>
+<node id="Modern Trade Circulation System Trial Cities">
+  <data key="d0">Modern Trade Circulation System Trial Cities</data>
+  <data key="d1">location</data>
+  <data key="d2">Modern Trade Circulation System Trial Cities are areas supported by funding to develop waste recycling systems, including old appliance recycling infrastructure.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806642</data>
+</node>
+<node id="County-Level Commercial System Construction Funding">
+  <data key="d0">County-Level Commercial System Construction Funding</data>
+  <data key="d1">concept</data>
+  <data key="d2">County-Level Commercial System Construction Funding is financial support aimed at building commercial systems for recycling and trade-in activities in smaller administrative areas.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806642</data>
+</node>
+<node id="Appliance Sales Enterprises">
+  <data key="d0">Appliance Sales Enterprises</data>
+  <data key="d1">organization</data>
+  <data key="d2">Appliance Sales Enterprises are companies involved in the direct sales and trade-in of appliances, contributing to the recycling program.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806642</data>
+</node>
+<node id="Legally Authorized Dismantling Enterprises">
+  <data key="d0">Legally Authorized Dismantling Enterprises</data>
+  <data key="d1">organization</data>
+  <data key="d2">Legally Authorized Dismantling Enterprises specialize in dismantling old appliances according to environmental and legal standards.</data>
+  <data key="d3">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806642</data>
+</node>
+<node id="济南活动会场">
+  <data key="d0">济南活动会场</data>
+  <data key="d1">location</data>
+  <data key="d2">济南活动会场serves as the designated venue on multiple platforms for consumers to participate in the subsidy program.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806643</data>
+</node>
+<node id="银联云闪付">
+  <data key="d0">银联云闪付</data>
+  <data key="d1">method</data>
+  <data key="d2">银联云闪付is a payment method required to complete orders and qualify for the subsidy program.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806643</data>
+</node>
+<node id="Subsidy Program">
+  <data key="d0">Subsidy Program</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Subsidy Program provides financial incentives to consumers purchasing designated products under specific rules within designated platforms and locations.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806643</data>
+</node>
+<node id="家电产品">
+  <data key="d0">家电产品</data>
+  <data key="d1">category</data>
+  <data key="d2">家电产品are eligible products such as air conditioners that qualify for the subsidy program under specific rules.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806643</data>
+</node>
+<node id="抖音">
+  <data key="d0">抖音</data>
+  <data key="d1">organization</data>
+  <data key="d2">抖音provides customer service for users, reachable at 95152.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806644</data>
+</node>
+<node id="拼多多">
+  <data key="d0">拼多多</data>
+  <data key="d1">organization</data>
+  <data key="d2">拼多多provides customer service via phone support at 02153395288.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806644</data>
+</node>
+<node id="补贴资格">
+  <data key="d0">补贴资格</data>
+  <data key="d1">concept</data>
+  <data key="d2">补贴资格refers to the eligibility criteria that a consumer must meet to benefit from the subsidy program associated with the purchase of specific products.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806644</data>
+</node>
+<node id="购机通">
+  <data key="d0">购机通</data>
+  <data key="d1">application</data>
+  <data key="d2">购机通is a WeChat mini-program that consumers use to access能良's subsidy program features for济南活动会场.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806644</data>
+</node>
+<node id="荣耀商城">
+  <data key="d0">荣耀商城</data>
+  <data key="d1">application</data>
+  <data key="d2">荣耀商城is a WeChat mini-program operated by荣耀where consumers can access activities related to the subsidy program in济南活动会场.</data>
+  <data key="d3">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806645</data>
+</node>
+<node id="Shandong Household Appliance Old-for-New Qualification Verification System">
+  <data key="d0">Shandong Household Appliance Old-for-New Qualification Verification System</data>
+  <data key="d1">organization</data>
+  <data key="d2">Shandong Household Appliance Old-for-New Qualification Verification System is a system used for reporting and verifying qualifications under the old-for-new appliance policy in Shandong Province.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806645</data>
+</node>
+<node id="Old-for-New Appliance Replacement Policy">
+  <data key="d0">Old-for-New Appliance Replacement Policy</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Old-for-New Appliance Replacement Policy encourages consumers to replace old appliances with new ones by offering subsidies and other incentives.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806645</data>
+</node>
+<node id="Super-Long-Term Special Treasury Bonds">
+  <data key="d0">Super-Long-Term Special Treasury Bonds</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Super-Long-Term Special Treasury Bonds are funds allocated to support initiatives like the Old-for-New Appliance Replacement Policy under the responsibility of city governments.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806645</data>
+</node>
+<node id="Jinan City People's Government">
+  <data key="d0">Jinan City People's Government</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jinan City People's Government is the primary entity responsible for managing the subsidies and funding for the Old-for-New Appliance Replacement Policy at the city level.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806646</data>
+</node>
+<node id="Central and Local Funding">
+  <data key="d0">Central and Local Funding</data>
+  <data key="d1">concept</data>
+  <data key="d2">Central and Local Funding refers to the financial resources provided by both central and local governments to support the execution of the Old-for-New Appliance Replacement Policy.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806646</data>
+</node>
+<node id="Jinan City &quot;Quancheng Gou&quot; Service Platform">
+  <data key="d0">Jinan City "Quancheng Gou" Service Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jinan City "Quancheng Gou" Service Platform is an online platform where consumers can access services such as subsidy qualifications and old appliance recycling related to the Old-for-New Appliance Replacement Policy.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806646</data>
+</node>
+<node id="Jinan City Bureau of Commerce">
+  <data key="d0">Jinan City Bureau of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jinan City Bureau of Commerce is responsible for organizing the implementation of the Old-for-New Appliance Replacement Policy and coordinating with relevant departments to ensure subsidy distribution.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806647</data>
+</node>
+<node id="Jinan Municipal Bureau of Finance">
+  <data key="d0">Jinan Municipal Bureau of Finance</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jinan Municipal Bureau of Finance oversees the supervision and allocation of subsidy funds for the Old-for-New Appliance Replacement Policy.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806647</data>
+</node>
+<node id="Jinan City Market Supervision Administration">
+  <data key="d0">Jinan City Market Supervision Administration</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jinan City Market Supervision Administration ensures the quality and price compliance of new appliances under the subsidy program and investigates fraudulent activities.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806647</data>
+</node>
+<node id="Third-Party Professional Agencies">
+  <data key="d0">Third-Party Professional Agencies</data>
+  <data key="d1">organization</data>
+  <data key="d2">Third-Party Professional Agencies are external organizations hired to audit and verify the compliance and legitimacy of the Old-for-New subsidy work in different cities.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806647</data>
+</node>
+<node id="Household Appliances">
+  <data key="d0">Household Appliances</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Household Appliances include fridges, washing machines, air conditioners, televisions, and more, qualifying for subsidies under the Old-for-New policy.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806647</data>
+</node>
+<node id="Energy-Efficiency Levels">
+  <data key="d0">Energy-Efficiency Levels</data>
+  <data key="d1">concept</data>
+  <data key="d2">Energy-Efficiency Levels refer to the grading of appliances based on their energy or water efficiency, which determines subsidy rates under the policy.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806647</data>
+</node>
+<node id="Crimes Through Fraudulent Activities">
+  <data key="d0">Crimes Through Fraudulent Activities</data>
+  <data key="d1">concept</data>
+  <data key="d2">Crimes Through Fraudulent Activities encompass actions like forging documents, manipulating transactions, and other illegal methods to obtain subsidies fraudulently.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806648</data>
+</node>
+<node id="2025 Jinan Old-for-New Subsidy Program">
+  <data key="d0">2025 Jinan Old-for-New Subsidy Program</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 Jinan Old-for-New Subsidy Program offers financial incentives for consumers in Jinan City to replace old appliances with new, more efficient ones.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806648</data>
+</node>
+<node id="Shandong Province Department of Commerce">
+  <data key="d0">Shandong Province Department of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">Shandong Province Department of Commerce is responsible for coordinating and supervising the Old-for-New Appliance Replacement Policy and conducting compliance checks with other agencies.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806648</data>
+</node>
+<node id="Shandong Province Department of Finance">
+  <data key="d0">Shandong Province Department of Finance</data>
+  <data key="d1">organization</data>
+  <data key="d2">Shandong Province Department of Finance collaborates with the Department of Commerce and other parties to audit and monitor subsidy compliance.</data>
+  <data key="d3">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806648</data>
+</node>
+<node id="Jinan">
+  <data key="d0">Jinan</data>
+  <data key="d1">location</data>
+  <data key="d2">Jinan is a city where the 2025 electronic product purchase subsidy activity is announced and implemented.&lt;SEP&gt;Jinan is the city hosting the 2025 online home appliance trade-in subsidy program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a&lt;SEP&gt;chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806649</data>
+</node>
+<node id="2025 Electronic Product Purchase Subsidy Activity">
+  <data key="d0">2025 Electronic Product Purchase Subsidy Activity</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 subsidy activity in Jinan provides financial support for purchasing mobile phones, tablets, and smart watches (smart bands) with specific eligibility and guidelines.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806649</data>
+</node>
+<node id="Cloud Flash Pay">
+  <data key="d0">Cloud Flash Pay</data>
+  <data key="d1">method</data>
+  <data key="d2">Cloud Flash Pay is a payment application platform used for consumers to access the subsidy qualification.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806649</data>
+</node>
+<node id="WeChat">
+  <data key="d0">WeChat</data>
+  <data key="d1">method</data>
+  <data key="d2">WeChat is a versatile communication app used to access the Jinan subsidy platform for electronic products.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806649</data>
+</node>
+<node id="Quancheng Purchase Service Platform">
+  <data key="d0">Quancheng Purchase Service Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Quancheng Purchase Service Platform is an online module in Jinan's subsidy activity for electronic products, allowing consumers to apply for and use subsidies.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806649</data>
+</node>
+<node id="Jinan Municipal Commerce Bureau">
+  <data key="d0">Jinan Municipal Commerce Bureau</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Jinan Municipal Commerce Bureau oversees the implementation of the subsidy activity and specifies participating enterprises.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806650</data>
+</node>
+<node id="Mobile Phone">
+  <data key="d0">Mobile Phone</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Mobile phones are one of the eligible electronic products for subsidy under the 2025 activity.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806650</data>
+</node>
+<node id="Tablet">
+  <data key="d0">Tablet</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Tablets are digital devices eligible for subsidy under Jinan's 2025 activity.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806650</data>
+</node>
+<node id="Smart Watch (Smart Band)">
+  <data key="d0">Smart Watch (Smart Band)</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Smart watches and smart bands are electronic devices eligible for subsidy under the 2025 activity.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806650</data>
+</node>
+<node id="Electronic Products Subsidy Guidelines">
+  <data key="d0">Electronic Products Subsidy Guidelines</data>
+  <data key="d1">content</data>
+  <data key="d2">Guidelines dictate the eligibility criteria, amount, timeline, and rules for consumers to benefit from the subsidy.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806651</data>
+</node>
+<node id="Fraudulent Activity Prevention Measures">
+  <data key="d0">Fraudulent Activity Prevention Measures</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fraud prevention measures include strict actions against fake transactions and misuse during the subsidy activity.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806651</data>
+</node>
+<node id="Government Subsidy Funds">
+  <data key="d0">Government Subsidy Funds</data>
+  <data key="d1">concept</data>
+  <data key="d2">Government subsidy funds are allocated to support the purchase of eligible electronic products, ensuring benefit to consumers.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806651</data>
+</node>
+<node id="Funds Utilization Requirements">
+  <data key="d0">Funds Utilization Requirements</data>
+  <data key="d1">concept</data>
+  <data key="d2">The requirements focus on scientific and precise use of funds to prevent misuse, such as invoice splitting or fake transactions.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806651</data>
+</node>
+<node id="Provincial Department of Commerce">
+  <data key="d0">Provincial Department of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Provincial Department of Commerce collaborates with the Provincial Department of Finance to supervise subsidy activities and ensure compliance.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806651</data>
+</node>
+<node id="Provincial Department of Finance">
+  <data key="d0">Provincial Department of Finance</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Provincial Department of Finance works with the Provincial Department of Commerce to oversee the subsidy allocation and proper use of funds.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806652</data>
+</node>
+<node id="Third-Party Professional Organization">
+  <data key="d0">Third-Party Professional Organization</data>
+  <data key="d1">organization</data>
+  <data key="d2">Third-party professional organizations are hired to conduct audits and inspections of the subsidy activities’ processes and compliance.</data>
+  <data key="d3">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806652</data>
+</node>
+<node id="Jinan City 2025 Online Home Appliance Trade-In Subsidy Program">
+  <data key="d0">Jinan City 2025 Online Home Appliance Trade-In Subsidy Program</data>
+  <data key="d1">event</data>
+  <data key="d2">Jinan City 2025 Online Home Appliance Trade-In Subsidy Program is a citywide initiative in Jinan focused on providing financial incentives for purchasing new appliances while trading in old ones.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806652</data>
+</node>
+<node id="Personal Consumers">
+  <data key="d0">Personal Consumers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Personal consumers are individuals eligible to participate in Jinan City’s home appliance trade-in program and receive subsidies on qualified purchases.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806652</data>
+</node>
+<node id="Refrigerators">
+  <data key="d0">Refrigerators</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Refrigerators are one of 12 categories of appliances eligible for the Jinan City subsidy program, including various types like freezer boxes and cooling cabinets.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806652</data>
+</node>
+<node id="Washing Machines">
+  <data key="d0">Washing Machines</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Washing machines and associated appliances such as dryers and washer-dryer combos are eligible products for the subsidy program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806653</data>
+</node>
+<node id="Televisions">
+  <data key="d0">Televisions</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Televisions, including smart screens and laser TVs, are eligible for subsidies under Jinan City’s trade-in program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806653</data>
+</node>
+<node id="Air Conditioners">
+  <data key="d0">Air Conditioners</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Air conditioners, including central air conditioning systems and duct machines, are eligible for the Jinan city trade-in subsidy program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806653</data>
+</node>
+<node id="Computers">
+  <data key="d0">Computers</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Computers, both desktop and laptops sold as complete branded sets, are eligible for the trade-in subsidy program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806653</data>
+</node>
+<node id="Gas Water Heaters">
+  <data key="d0">Gas Water Heaters</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Gas water heaters and other heating appliances are covered under the home appliance subsidy program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806653</data>
+</node>
+<node id="Household Stove Sets">
+  <data key="d0">Household Stove Sets</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Integrated household stove sets are eligible for subsidies under the trade-in program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806654</data>
+</node>
+<node id="Dishwashers">
+  <data key="d0">Dishwashers</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Dishwashers are one of the appliance categories included in Jinan City’s 2025 trade-in subsidy program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806654</data>
+</node>
+<node id="Microwave Ovens">
+  <data key="d0">Microwave Ovens</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Microwave ovens are a category of eligible appliances in the Jinan City program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806654</data>
+</node>
+<node id="Electric Rice Cookers">
+  <data key="d0">Electric Rice Cookers</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Electric rice cookers are eligible appliances in the subsidy program under Jinan City’s 2025 initiative.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806655</data>
+</node>
+<node id="Taobao And Tmall Platform">
+  <data key="d0">Taobao And Tmall Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">Taobao and Tmall Platform are e-commerce platforms participating in the Jinan City trade-in subsidy program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806655</data>
+</node>
+<node id="Suning Purchase Platform">
+  <data key="d0">Suning Purchase Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">Suning Purchase Platform is an e-commerce website included in the subsidy scheme for the trade-in appliance program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806655</data>
+</node>
+<node id="Douyin Platform">
+  <data key="d0">Douyin Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">Douyin Platform is one of the participating e-commerce platforms for Jinan City's trade-in subsidies.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806655</data>
+</node>
+<node id="Pinduoduo Platform">
+  <data key="d0">Pinduoduo Platform</data>
+  <data key="d1">organization</data>
+  <data key="d2">Pinduoduo Platform is part of Jinan City's home appliance trade-in subsidy initiative.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806655</data>
+</node>
+<node id="Hot Water Heaters">
+  <data key="d0">Hot Water Heaters</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Hot water heaters, including gas water heaters, are eligible for subsidies under the trade-in program.</data>
+  <data key="d3">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806655</data>
+</node>
+<node id="Digital Product Subsidy Policy">
+  <data key="d0">Digital Product Subsidy Policy</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Digital Product Subsidy Policy is aimed at fostering economic growth by providing financial assistance for purchasing certain electronic consumer goods.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806655</data>
+</node>
+<node id="Smartphones">
+  <data key="d0">Smartphones</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Smartphones are a category of digital devices covered under the Digital Product Subsidy Policy.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806656</data>
+</node>
+<node id="Smart Watches and Smart Bands">
+  <data key="d0">Smart Watches and Smart Bands</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Smart Watches and Smart Bands are wearable electronic devices eligible for purchase subsidies.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806656</data>
+</node>
+<node id="National Development and Reform Commission">
+  <data key="d0">National Development and Reform Commission</data>
+  <data key="d1">organization</data>
+  <data key="d2">The National Development and Reform Commission is a Chinese government agency involved in issuing relevant consumer policies and guidelines.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806656</data>
+</node>
+<node id="Ministry of Finance">
+  <data key="d0">Ministry of Finance</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Ministry of Finance is a Chinese government department that co-issued notices regarding large-scale equipment renewal and consumer goods subsidies.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806657</data>
+</node>
+<node id="Commerce Ministry">
+  <data key="d0">Commerce Ministry</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Commerce Ministry is overseeing the implementation plan for digital device subsidies, coordinating with other departments.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806657</data>
+</node>
+<node id="Central Government Special Bonds">
+  <data key="d0">Central Government Special Bonds</data>
+  <data key="d1">concept</data>
+  <data key="d2">Central Government Special Bonds are financial instruments for funding national initiatives, including subsidy programs.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806657</data>
+</node>
+<node id="SN Code">
+  <data key="d0">SN Code</data>
+  <data key="d1">data</data>
+  <data key="d2">SN Code is a unique serial number required for verifying digital product purchases in the subsidy program.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806657</data>
+</node>
+<node id="IMEI Code">
+  <data key="d0">IMEI Code</data>
+  <data key="d1">data</data>
+  <data key="d2">IMEI Code is a unique identifier assigned to smartphone devices, used in product verification processes.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806657</data>
+</node>
+<node id="Local City Platforms">
+  <data key="d0">Local City Platforms</data>
+  <data key="d1">organization</data>
+  <data key="d2">Local City Platforms are technological systems implemented at the municipal level for processing subsidy applications and payments.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806658</data>
+</node>
+<node id="Cybersecurity Features">
+  <data key="d0">Cybersecurity Features</data>
+  <data key="d1">concept</data>
+  <data key="d2">Cybersecurity Features include mechanisms to ensure data protection and secure transactions during the subsidy program.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806658</data>
+</node>
+<node id="Local Governments">
+  <data key="d0">Local Governments</data>
+  <data key="d1">organization</data>
+  <data key="d2">Local Governments are responsible for implementing, managing, and safeguarding subsidy disbursement and financial operations.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806658</data>
+</node>
+<node id="Central Government">
+  <data key="d0">Central Government</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Central Government is the main administrative body providing oversight for subsidy distribution policies and funds in China.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806658</data>
+</node>
+<node id="Fraud Prevention Systems">
+  <data key="d0">Fraud Prevention Systems</data>
+  <data key="d1">method</data>
+  <data key="d2">Fraud Prevention Systems use big data and cross-verification to combat false claims and abuse within the subsidy program.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806659</data>
+</node>
+<node id="Business Operators">
+  <data key="d0">Business Operators</data>
+  <data key="d1">organization</data>
+  <data key="d2">Business Operators are entities participating in the subsidy program whose products and transactions are subject to verification and management.</data>
+  <data key="d3">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d4">digital_household.docx</data>
+  <data key="d5">1759806659</data>
+</node>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Phones">
+  <data key="d6">1.0</data>
+  <data key="d7">Phones are one of the eligible products under Jinan City's subsidy activity, with a price cap of 6000 yuan.</data>
+  <data key="d8">purchase eligibility,subsidy</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806660</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Tablets">
+  <data key="d6">1.0</data>
+  <data key="d7">Tablets are eligible products in the subsidy program with pricing capped at 6000 yuan per unit.</data>
+  <data key="d8">purchase eligibility,subsidy</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806662</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Smartwatches">
+  <data key="d6">1.0</data>
+  <data key="d7">Smartwatches are eligible under the subsidy program, capped at 6000 yuan for individual purchases.</data>
+  <data key="d8">purchase eligibility,subsidy</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806663</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="JD Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">The JD Platform is a participating platform for consumers to avail of Jinan City's subsidy.</data>
+  <data key="d8">platform participation,subsidy program</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806665</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Taobao &amp; Tmall Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Taobao &amp; Tmall Platform are part of the subsidy initiative, providing purchasing options for consumers.</data>
+  <data key="d8">e-commerce,platform participation</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806667</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Suning E-Commerce Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Suning E-Commerce Platform is included under the 3C subsidy activity in Jinan City.</data>
+  <data key="d8">platform inclusion,subsidy program</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806668</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Kuaishou Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Kuaishou Platform is one of the platforms listed for consumers to purchase subsidized products.</data>
+  <data key="d8">platform participation,social commerce</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806670</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Vipshop Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Vipshop Platform is included in Jinan City's subsidy program for 3C products.</data>
+  <data key="d8">digital products,market eligibility</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806671</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Dewu Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Dewu Platform supports the trade-in program under Jinan City's subsidy initiative.</data>
+  <data key="d8">e-commerce,trade-in program</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806673</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Nengliang Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Nengliang Platform provides a mini-program for consumers to participate in the subsidy activity.</data>
+  <data key="d8">platform use,subsidy process</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806675</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Honor Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Honor Platform is included in the subsidy program using its own mini-program.</data>
+  <data key="d8">designated products,platform specificity</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806677</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Cloud QuickPass">
+  <data key="d6">1.0</data>
+  <data key="d7">Cloud QuickPass must be used as a payment method to avail of subsidies under the program.</data>
+  <data key="d8">payment requirement,subsidy</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806678</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Subsidy Qualification">
+  <data key="d6">1.0</data>
+  <data key="d7">Consumers must obtain a subsidy qualification to redeem discounts during the program.</data>
+  <data key="d8">consumer eligibility,program condition</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806680</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="Electronic Products">
+  <data key="d6">1.0</data>
+  <data key="d7">The subsidy activity is targeted at electronic products, providing discounts to consumers.</data>
+  <data key="d8">consumer benefits,subsidy eligibility</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806682</data>
+</edge>
+<edge source="Jinan City's 2025 Online 3C Product Purchase Subsidy Activity" target="E-Commerce Platforms">
+  <data key="d6">1.0</data>
+  <data key="d7">Various e-commerce platforms are critical participants in implementing the subsidy program.</data>
+  <data key="d8">digital marketplace,platform involvement</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806683</data>
+</edge>
+<edge source="Jinan City" target="Shandong Province">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan City is a location within Shandong Province hosting the subsidy activity.</data>
+  <data key="d8">administrative scope,geographical location</data>
+  <data key="d9">chunk-845f0d63cf33fd2cd2fea3886bffcd80</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806670</data>
+</edge>
+<edge source="Tablets" target="Digital Product Subsidy Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">Tablets are included as eligible products in the subsidy program.</data>
+  <data key="d8">consumer products,eligibility criteria</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806723</data>
+</edge>
+<edge source="JD Platform" target="Personal Consumers">
+  <data key="d6">1.0</data>
+  <data key="d7">JD Platform is one of the platforms where personal consumers can claim subsidies for home appliance purchases.</data>
+  <data key="d8">shopping channel,subsidy claim</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806720</data>
+</edge>
+<edge source="Vipshop Platform" target="Jinan City 2025 Online Home Appliance Trade-In Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Vipshop Platform is part of the e-commerce channels for facilitating the appliance subsidy program.</data>
+  <data key="d8">online commerce,subsidy support</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806713</data>
+</edge>
+<edge source="Dewu Platform" target="Jinan City 2025 Online Home Appliance Trade-In Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Dewu Platform enables subsidy claims for home appliances in Jinan’s program.</data>
+  <data key="d8">platform participant,trade-in program</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806715</data>
+</edge>
+<edge source="Subsidy Qualification" target="Home Appliance Trade-In Program">
+  <data key="d6">1.0</data>
+  <data key="d7">The Home Appliance Trade-In Program is based on Subsidy Qualification criteria to determine consumer eligibility.</data>
+  <data key="d8">eligibility,subsidy allocation</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806683</data>
+</edge>
+<edge source="Subsidy Qualification" target="12 Appliance Categories Database">
+  <data key="d6">1.0</data>
+  <data key="d7">The database helps define qualifications for energy-efficient appliances under the subsidy criteria.</data>
+  <data key="d8">energy efficiency,subsidy criteria</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806686</data>
+</edge>
+<edge source="Subsidy Qualification" target="Jinan City People's Government">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan City People's Government oversees the management and distribution of subsidy qualifications for the Old-for-New Appliance Replacement Policy.</data>
+  <data key="d8">management,responsibility</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806693</data>
+</edge>
+<edge source="Subsidy Qualification" target="Jinan City &quot;Quancheng Gou&quot; Service Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Consumers can verify and access their subsidy qualifications via the Jinan City "Quancheng Gou" Service Platform.</data>
+  <data key="d8">access,eligibility verification</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806695</data>
+</edge>
+<edge source="Shandong Province" target="Digital Product Subsidy Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">Shandong Province is implementing this subsidy policy to encourage consumer spending on electronic devices.</data>
+  <data key="d8">economic growth,policy implementation</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806720</data>
+</edge>
+<edge source="Shandong Province" target="Local City Platforms">
+  <data key="d6">1.0</data>
+  <data key="d7">Local City Platforms in Shandong Province manage subsidy applications and payment distribution.</data>
+  <data key="d8">administrative management,subsidy processing</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806727</data>
+</edge>
+<edge source="济南市" target="消费者">
+  <data key="d6">1.0</data>
+  <data key="d7">Consumers in济南市are eligible for government subsidies, but they cannot claim this subsidy type in other regions.</data>
+  <data key="d8">government subsidy,purchasing limitation</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806673</data>
+</edge>
+<edge source="京东" target="消费者">
+  <data key="d6">1.0</data>
+  <data key="d7">京东provides consumer service support via its hotline for online shopping.</data>
+  <data key="d8">customer service,e-commerce interaction</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806674</data>
+</edge>
+<edge source="唯品会" target="济南活动会场">
+  <data key="d6">1.0</data>
+  <data key="d7">唯品会directs consumers to济南活动会场to qualify for the subsidy program.</data>
+  <data key="d8">platform venue,program participation</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806688</data>
+</edge>
+<edge source="得物" target="济南活动会场">
+  <data key="d6">1.0</data>
+  <data key="d7">得物provides access to济南活动会场for subsidy program participation.</data>
+  <data key="d8">platform venue,program participation</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806690</data>
+</edge>
+<edge source="能良" target="济南活动会场">
+  <data key="d6">1.0</data>
+  <data key="d7">能良allows consumers to join activities at济南活动会场via the购机通WeChat mini-program.</data>
+  <data key="d8">platform venue,program participation</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806691</data>
+</edge>
+<edge source="荣耀" target="济南活动会场">
+  <data key="d6">1.0</data>
+  <data key="d7">荣耀directs consumers to济南活动会场for engaging in the subsidy program via their mini-program interface.</data>
+  <data key="d8">platform venue,program participation</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806693</data>
+</edge>
+<edge source="山东省家电以旧换新实施方案" target="省委、省政府">
+  <data key="d6">1.0</data>
+  <data key="d7">省委、省政府are responsible for implementing the山东省家电以旧换新实施方案.</data>
+  <data key="d8">implementation,policy coordination</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806675</data>
+</edge>
+<edge source="山东省家电以旧换新实施方案" target="净水器">
+  <data key="d6">1.0</data>
+  <data key="d7">净水器is newly added to the list of home appliances eligible for trade-in subsidies in山东省家电以旧换新实施方案.</data>
+  <data key="d8">new policy addition,trade-in subsidy</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806677</data>
+</edge>
+<edge source="山东省家电以旧换新实施方案" target="洗碗机">
+  <data key="d6">1.0</data>
+  <data key="d7">洗碗机is newly added to the list of home appliances eligible for trade-in subsidies in山东省家电以旧换新实施方案.</data>
+  <data key="d8">new policy addition,trade-in subsidy</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806678</data>
+</edge>
+<edge source="山东省家电以旧换新实施方案" target="微波炉">
+  <data key="d6">1.0</data>
+  <data key="d7">微波炉is newly added to the list of home appliances eligible for trade-in subsidies in山东省家电以旧换新实施方案.</data>
+  <data key="d8">new policy addition,trade-in subsidy</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806680</data>
+</edge>
+<edge source="山东省家电以旧换新实施方案" target="电饭煲">
+  <data key="d6">1.0</data>
+  <data key="d7">电饭煲is newly added to the list of home appliances eligible for trade-in subsidies in山东省家电以旧换新实施方案.</data>
+  <data key="d8">new policy addition,trade-in subsidy</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806682</data>
+</edge>
+<edge source="山东省家电以旧换新实施方案" target="习近平新时代中国特色社会主义思想">
+  <data key="d6">1.0</data>
+  <data key="d7">The山东省家电以旧换新实施方案is developed under the guidance of习近平新时代中国特色社会主义思想.</data>
+  <data key="d8">ideological basis,policy guidance</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806683</data>
+</edge>
+<edge source="山东省家电以旧换新实施方案" target="党的二十大">
+  <data key="d6">1.0</data>
+  <data key="d7">党的二十大influenced the formulation of the山东省家电以旧换新实施方案for expanding consumer demand.</data>
+  <data key="d8">ideological direction,policy influence</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806687</data>
+</edge>
+<edge source="山东省家电以旧换新实施方案" target="二十届二中、三中全会">
+  <data key="d6">1.0</data>
+  <data key="d7">The二十届二中、三中全会provided foundational guidelines for the development of the山东省家电以旧换新实施方案.</data>
+  <data key="d8">policy foundation,reform agenda</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806688</data>
+</edge>
+<edge source="国家发展改革委" target="商办流通函〔2025〕6号">
+  <data key="d6">1.0</data>
+  <data key="d7">国家发展改革委issued商办流通函〔2025〕6号for implementing large-scale trade-in initiatives.</data>
+  <data key="d8">policy directive,trade-in funding</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806676</data>
+</edge>
+<edge source="财政部" target="国家特别国债">
+  <data key="d6">1.0</data>
+  <data key="d7">财政部uses国家特别国债funds to support trade-in policies as part of the program.</data>
+  <data key="d8">fund allocation,policy implementation</data>
+  <data key="d9">chunk-1f4113e0d87f17983af7cd7b4224d627</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806677</data>
+</edge>
+<edge source="空调" target="补贴资格">
+  <data key="d6">1.0</data>
+  <data key="d7">空调is included in the category of products for which补贴资格allows up to three units to be subsidized.</data>
+  <data key="d8">product eligibility,program rules</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806694</data>
+</edge>
+<edge source="Shandong Province Home Appliance Trade-In Qualification Verification System" target="Central Government-Level Home Appliance Trade-In Subsidy Qualification Verification System">
+  <data key="d6">1.0</data>
+  <data key="d7">The Shandong Province system connects with the central system to align and update information on subsidy qualifications.</data>
+  <data key="d8">data integration,real-time reporting</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806682</data>
+</edge>
+<edge source="Shandong Province Home Appliance Trade-In Qualification Verification System" target="Home Appliance Trade-In Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">The Shandong Province system shares necessary real-time data with municipal-level platforms to maintain consistency.</data>
+  <data key="d8">data sharing,subsidy verification</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806683</data>
+</edge>
+<edge source="Home Appliance Trade-In Program" target="State Subsidy Standards">
+  <data key="d6">1.0</data>
+  <data key="d7">The program follows guidelines defined under the State Subsidy Standards for allocating subsidies.</data>
+  <data key="d8">guidelines,subsidy management</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806686</data>
+</edge>
+<edge source="Home Appliance Trade-In Program" target="2025 Trade-In Deadline">
+  <data key="d6">1.0</data>
+  <data key="d7">The deadline ensures compliance with the program timeline and final delivery milestones.</data>
+  <data key="d8">policy enforcement,program timeline</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806687</data>
+</edge>
+<edge source="Home Appliance Trade-In Program" target="Appliance Sales Enterprises">
+  <data key="d6">1.0</data>
+  <data key="d7">Appliance Sales Enterprises play a critical role in implementing the Home Appliance Trade-In Program by serving as key trade-in hubs.</data>
+  <data key="d8">consumer engagement,program participation</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806693</data>
+</edge>
+<edge source="Home Appliance Recycling System" target="Home Appliance Manufacturers">
+  <data key="d6">1.0</data>
+  <data key="d7">Home Appliance Manufacturers collaborate with the recycling system for proper disposal and recycling of old appliances.</data>
+  <data key="d8">recycling,waste management</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806683</data>
+</edge>
+<edge source="Home Appliance Recycling System" target="Home Appliance Maintenance Network">
+  <data key="d6">1.0</data>
+  <data key="d7">The maintenance network is aligned with the recycling system to improve ease of access and disposal for consumers.</data>
+  <data key="d8">consumer convenience,service integration</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806687</data>
+</edge>
+<edge source="Risk Prevention Measures" target="Provincial Commerce Departments">
+  <data key="d6">1.0</data>
+  <data key="d7">Risk prevention is overseen by provincial departments to ensure program compliance.</data>
+  <data key="d8">compliance monitoring,policy implementation</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806686</data>
+</edge>
+<edge source="Counterfeit Deterrence Policies" target="Consumer Complaint Channels">
+  <data key="d6">1.0</data>
+  <data key="d7">Consumer complaint mechanisms support the implementation of counterfeit deterrence and fraud prevention policies.</data>
+  <data key="d8">accountability,fraud prevention</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806685</data>
+</edge>
+<edge source="Modern Trade Circulation System Trial Cities" target="County-Level Commercial System Construction Funding">
+  <data key="d6">1.0</data>
+  <data key="d7">Trial cities use county-level funding to develop recycling systems and infrastructure, including old appliance collection networks.</data>
+  <data key="d8">financial support,infrastructure development</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806687</data>
+</edge>
+<edge source="Appliance Sales Enterprises" target="Legally Authorized Dismantling Enterprises">
+  <data key="d6">1.0</data>
+  <data key="d7">Appliance Sales Enterprises hand over collected old appliances to dismantling enterprises for compliant processing.</data>
+  <data key="d8">compliance,recycling</data>
+  <data key="d9">chunk-febf6109f34913ae55354e7147217954</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806687</data>
+</edge>
+<edge source="济南活动会场" target="Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">济南活动会场is a designated venue for carrying out activities under the subsidy program across multiple platforms.</data>
+  <data key="d8">event venue,financial incentive</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806695</data>
+</edge>
+<edge source="银联云闪付" target="Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">银联云闪付is necessary for completing transactions under the subsidy program's requirements.</data>
+  <data key="d8">payment method,program qualification</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806689</data>
+</edge>
+<edge source="Subsidy Program" target="家电产品">
+  <data key="d6">1.0</data>
+  <data key="d7">家电产品are eligible items qualifying for the subsidy program when purchased individually.</data>
+  <data key="d8">financial incentive,product eligibility</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806698</data>
+</edge>
+<edge source="补贴资格" target="购机通">
+  <data key="d6">1.0</data>
+  <data key="d7">购机通is a mini-program used by consumers to verify or utilize their补贴资格under能良's platform.</data>
+  <data key="d8">application process,eligibility</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806691</data>
+</edge>
+<edge source="补贴资格" target="荣耀商城">
+  <data key="d6">1.0</data>
+  <data key="d7">荣耀商城is used by consumers to access补贴资格features for their purchases on荣耀's platform.</data>
+  <data key="d8">application process,eligibility</data>
+  <data key="d9">chunk-264a919748dd9de4825b5d57cf16c5fa</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806693</data>
+</edge>
+<edge source="Shandong Household Appliance Old-for-New Qualification Verification System" target="Old-for-New Appliance Replacement Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Shandong Household Appliance Old-for-New Qualification Verification System is used for verifying qualifications under the Old-for-New Appliance Replacement Policy.</data>
+  <data key="d8">policy implementation,reporting</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806693</data>
+</edge>
+<edge source="Shandong Household Appliance Old-for-New Qualification Verification System" target="Shandong Province Department of Commerce">
+  <data key="d6">1.0</data>
+  <data key="d7">The Shandong Province Department of Commerce supervises the implementation of the appliance verification system used for the Old-for-New Appliance Replacement Policy.</data>
+  <data key="d8">coordination,policy supervision</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806696</data>
+</edge>
+<edge source="Super-Long-Term Special Treasury Bonds" target="Jinan City People's Government">
+  <data key="d6">1.0</data>
+  <data key="d7">Super-Long-Term Special Treasury Bonds provide funding to the Jinan City People's Government for implementing the Old-for-New Appliance Replacement Policy.</data>
+  <data key="d8">fund allocation,policy support</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806695</data>
+</edge>
+<edge source="Jinan City Bureau of Commerce" target="Third-Party Professional Agencies">
+  <data key="d6">1.0</data>
+  <data key="d7">Third-Party Professional Agencies are engaged by the Jinan City Bureau of Commerce to audit Old-for-New subsidy operations.</data>
+  <data key="d8">auditing,evaluation</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806695</data>
+</edge>
+<edge source="Household Appliances" target="Energy-Efficiency Levels">
+  <data key="d6">1.0</data>
+  <data key="d7">The eligibility of household appliances for subsidies depends on their energy-efficiency levels.</data>
+  <data key="d8">efficiency standards,subsidy eligibility</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806695</data>
+</edge>
+<edge source="Crimes Through Fraudulent Activities" target="2025 Jinan Old-for-New Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">The 2025 Jinan Old-for-New Subsidy Program incorporates measures to prevent crimes through fraudulent activities, such as forged transactions.</data>
+  <data key="d8">policy abuse,sanctioning</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806695</data>
+</edge>
+<edge source="Shandong Province Department of Commerce" target="Shandong Province Department of Finance">
+  <data key="d6">1.0</data>
+  <data key="d7">The Shandong Province Department of Commerce works together with the Department of Finance for auditing compliance in subsidy allocation under the Old-for-New policy.</data>
+  <data key="d8">audit collaboration,subsidy compliance</data>
+  <data key="d9">chunk-8eca60ca704f92814b12c8e1c18713f5</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806697</data>
+</edge>
+<edge source="Jinan" target="2025 Electronic Product Purchase Subsidy Activity">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan serves as the location for the implementation of the 2025 subsidy activity for electronic products.</data>
+  <data key="d8">location,policy enforcement</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806697</data>
+</edge>
+<edge source="Jinan" target="Jinan City 2025 Online Home Appliance Trade-In Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">The subsidy program is specific to Jinan and aims to benefit local consumers.</data>
+  <data key="d8">event location,local initiative</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806702</data>
+</edge>
+<edge source="2025 Electronic Product Purchase Subsidy Activity" target="Mobile Phone">
+  <data key="d6">1.0</data>
+  <data key="d7">Mobile phones are eligible for subsidies as part of the 2025 activity in Jinan.</data>
+  <data key="d8">eligibility,subsidy</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806699</data>
+</edge>
+<edge source="2025 Electronic Product Purchase Subsidy Activity" target="Tablet">
+  <data key="d6">1.0</data>
+  <data key="d7">Tablets are eligible for subsidies as part of the 2025 activity in Jinan.</data>
+  <data key="d8">eligibility,subsidy</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806700</data>
+</edge>
+<edge source="2025 Electronic Product Purchase Subsidy Activity" target="Smart Watch (Smart Band)">
+  <data key="d6">1.0</data>
+  <data key="d7">Smart watches and smart bands are eligible under the 2025 subsidy activity.</data>
+  <data key="d8">eligibility,subsidy</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806703</data>
+</edge>
+<edge source="2025 Electronic Product Purchase Subsidy Activity" target="Fraudulent Activity Prevention Measures">
+  <data key="d6">1.0</data>
+  <data key="d7">Fraudulent activity prevention measures are enforced for the security of the subsidy activity’s funds.</data>
+  <data key="d8">fraud prevention,security measures</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806705</data>
+</edge>
+<edge source="2025 Electronic Product Purchase Subsidy Activity" target="Electronic Products Subsidy Guidelines">
+  <data key="d6">1.0</data>
+  <data key="d7">The subsidy guidelines define the rules, eligibility criteria, and processes for consumers participating in the 2025 activity.</data>
+  <data key="d8">eligibility,guidelines</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806706</data>
+</edge>
+<edge source="Cloud Flash Pay" target="Quancheng Purchase Service Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Cloud Flash Pay is used through the Quancheng Purchase Service Platform to apply for subsidies.</data>
+  <data key="d8">application,subsidy procedure</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806697</data>
+</edge>
+<edge source="WeChat" target="Quancheng Purchase Service Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">WeChat is used to access the Quancheng Purchase Service Platform for subsidy applications.</data>
+  <data key="d8">application,subsidy procedure</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806699</data>
+</edge>
+<edge source="Quancheng Purchase Service Platform" target="Jinan Municipal Commerce Bureau">
+  <data key="d6">1.0</data>
+  <data key="d7">The Jinan Municipal Commerce Bureau oversees operations of the Quancheng Purchase Service Platform during the subsidy activity.</data>
+  <data key="d8">administration,oversight</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806701</data>
+</edge>
+<edge source="Government Subsidy Funds" target="Funds Utilization Requirements">
+  <data key="d6">1.0</data>
+  <data key="d7">Requirements are placed to ensure appropriate usage of government subsidy funds and prevent misuse.</data>
+  <data key="d8">financial regulation,misuse prevention</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806699</data>
+</edge>
+<edge source="Provincial Department of Commerce" target="Provincial Department of Finance">
+  <data key="d6">1.0</data>
+  <data key="d7">The Provincial Department of Commerce and Provincial Department of Finance jointly supervise the subsidy program and ensure proper fund allocation.</data>
+  <data key="d8">collaboration,oversight</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806700</data>
+</edge>
+<edge source="Provincial Department of Commerce" target="Third-Party Professional Organization">
+  <data key="d6">1.0</data>
+  <data key="d7">The Provincial Department of Commerce hires third-party professional organizations for auditing and monitoring subsidy activities.</data>
+  <data key="d8">auditing,oversight</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806703</data>
+</edge>
+<edge source="Provincial Department of Finance" target="Third-Party Professional Organization">
+  <data key="d6">1.0</data>
+  <data key="d7">The Provincial Department of Finance collaborates with third-party professional organizations for compliance checks on fund usage.</data>
+  <data key="d8">compliance,financial oversight</data>
+  <data key="d9">chunk-ca79cabbb1b23504872d920dcee1ec71</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806702</data>
+</edge>
+<edge source="Jinan City 2025 Online Home Appliance Trade-In Subsidy Program" target="Pinduoduo Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Pinduoduo Platform is one of the participants in the subsidy program for appliances.</data>
+  <data key="d8">online platform,program participant</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806711</data>
+</edge>
+<edge source="Jinan City 2025 Online Home Appliance Trade-In Subsidy Program" target="Computers">
+  <data key="d6">1.0</data>
+  <data key="d7">Computers are included in the list of appliance categories eligible for subsidies in Jinan City's trade-in program.</data>
+  <data key="d8">included category,subsidy offered</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806720</data>
+</edge>
+<edge source="Personal Consumers" target="Refrigerators">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers are eligible to claim subsidies for purchasing refrigerators under the program.</data>
+  <data key="d8">eligibility criteria,purchasing subsidies</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806703</data>
+</edge>
+<edge source="Personal Consumers" target="Washing Machines">
+  <data key="d6">1.0</data>
+  <data key="d7">Washing machines are eligible for subsidies as part of the incentive program targeting personal consumers.</data>
+  <data key="d8">appliance replacement,subsidy eligibility</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806704</data>
+</edge>
+<edge source="Personal Consumers" target="Televisions">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers can receive subsidies for purchasing televisions under the program.</data>
+  <data key="d8">eligible equipment,financial assistance</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806711</data>
+</edge>
+<edge source="Personal Consumers" target="Air Conditioners">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers are eligible for subsidies on replacing air conditioners under the Jinan program.</data>
+  <data key="d8">appliance eligibility,trade-in initiative</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806713</data>
+</edge>
+<edge source="Personal Consumers" target="Computers">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers benefit from subsidies for purchasing computers in the trade-in scheme.</data>
+  <data key="d8">financial incentive,trade-in subsidy</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806718</data>
+</edge>
+<edge source="Personal Consumers" target="Taobao And Tmall Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers can access the trade-in subsidy program using Taobao and Tmall Platform.</data>
+  <data key="d8">shopping facilitator,subsidy system</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806722</data>
+</edge>
+<edge source="Personal Consumers" target="Douyin Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Douyin Platform facilitates personal consumers participating in the subsidy program.</data>
+  <data key="d8">online commerce,program participant</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806724</data>
+</edge>
+<edge source="Personal Consumers" target="Suning Purchase Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">Suning Purchase Platform is a venue where personal consumers can access subsidies under the Jinan initiative.</data>
+  <data key="d8">e-commerce service,subsidy facilitation</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806726</data>
+</edge>
+<edge source="Personal Consumers" target="Hot Water Heaters">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers can receive subsidies for purchasing hot water heaters as part of the trade-in program.</data>
+  <data key="d8">appliance eligibility,program participation</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806727</data>
+</edge>
+<edge source="Personal Consumers" target="Electric Rice Cookers">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers can access subsidies for purchasing electric rice cookers under the trade-in initiative.</data>
+  <data key="d8">appliance purchase,subsidy access</data>
+  <data key="d9">chunk-4cf0e519187eb1777f56e94378fe1c9a</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806729</data>
+</edge>
+<edge source="Digital Product Subsidy Policy" target="Smartphones">
+  <data key="d6">1.0</data>
+  <data key="d7">Smartphones are one of the device categories eligible for subsidies under the policy.</data>
+  <data key="d8">consumer products,eligibility criteria</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806722</data>
+</edge>
+<edge source="Digital Product Subsidy Policy" target="Smart Watches and Smart Bands">
+  <data key="d6">1.0</data>
+  <data key="d7">Smart Watches and Smart Bands are wearable devices covered under the subsidy program.</data>
+  <data key="d8">eligibility criteria,wearable technology</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806725</data>
+</edge>
+<edge source="Digital Product Subsidy Policy" target="National Development and Reform Commission">
+  <data key="d6">1.0</data>
+  <data key="d7">The National Development and Reform Commission helps design and implement this subsidy policy.</data>
+  <data key="d8">policy coordination,regulatory oversight</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806727</data>
+</edge>
+<edge source="Digital Product Subsidy Policy" target="Commerce Ministry">
+  <data key="d6">1.0</data>
+  <data key="d7">The Commerce Ministry plays a key role in overseeing the application process for subsidy distribution.</data>
+  <data key="d8">coordination,implementation guidelines</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806729</data>
+</edge>
+<edge source="Digital Product Subsidy Policy" target="SN Code">
+  <data key="d6">1.0</data>
+  <data key="d7">SN Codes are used to validate the authenticity of eligible devices for subsidy claims.</data>
+  <data key="d8">digital products,verification process</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806731</data>
+</edge>
+<edge source="Digital Product Subsidy Policy" target="Fraud Prevention Systems">
+  <data key="d6">1.0</data>
+  <data key="d7">Fraud Prevention Systems are used to detect and prevent gaming of the subsidy program using big data analysis and verification methods.</data>
+  <data key="d8">anti-fraud,security measures</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806732</data>
+</edge>
+<edge source="Smartphones" target="IMEI Code">
+  <data key="d6">1.0</data>
+  <data key="d7">IMEI Codes are collected and used as part of the verification of smartphone transactions in the subsidy program.</data>
+  <data key="d8">device identification,transaction verification</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806726</data>
+</edge>
+<edge source="Commerce Ministry" target="Local Governments">
+  <data key="d6">1.0</data>
+  <data key="d7">The Commerce Ministry coordinates with Local Governments to implement the subsidy policies effectively in their regions.</data>
+  <data key="d8">oversight,policy implementation</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806731</data>
+</edge>
+<edge source="Commerce Ministry" target="Local City Platforms">
+  <data key="d6">1.0</data>
+  <data key="d7">Local City Platforms synchronize data and functionalities with the Commerce Ministry for managing subsidy-related activities.</data>
+  <data key="d8">data management,technical integration</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806733</data>
+</edge>
+<edge source="Local Governments" target="Central Government">
+  <data key="d6">1.0</data>
+  <data key="d7">Local Governments collaborate with the Central Government to manage funds and ensure smooth subsidy distribution at city levels.</data>
+  <data key="d8">administrative collaboration,subsidy management</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806728</data>
+</edge>
+<edge source="Local Governments" target="Business Operators">
+  <data key="d6">1.0</data>
+  <data key="d7">Business Operators are monitored by Local Governments for compliance with subsidy program rules, including accurate pricing and quality assurance.</data>
+  <data key="d8">policy compliance,transaction monitoring</data>
+  <data key="d9">chunk-c70268b1ba222088a7aef37dce1b03b8</data>
+  <data key="d10">digital_household.docx</data>
+  <data key="d11">1759806729</data>
+</edge>
+</graph></graphml>

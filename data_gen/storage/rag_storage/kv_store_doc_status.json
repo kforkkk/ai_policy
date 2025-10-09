@@ -1,0 +1,43 @@
+{
+  "doc-c1ee3d523e7dd25f7dfa529f886b5f07": {
+    "status": "processed",
+    "chunks_count": 24,
+    "chunks_list": [
+      "chunk-c70268b1ba222088a7aef37dce1b03b8",
+      "chunk-5a5a038e600e149378979937a23b3630",
+      "chunk-2bfa83d9436d810b79eb1ba5d96fabd0",
+      "chunk-dd32345aa1a43abb8e3483c93eeba321",
+      "chunk-c2e4d974b75da2fa02555d6e44fc42ad",
+      "chunk-bdd86d0c29910fb930eac770eb7ddf3e",
+      "chunk-3dc2a9444c10134380c0d68da38fe00a",
+      "chunk-612f76a4030c468ef237c12d5fb099c1",
+      "chunk-cc0f5eb1caa9080196e67e05a6f2e0cb",
+      "chunk-2999456b9a1a53b3d746563290229a71",
+      "chunk-4973e516fdf82a9de6393799b2bdfa6d",
+      "chunk-24bd13f377d16a2df901dc9fae31fdba",
+      "chunk-10c38e9f941f901222fce943cdef5e5c",
+      "chunk-1f5368f676a7dc627aaffd99cd24f251",
+      "chunk-48f3e2694c97482e5749430cb95db0e4",
+      "chunk-6e2c72d95376b53c3b8b111ed3e0328b",
+      "chunk-081ba555ef87bb336e34b8343776c043",
+      "chunk-567e13ca02a8f36abf2a8fe5277edb01",
+      "chunk-8bb52efa80d2089e9bc94c8ff59ed435",
+      "chunk-9e6985e167567cb9e6c615e92c4b6c03",
+      "chunk-cdd052c07d4704c67599354c101808ae",
+      "chunk-7a749330d5a056cf132acdab44153502",
+      "chunk-8a575f3931679e0e7f4a1271adaa9c2b",
+      "chunk-9a66ca9a28f8324b29eb63da72c60210"
+    ],
+    "content_summary": "（1）\n\n标题：山东省手机、平板、智能手表（手环）购新补贴实施细则，时间：2025/1/21，发布级别：省级文件，类型：电子产品\n\n内容：\n\n```\n\n\"为深入贯彻落实党中央、国务院决策部署，按照省委、省政府工作要求，顺应消费市场新形式新趋势，打造消费新增长点，进一步发挥消费在经济增长中的重要作用，根据国家发展改革委、财政部《关于2025年加力扩围实施大规模设备更新和消费品以旧换新政策的通知》（发改环资〔2025〕13号），商务部等5部门办公厅《关于印发<手机、平板、智能手表（手环）购新补贴实施...",
+    "content_length": 36158,
+    "created_at": "2025-10-06T03:38:41.640047+00:00",
+    "updated_at": "2025-10-06T11:45:04+00:00",
+    "file_path": "data.docx",
+    "track_id": "insert_20251006_113841_ca1a4a62",
+    "metadata": {
+      "processing_start_time": 1759721921,
+      "processing_end_time": 1759722304
+    },
+    "multimodal_processed": true
+  }
+}

@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="2025 Jinan Home Renovation and Furniture Subsidy Program">
+  <data key="d0">2025 Jinan Home Renovation and Furniture Subsidy Program</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 Jinan Home Renovation and Furniture Subsidy Program is a municipal initiative aimed at providing financial support for home improvement and furniture purchases through various subsidies.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806503</data>
+</node>
+<node id="Jinan">
+  <data key="d0">Jinan</data>
+  <data key="d1">location</data>
+  <data key="d2">Jinan is the city where the 2025 Home Renovation and Furniture Subsidy Program is implemented.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806503</data>
+</node>
+<node id="Personal Consumers">
+  <data key="d0">Personal Consumers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Personal consumers are the target participants of the 2025 Jinan Home Renovation and Furniture Subsidy Program, limited to homeowners within Jinan city.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806503</data>
+</node>
+<node id="Construction Bank Life App">
+  <data key="d0">Construction Bank Life App</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Construction Bank Life App is a mobile application used by consumers to register, upload property information, claim subsidy vouchers, and process discounts during the program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806503</data>
+</node>
+<node id="Home Renovation Materials">
+  <data key="d0">Home Renovation Materials</data>
+  <data key="d1">category</data>
+  <data key="d2">Home Renovation Materials include items like doors, windows, wood flooring, tiles, paint, wallpaper, shower rooms, and partitions eligible for subsidies under the program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806503</data>
+</node>
+<node id="Home Furniture and Lighting Products">
+  <data key="d0">Home Furniture and Lighting Products</data>
+  <data key="d1">category</data>
+  <data key="d2">Home Furniture and Lighting Products include sofas, bed frames, mattresses, customized furniture, and intelligent lighting systems eligible for subsidies under the program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806503</data>
+</node>
+<node id="Sanitary Ware Products">
+  <data key="d0">Sanitary Ware Products</data>
+  <data key="d1">category</data>
+  <data key="d2">Sanitary Ware Products include smart toilets, bathroom cabinets, and bathtubs eligible for subsidies under the program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806503</data>
+</node>
+<node id="Smart Home Products">
+  <data key="d0">Smart Home Products</data>
+  <data key="d1">category</data>
+  <data key="d2">Smart Home Products include smart locks, intelligent laundry racks, gateways, routers, and smart sockets eligible for subsidies under the program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806503</data>
+</node>
+<node id="Senior-Friendly Home Modification">
+  <data key="d0">Senior-Friendly Home Modification</data>
+  <data key="d1">concept</data>
+  <data key="d2">Senior-Friendly Home Modification is a category of subsidy designed for making homes more suitable for elderly living that is implemented by the civil affairs departments but detailed rules will be announced later.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806505</data>
+</node>
+<node id="Notarization Documents and Property Certificates">
+  <data key="d0">Notarization Documents and Property Certificates</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Notarization Documents and Property Certificates are official documents required to verify homeownership for participation in the subsidy program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806505</data>
+</node>
+<node id="Property Registration System of Jinan">
+  <data key="d0">Property Registration System of Jinan</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Property Registration System of Jinan is an official system used to verify the status and ownership of real estate within the city for the subsidy program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806505</data>
+</node>
+<node id="Smart Toilet Efficiency Standards">
+  <data key="d0">Smart Toilet Efficiency Standards</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Smart Toilet Efficiency Standards refer to a regulatory benchmark that specifies water and energy usage levels for smart toilet products eligible for a higher subsidy rate.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806505</data>
+</node>
+<node id="Discounted Sales Prices">
+  <data key="d0">Discounted Sales Prices</data>
+  <data key="d1">concept</data>
+  <data key="d2">Discounted Sales Prices refer to the actual prices of eligible products after discounts, which form the basis for the subsidy calculation under the program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806506</data>
+</node>
+<node id="Civil Affairs Department of Jinan">
+  <data key="d0">Civil Affairs Department of Jinan</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Civil Affairs Department of Jinan is responsible for implementing the guidelines and rules related to Senior-Friendly Home Modification under the program.</data>
+  <data key="d3">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806506</data>
+</node>
+<node id="建行生活-济南">
+  <data key="d0">建行生活-济南</data>
+  <data key="d1">organization</data>
+  <data key="d2">建行生活-济南is the official WeChat account providing information and services related to the济南家装补贴campaign.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806506</data>
+</node>
+<node id="消费补贴券">
+  <data key="d0">消费补贴券</data>
+  <data key="d1">artifact</data>
+  <data key="d2">消费补贴券are discount coupons issued for the济南家装补贴initiative, featuring specific usage rules and limitations.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806506</data>
+</node>
+<node id="泉惠企">
+  <data key="d0">泉惠企</data>
+  <data key="d1">platform</data>
+  <data key="d2">泉惠企is a service platform used by merchants for submitting subsidy applications within the济南家装补贴campaign.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806507</data>
+</node>
+<node id="山东省装饰协会">
+  <data key="d0">山东省装饰协会</data>
+  <data key="d1">organization</data>
+  <data key="d2">山东省装饰协会reviews and approves product lists for the subsidy activities in the济南家装补贴campaign.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806507</data>
+</node>
+<node id="家装补贴">
+  <data key="d0">家装补贴</data>
+  <data key="d1">concept</data>
+  <data key="d2">家装补贴refers to a subsidy initiative aimed at promoting home renovation and refurbishment in济南.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806507</data>
+</node>
+<node id="建行生活APP">
+  <data key="d0">建行生活APP</data>
+  <data key="d1">platform</data>
+  <data key="d2">建行生活APP is an application used by consumers for redeeming discount coupons and making payments under the subsidy initiative.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806508</data>
+</node>
+<node id="2025年济南市家装、家居焕新补贴活动">
+  <data key="d0">2025年济南市家装、家居焕新补贴活动</data>
+  <data key="d1">event</data>
+  <data key="d2">2025年济南市家装、家居“焕新”补贴活动is a subsidy event organized by济南市商务局to incentivize home improvement and furnishing.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806508</data>
+</node>
+<node id="济南市商务局">
+  <data key="d0">济南市商务局</data>
+  <data key="d1">organization</data>
+  <data key="d2">济南市商务局is the governing body overseeing the subsidy initiative, holding the right to the final interpretation of the rules.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806508</data>
+</node>
+<node id="政策服务">
+  <data key="d0">政策服务</data>
+  <data key="d1">method</data>
+  <data key="d2">政策服务is a portal on the泉惠企platform for merchants to access guidance on policy-related matters.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806508</data>
+</node>
+<node id="消费者详细流程">
+  <data key="d0">消费者详细流程</data>
+  <data key="d1">content</data>
+  <data key="d2">消费者详细流程provides detailed guidelines for consumers on how to participate in the subsidy initiative via建行生活-济南.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806508</data>
+</node>
+<node id="商家详细流程">
+  <data key="d0">商家详细流程</data>
+  <data key="d1">content</data>
+  <data key="d2">商家详细流程provides step-by-step instructions for merchants applying for subsidies under the济南家装补贴campaign.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806509</data>
+</node>
+<node id="家居类补贴">
+  <data key="d0">家居类补贴</data>
+  <data key="d1">concept</data>
+  <data key="d2">家居类补贴refers to the category-specific discounts offered for furniture, smart home equipment, and homegoods under the subsidy initiative.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806509</data>
+</node>
+<node id="工作日咨询热线">
+  <data key="d0">工作日咨询热线</data>
+  <data key="d1">artifact</data>
+  <data key="d2">工作日咨询热线are phone numbers provided for consumer and merchant inquiries regarding the subsidy activities.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806509</data>
+</node>
+<node id="家装类补贴">
+  <data key="d0">家装类补贴</data>
+  <data key="d1">concept</data>
+  <data key="d2">家装类补贴refers to the category-specific discounts offered for renovation materials and related products under the subsidy initiative.</data>
+  <data key="d3">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d4">household.docx</data>
+  <data key="d5">1759806509</data>
+</node>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Personal Consumers">
+  <data key="d6">1.0</data>
+  <data key="d7">The subsidy program targets personal consumers who own residential housing within Jinan city and meet the criteria set by the initiative.</data>
+  <data key="d8">financial support,program eligibility</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806511</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Jinan">
+  <data key="d6">1.0</data>
+  <data key="d7">The subsidy program is localized and implemented in Jinan.</data>
+  <data key="d8">location support,municipal initiative</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806513</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Construction Bank Life App">
+  <data key="d6">1.0</data>
+  <data key="d7">The Construction Bank Life App facilitates the program by enabling consumer registration, voucher claiming, and payment processing.</data>
+  <data key="d8">digital tools,program facilitation</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806514</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Home Renovation Materials">
+  <data key="d6">1.0</data>
+  <data key="d7">The program provides financial subsidies for the purchase of eligible home renovation materials.</data>
+  <data key="d8">material eligibility,subsidy application</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806516</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Sanitary Ware Products">
+  <data key="d6">1.0</data>
+  <data key="d7">Financial support is provided for purchasing eligible sanitary ware products under the program.</data>
+  <data key="d8">product eligibility,subsidy application</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806518</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Home Furniture and Lighting Products">
+  <data key="d6">1.0</data>
+  <data key="d7">The program includes subsidies for the purchase of eligible home furniture and lighting products.</data>
+  <data key="d8">product eligibility,subsidy application</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806520</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Smart Home Products">
+  <data key="d6">1.0</data>
+  <data key="d7">The initiative provides subsidies for eligible smart home products to improve residential technology.</data>
+  <data key="d8">subsidy application,technology enhancement</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806521</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Senior-Friendly Home Modification">
+  <data key="d6">1.0</data>
+  <data key="d7">The program includes Senior-Friendly Home Modification as a category eligible for subsidies, with detailed implementation rules forthcoming from the civil affairs department.</data>
+  <data key="d8">category inclusion,detailed rules</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806523</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Notarization Documents and Property Certificates">
+  <data key="d6">1.0</data>
+  <data key="d7">Homeownership verification through notarization documents and property certificates is required for participation in the subsidy program.</data>
+  <data key="d8">eligibility,ownership verification</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806524</data>
+</edge>
+<edge source="2025 Jinan Home Renovation and Furniture Subsidy Program" target="Discounted Sales Prices">
+  <data key="d6">1.0</data>
+  <data key="d7">The subsidy for purchases is calculated based on the discounted sales price of eligible products.</data>
+  <data key="d8">financial framework,subsidy calculation</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806526</data>
+</edge>
+<edge source="Sanitary Ware Products" target="Smart Toilet Efficiency Standards">
+  <data key="d6">1.0</data>
+  <data key="d7">Sanitary ware products, particularly smart toilets, that meet the efficiency standards are eligible for a higher subsidy rate.</data>
+  <data key="d8">higher subsidy,regulatory compliance</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806516</data>
+</edge>
+<edge source="Senior-Friendly Home Modification" target="Civil Affairs Department of Jinan">
+  <data key="d6">1.0</data>
+  <data key="d7">The Civil Affairs Department of Jinan is tasked with overseeing and implementing the Senior-Friendly Home Modification category under the subsidy program.</data>
+  <data key="d8">implementation responsibility,program oversight</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806517</data>
+</edge>
+<edge source="Notarization Documents and Property Certificates" target="Property Registration System of Jinan">
+  <data key="d6">1.0</data>
+  <data key="d7">Notarization Documents and Property Certificates are required when information is unavailable in the Property Registration System of Jinan to establish homeownership and eligibility.</data>
+  <data key="d8">eligibility,verification process</data>
+  <data key="d9">chunk-5e90e5ef5bed92c11095540a239e72b7</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806514</data>
+</edge>
+<edge source="建行生活-济南" target="消费者详细流程">
+  <data key="d6">1.0</data>
+  <data key="d7">建行生活-济南publishes消费者详细流程for participant guidance in the subsidy initiative.</data>
+  <data key="d8">consumer participation,guidance</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806521</data>
+</edge>
+<edge source="建行生活-济南" target="商家详细流程">
+  <data key="d6">1.0</data>
+  <data key="d7">建行生活-济南provides商家详细流程to help merchants navigate the subsidy application process.</data>
+  <data key="d8">guidance,merchant participation</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806523</data>
+</edge>
+<edge source="消费补贴券" target="家装补贴">
+  <data key="d6">1.0</data>
+  <data key="d7">家装补贴defines the scope and rules for the usage of消费补贴券.</data>
+  <data key="d8">subsidy program,usage rules</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806518</data>
+</edge>
+<edge source="消费补贴券" target="家居类补贴">
+  <data key="d6">1.0</data>
+  <data key="d7">消费补贴券includes家居类补贴categories offering fixed percentage discounts for eligible home products.</data>
+  <data key="d8">category discounts,subsidy rules</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806522</data>
+</edge>
+<edge source="消费补贴券" target="家装类补贴">
+  <data key="d6">1.0</data>
+  <data key="d7">消费补贴券includes家装类补贴categories offering fixed percentage discounts for eligible renovation materials and products.</data>
+  <data key="d8">category discounts,subsidy rules</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806523</data>
+</edge>
+<edge source="泉惠企" target="政策服务">
+  <data key="d6">1.0</data>
+  <data key="d7">泉惠企platform provides merchants access to the政策服务interface for policy-related assistance.</data>
+  <data key="d8">guidance,merchant access</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806519</data>
+</edge>
+<edge source="泉惠企" target="山东省装饰协会">
+  <data key="d6">1.0</data>
+  <data key="d7">山东省装饰协会collaborates with泉惠企to review merchant data and product eligibility for the subsidy program.</data>
+  <data key="d8">platform partnership,review process</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806523</data>
+</edge>
+<edge source="山东省装饰协会" target="家装补贴">
+  <data key="d6">1.0</data>
+  <data key="d7">山东省装饰协会is responsible for the approval of products eligible for家装补贴.</data>
+  <data key="d8">approval process,oversight</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806520</data>
+</edge>
+<edge source="建行生活APP" target="2025年济南市家装、家居焕新补贴活动">
+  <data key="d6">1.0</data>
+  <data key="d7">2025年济南市家装、家居“焕新”补贴活动involves建行生活APP for consumers to redeem discounts and make payments.</data>
+  <data key="d8">consumer application,payment system</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806520</data>
+</edge>
+<edge source="2025年济南市家装、家居焕新补贴活动" target="济南市商务局">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局administers and retains final interpretation rights of the 2025年济南市家装、家居“焕新”补贴活动.</data>
+  <data key="d8">final interpretation,organization oversight</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806521</data>
+</edge>
+<edge source="2025年济南市家装、家居焕新补贴活动" target="工作日咨询热线">
+  <data key="d6">1.0</data>
+  <data key="d7">工作日咨询热线is used for handling consumer and merchant questions related to the 2025年济南市家装、家居“焕新”补贴活动.</data>
+  <data key="d8">customer service,inquiries</data>
+  <data key="d9">chunk-3ac8ed145d9aeefb3ecdac91794b6b43</data>
+  <data key="d10">household.docx</data>
+  <data key="d11">1759806523</data>
+</edge>
+</graph></graphml>

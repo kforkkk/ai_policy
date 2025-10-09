@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="济南市">
+  <data key="d0">济南市</data>
+  <data key="d1">location</data>
+  <data key="d2">济南市is the administrative region where the 2025 electric bicycle trade-in subsidy program is implemented.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805716</data>
+</node>
+<node id="2025 Electric Bicycle Trade-In Subsidy Program">
+  <data key="d0">2025 Electric Bicycle Trade-In Subsidy Program</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 Electric Bicycle Trade-In Subsidy Program in济南市promotes replacing old electric bicycles with new ones, offering financial incentives.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805716</data>
+</node>
+<node id="Electric Bicycles">
+  <data key="d0">Electric Bicycles</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Electric Bicycles are the focus of the trade-in program aimed at replacing outdated models with new, qualified ones.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805716</data>
+</node>
+<node id="Government Subsidy">
+  <data key="d0">Government Subsidy</data>
+  <data key="d1">concept</data>
+  <data key="d2">Government Subsidy provides financial support to consumers purchasing new electric bicycles after trading in old ones.&lt;SEP&gt;A financial incentive provided by the government to support the purchase of new electric bicycles.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2&lt;SEP&gt;chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805716</data>
+</node>
+<node id="泉城购电动自行车以旧换新平台">
+  <data key="d0">泉城购电动自行车以旧换新平台</data>
+  <data key="d1">organization</data>
+  <data key="d2">泉城购电动自行车以旧换新平台is an online platform for registering and managing the electric bicycle trade-in subsidy program.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805716</data>
+</node>
+<node id="Sales Entities">
+  <data key="d0">Sales Entities</data>
+  <data key="d1">organization</data>
+  <data key="d2">Sales Entities participating in the program facilitate the trade-in of old bicycles and the sale of new qualified models.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805716</data>
+</node>
+<node id="Recycling Companies">
+  <data key="d0">Recycling Companies</data>
+  <data key="d1">organization</data>
+  <data key="d2">Recycling Companies handle the disposal of old electric bicycles in compliance with program standards and regulations.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805716</data>
+</node>
+<node id="Consumer Registration Process">
+  <data key="d0">Consumer Registration Process</data>
+  <data key="d1">method</data>
+  <data key="d2">Consumer Registration Process involves signing up on the泉城购电动自行车以旧换新平台platform, submitting old bicycle information, and receiving a subsidy eligibility code.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805716</data>
+</node>
+<node id="Subsidy Eligibility Code">
+  <data key="d0">Subsidy Eligibility Code</data>
+  <data key="d1">data</data>
+  <data key="d2">Subsidy Eligibility Code is a unique code generated for consumers to access government subsidies during the purchase of new electric bicycles.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805718</data>
+</node>
+<node id="District/County Commerce Departments">
+  <data key="d0">District/County Commerce Departments</data>
+  <data key="d1">organization</data>
+  <data key="d2">District/County Commerce Departments are administrative bodies responsible for preliminary review and approval of activity participants before reporting to the city-level Commerce Bureau.</data>
+  <data key="d3">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805718</data>
+</node>
+<node id="Personal Consumer">
+  <data key="d0">Personal Consumer</data>
+  <data key="d1">concept</data>
+  <data key="d2">The individual entity involved in the purchase or trade-in of electric bicycles, responsible for negotiating vehicle residual values and providing accurate information for subsidies.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805718</data>
+</node>
+<node id="Sales Entity">
+  <data key="d0">Sales Entity</data>
+  <data key="d1">organization</data>
+  <data key="d2">The organization responsible for selling electric bicycles, issuing invoices, and handling subsidy-related matters.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805718</data>
+</node>
+<node id="Recycling Entity">
+  <data key="d0">Recycling Entity</data>
+  <data key="d1">organization</data>
+  <data key="d2">The organization involved in accepting old vehicles for trade-ins during the subsidy program.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805718</data>
+</node>
+<node id="Fiscal Subsidy Fund">
+  <data key="d0">Fiscal Subsidy Fund</data>
+  <data key="d1">concept</data>
+  <data key="d2">A designated funding source allocated by the government for subsidies related to the electric bicycle program.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805718</data>
+</node>
+<node id="City-Level Commerce Authority">
+  <data key="d0">City-Level Commerce Authority</data>
+  <data key="d1">organization</data>
+  <data key="d2">The regional governing body responsible for overseeing commerce-related activities and approving special pricing circumstances.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805719</data>
+</node>
+<node id="Policy Brochure">
+  <data key="d0">Policy Brochure</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A detailed guide issued by sales entities to explain subsidy policies, pricing, and consumer rights.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805719</data>
+</node>
+<node id="Consumer Complaint Channel">
+  <data key="d0">Consumer Complaint Channel</data>
+  <data key="d1">concept</data>
+  <data key="d2">A system set up by authorities to handle and resolve consumer complaints during the subsidy activity period.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805719</data>
+</node>
+<node id="Subsidy Conflict Responsibility">
+  <data key="d0">Subsidy Conflict Responsibility</data>
+  <data key="d1">concept</data>
+  <data key="d2">The accountability of sales entities in cases of subsidy-related disputes caused by their operational errors.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805720</data>
+</node>
+<node id="Subsidy Indicator">
+  <data key="d0">Subsidy Indicator</data>
+  <data key="d1">concept</data>
+  <data key="d2">A measure or quota limiting the number of subsidy claims a consumer may use during the activity period.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805720</data>
+</node>
+<node id="Vehicle Company">
+  <data key="d0">Vehicle Company</data>
+  <data key="d1">organization</data>
+  <data key="d2">A business involved in the manufacturing and sale of electric bicycles and providing additional discounts in combination with government subsidies.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805720</data>
+</node>
+<node id="Store Discounts">
+  <data key="d0">Store Discounts</data>
+  <data key="d1">concept</data>
+  <data key="d2">A supplementary savings program offered by stores participating in the electric bicycle subsidy activity.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805720</data>
+</node>
+<node id="Consultation Hotlines">
+  <data key="d0">Consultation Hotlines</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Phone numbers provided for consumer inquiries during the subsidy activity period.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805720</data>
+</node>
+<node id="Return Policy">
+  <data key="d0">Return Policy</data>
+  <data key="d1">concept</data>
+  <data key="d2">The rules governing the reimbursement process for refunds during the subsidy program, including exclusion of subsidy funds and payment channel restrictions.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805721</data>
+</node>
+<node id="Fraudulent Activities">
+  <data key="d0">Fraudulent Activities</data>
+  <data key="d1">concept</data>
+  <data key="d2">Illegal practices such as providing false information, fake transactions, cross-region repetitive purchases, hoarding, and subsidy fraud that are subject to legal consequences.</data>
+  <data key="d3">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d4">elec_car.docx</data>
+  <data key="d5">1759805721</data>
+</node>
+<edge source="济南市" target="2025 Electric Bicycle Trade-In Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">The 2025 Electric Bicycle Trade-In Subsidy Program is managed and implemented in济南市.</data>
+  <data key="d8">administrative management,event location</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805723</data>
+</edge>
+<edge source="2025 Electric Bicycle Trade-In Subsidy Program" target="Electric Bicycles">
+  <data key="d6">1.0</data>
+  <data key="d7">The program aims to replace outdated electric bicycles with new, qualified models through consumer incentives.</data>
+  <data key="d8">environmental upgrade,promotional initiative</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805724</data>
+</edge>
+<edge source="2025 Electric Bicycle Trade-In Subsidy Program" target="Government Subsidy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Government Subsidy is a key component of the 2025 electric bicycle trade-in program to incentivize consumer participation.</data>
+  <data key="d8">consumer benefit,financial support</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805726</data>
+</edge>
+<edge source="2025 Electric Bicycle Trade-In Subsidy Program" target="泉城购电动自行车以旧换新平台">
+  <data key="d6">1.0</data>
+  <data key="d7">泉城购电动自行车以旧换新平台provides resources for managing participant data and subsidy distributions for the program.</data>
+  <data key="d8">platform support,resource management</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805727</data>
+</edge>
+<edge source="2025 Electric Bicycle Trade-In Subsidy Program" target="Sales Entities">
+  <data key="d6">1.0</data>
+  <data key="d7">Sales Entities help manage the trade-in process and facilitate new bicycle sales under the program guidelines.</data>
+  <data key="d8">market facilitation,trade-in management</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805729</data>
+</edge>
+<edge source="2025 Electric Bicycle Trade-In Subsidy Program" target="Recycling Companies">
+  <data key="d6">1.0</data>
+  <data key="d7">Recycling Companies ensure proper disposal of outdated electric bicycles as per the program's regulations.</data>
+  <data key="d8">compliance,sustainable disposal</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805730</data>
+</edge>
+<edge source="Government Subsidy" target="Sales Entity">
+  <data key="d6">1.0</data>
+  <data key="d7">Sales entities process government subsidies and outline the subsidy amount in invoices given to consumers.</data>
+  <data key="d8">documentation,financial handling</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805727</data>
+</edge>
+<edge source="Government Subsidy" target="Store Discounts">
+  <data key="d6">1.0</data>
+  <data key="d7">Government subsidies can be combined with store discounts to offer increased savings to consumers.</data>
+  <data key="d8">combined savings,financial support</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805729</data>
+</edge>
+<edge source="泉城购电动自行车以旧换新平台" target="Subsidy Eligibility Code">
+  <data key="d6">1.0</data>
+  <data key="d7">The Subsidy Eligibility Code is generated on the泉城购电动自行车以旧换新平台for consumers after validation of old bicycle information.</data>
+  <data key="d8">consumer validation,data management</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805723</data>
+</edge>
+<edge source="Sales Entities" target="District/County Commerce Departments">
+  <data key="d6">1.0</data>
+  <data key="d7">District/County Commerce Departments conduct preliminary reviews of sales entities participating in the subsidy activity.</data>
+  <data key="d8">oversight,qualification approval</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805723</data>
+</edge>
+<edge source="Consumer Registration Process" target="Subsidy Eligibility Code">
+  <data key="d6">1.0</data>
+  <data key="d7">The Consumer Registration Process enables consumers to acquire a Subsidy Eligibility Code for participation in the program.</data>
+  <data key="d8">consumer qualification,method application</data>
+  <data key="d9">chunk-697ae77dca5a5a723d9eb560f2f9b1c2</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805724</data>
+</edge>
+<edge source="Personal Consumer" target="Sales Entity">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers interact with sales entities to negotiate residual values, complete purchases, and obtain invoices.</data>
+  <data key="d8">purchase transaction,subsidy negotiation</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805724</data>
+</edge>
+<edge source="Personal Consumer" target="Fiscal Subsidy Fund">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers must provide accurate information to access fiscal subsidies for electric bicycle purchases.</data>
+  <data key="d8">accurate information,financial incentive</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805726</data>
+</edge>
+<edge source="Personal Consumer" target="Consumer Complaint Channel">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers can use the consumer complaint channel to report issues like fraud or misinformation during the subsidy program.</data>
+  <data key="d8">consumer protection,grievance redressal</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805728</data>
+</edge>
+<edge source="Personal Consumer" target="Return Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers must adhere to the return policy, which excludes subsidy funds from reimbursements and uses original payment channels for refunds.</data>
+  <data key="d8">refund process,subsidy exclusion</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805730</data>
+</edge>
+<edge source="Personal Consumer" target="Fraudulent Activities">
+  <data key="d6">1.0</data>
+  <data key="d7">Consumers engaging in fraudulent activities during the subsidy program face legal action and enforcement measures.</data>
+  <data key="d8">consumer compliance,legal liability</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805732</data>
+</edge>
+<edge source="Sales Entity" target="City-Level Commerce Authority">
+  <data key="d6">1.0</data>
+  <data key="d7">Sales entities must report and obtain approval from city-level commerce authorities for special pricing circumstances.</data>
+  <data key="d8">policy compliance,price supervision</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805726</data>
+</edge>
+<edge source="Sales Entity" target="Policy Brochure">
+  <data key="d6">1.0</data>
+  <data key="d7">Sales entities must issue policy brochures to educate consumers on subsidy rules and market prices.</data>
+  <data key="d8">consumer rights,policy transparency</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805729</data>
+</edge>
+<edge source="Sales Entity" target="Consultation Hotlines">
+  <data key="d6">1.0</data>
+  <data key="d7">Sales entities provide consultation hotlines for consumer inquiries.</data>
+  <data key="d8">consumer assistance,official communication</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805730</data>
+</edge>
+<edge source="Sales Entity" target="Return Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">Sales entities are responsible for enforcing the return policy, including refunding relevant subsidy funds to designated accounts in case of post-subsidy payment refunds.</data>
+  <data key="d8">accountability,refund handling</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805732</data>
+</edge>
+<edge source="Sales Entity" target="Fraudulent Activities">
+  <data key="d6">1.0</data>
+  <data key="d7">Sales entities involved in fraud such as false documentation or subsidy manipulation are held accountable and subject to prosecution.</data>
+  <data key="d8">accountability,ethical conduct</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805734</data>
+</edge>
+<edge source="Fiscal Subsidy Fund" target="Subsidy Indicator">
+  <data key="d6">1.0</data>
+  <data key="d7">The fiscal subsidy fund operates under the limitation that each consumer can use a restricted number of subsidy claims.</data>
+  <data key="d8">fund allocation,usage limitation</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805729</data>
+</edge>
+<edge source="City-Level Commerce Authority" target="Subsidy Conflict Responsibility">
+  <data key="d6">1.0</data>
+  <data key="d7">City-level commerce authorities oversee subsidy conflict resolutions and ensure sales entities accept accountability.</data>
+  <data key="d8">accountability,regulation</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805727</data>
+</edge>
+<edge source="City-Level Commerce Authority" target="Fraudulent Activities">
+  <data key="d6">1.0</data>
+  <data key="d7">City-level commerce authorities are tasked with overseeing and acting on fraudulent activities related to the subsidy program.</data>
+  <data key="d8">enforcement,regulation</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805730</data>
+</edge>
+<edge source="Vehicle Company" target="Store Discounts">
+  <data key="d6">1.0</data>
+  <data key="d7">Vehicle companies provide additional discounts to consumers, complementing government subsidies.</data>
+  <data key="d8">brand participation,price reduction</data>
+  <data key="d9">chunk-8362d09bbd6dbf6a99d79666d8ad2eca</data>
+  <data key="d10">elec_car.docx</data>
+  <data key="d11">1759805731</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,2502 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Jinan City">
+  <data key="d0">Jinan City</data>
+  <data key="d1">location</data>
+  <data key="d2">Jinan City is a municipality in China where the vehicle scrapping and replacement policies are being implemented.&lt;SEP&gt;Jinan City is the location where the subsidy program for purchasing non-operating passenger cars is being implemented.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1&lt;SEP&gt;chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805064</data>
+</node>
+<node id="Jinan Municipal Bureau of Commerce">
+  <data key="d0">Jinan Municipal Bureau of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jinan Municipal Bureau of Commerce is responsible for overseeing vehicle-related subsidy activities, enforcing policies, and providing operational guidance.&lt;SEP&gt;The Jinan Municipal Bureau of Commerce oversees the subsidy program, processing applications, and issuing commercial insurance subsidies.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1&lt;SEP&gt;chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805064</data>
+</node>
+<node id="China National Petroleum Corporation (CNPC)">
+  <data key="d0">China National Petroleum Corporation (CNPC)</data>
+  <data key="d1">organization</data>
+  <data key="d2">China National Petroleum Corporation is a state-owned oil and gas enterprise allowing consumers to claim fuel top-up cards under the subsidy program.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805064</data>
+</node>
+<node id="China Petroleum &amp; Chemical Corporation (Sinopec)">
+  <data key="d0">China Petroleum &amp; Chemical Corporation (Sinopec)</data>
+  <data key="d1">organization</data>
+  <data key="d2">China Petroleum &amp; Chemical Corporation is a state-owned energy company enabling consumers to redeem fuel top-up cards during the subsidy program.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805064</data>
+</node>
+<node id="Automobile Replacement Subsidy Program">
+  <data key="d0">Automobile Replacement Subsidy Program</data>
+  <data key="d1">event</data>
+  <data key="d2">An initiative aimed at supporting the orderly scrapping and replacement of vehicles in Jinan City, as governed by a series of policies.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805064</data>
+</node>
+<node id="Fiscal Subsidies for Vehicles">
+  <data key="d0">Fiscal Subsidies for Vehicles</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fiscal subsidies aimed at promoting vehicle replacement and environmental upgrades in Jinan City, subject to strict eligibility criteria and monitoring.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805064</data>
+</node>
+<node id="Commercial Banks">
+  <data key="d0">Commercial Banks</data>
+  <data key="d1">organization</data>
+  <data key="d2">Commercial banks, such as China Industrial and Commercial Bank, support the subsidy activities with hotline services for queries.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805064</data>
+</node>
+<node id="Vehicle Scrapping Policy">
+  <data key="d0">Vehicle Scrapping Policy</data>
+  <data key="d1">concept</data>
+  <data key="d2">2025 vehicle scrapping policies that regulate the replacement or upgrade of old vehicles by Jinan City Municipal Bureau.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805064</data>
+</node>
+<node id="Automobile Sales Enterprises">
+  <data key="d0">Automobile Sales Enterprises</data>
+  <data key="d1">organization</data>
+  <data key="d2">Automobile sales enterprises are responsible for ethical trading and compliance with subsidy policies.&lt;SEP&gt;Automobile sales enterprises are required to operate honestly during subsidy activities to prevent fraudulent claims.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d&lt;SEP&gt;chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805067</data>
+</node>
+<node id="Motor Vehicles">
+  <data key="d0">Motor Vehicles</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Motor vehicles are involved in various subsidy schemes, requiring proper documentation for eligibility.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805067</data>
+</node>
+<node id="Fuel Top-Up Cards">
+  <data key="d0">Fuel Top-Up Cards</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Fuel top-up cards are provided by CNPC or Sinopec under the subsidy program and are valid for 90 days.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805067</data>
+</node>
+<node id="Smartphone-Based Qualification Program">
+  <data key="d0">Smartphone-Based Qualification Program</data>
+  <data key="d1">method</data>
+  <data key="d2">Applicants must use the "Business Jinan" public account to register and upload necessary documents to obtain qualification for subsidies starting September 16, 2025.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805067</data>
+</node>
+<node id="Business Jinan">
+  <data key="d0">Business Jinan</data>
+  <data key="d1">organization</data>
+  <data key="d2">Business Jinan is a public account platform used for registration and document submission during the qualification process of the automobile subsidy program.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805067</data>
+</node>
+<node id="Automobile Subsidy Qualification Coupon">
+  <data key="d0">Automobile Subsidy Qualification Coupon</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Automobile Subsidy Qualification Coupon is issued to applicants who are successfully qualified for vehicle replacement subsidies.</data>
+  <data key="d3">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805067</data>
+</node>
+<node id="National Vehicle Circulation Information Management System">
+  <data key="d0">National Vehicle Circulation Information Management System</data>
+  <data key="d1">organization</data>
+  <data key="d2">The National Vehicle Circulation Information Management System is a platform used for applying and managing subsidies related to vehicle upgrades and replacements.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805067</data>
+</node>
+<node id="&quot;Automobile Old-for-New&quot; Mini Program">
+  <data key="d0">"Automobile Old-for-New" Mini Program</data>
+  <data key="d1">content</data>
+  <data key="d2">The "Automobile Old-for-New" Mini Program is a digital tool designed for processing applications for subsidies related to vehicle replacement with new cars.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805068</data>
+</node>
+<node id="Identity Information">
+  <data key="d0">Identity Information</data>
+  <data key="d1">data</data>
+  <data key="d2">Identity information includes details about the subsidy applicant, such as their ID card, phone number, and banking details.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805068</data>
+</node>
+<node id="Vehicle Identification Number (VIN)">
+  <data key="d0">Vehicle Identification Number (VIN)</data>
+  <data key="d1">data</data>
+  <data key="d2">The Vehicle Identification Number is a unique code used to identify vehicles, required for both scrapped and newly purchased cars during subsidy applications.&lt;SEP&gt;The Vehicle Identification Number is a unique code required in subsidy applications to identify the transferred old vehicle.&lt;SEP&gt;The Vehicle Identification Number is a unique identifier for vehicles, required in subsidy applications.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379&lt;SEP&gt;chunk-96b586e144360ef80aa8abc561f73854&lt;SEP&gt;chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805068</data>
+</node>
+<node id="Scrapped Vehicle Recycling Certificate">
+  <data key="d0">Scrapped Vehicle Recycling Certificate</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Scrapped Vehicle Recycling Certificate is an official document issued by certified scrapped vehicle recycling companies, required for subsidy applications.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805068</data>
+</node>
+<node id="Motor Vehicle Deregistration Certificate">
+  <data key="d0">Motor Vehicle Deregistration Certificate</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Motor Vehicle Deregistration Certificate verifies that a vehicle has been removed from registration records.&lt;SEP&gt;The Motor Vehicle Deregistration Certificate is an official document used when deregistering scrapped vehicles as part of the subsidy process.&lt;SEP&gt;The Motor Vehicle Deregistration Certificate is proof of deregistering an old vehicle, required for subsidy application.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379&lt;SEP&gt;chunk-9d04bcaf9de54cebb144034ea39c9de0&lt;SEP&gt;chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805068</data>
+</node>
+<node id="Uniform Invoice for Motor Vehicle Sale">
+  <data key="d0">Uniform Invoice for Motor Vehicle Sale</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Uniform Invoice for Motor Vehicle Sale is an official receipt confirming the purchase of a new vehicle, necessary for subsidy applications.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805069</data>
+</node>
+<node id="Certificate of Vehicle Registration">
+  <data key="d0">Certificate of Vehicle Registration</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Certificate of Vehicle Registration is an official document confirming registration ownership of a purchased vehicle, required during the subsidy application.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805069</data>
+</node>
+<node id="Automobile Replacement Subsidy">
+  <data key="d0">Automobile Replacement Subsidy</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Automobile Replacement Subsidy is a financial assistance program designed to encourage consumers to replace their old vehicles with newer ones.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805069</data>
+</node>
+<node id="City Commerce Departments">
+  <data key="d0">City Commerce Departments</data>
+  <data key="d1">organization</data>
+  <data key="d2">City Commerce Departments are responsible for overseeing the application and approval processes for automobile replacement subsidies.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805070</data>
+</node>
+<node id="Provincial Commerce Department">
+  <data key="d0">Provincial Commerce Department</data>
+  <data key="d1">organization</data>
+  <data key="d2">Provincial Commerce Departments handle oversight and supervision of city-level subsidy implementation and auditing processes.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805070</data>
+</node>
+<node id="Ministry of Finance">
+  <data key="d0">Ministry of Finance</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Ministry of Finance is the central body involved in coordinating and ensuring effective allocation of subsidy funds for automobile replacement programs.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805070</data>
+</node>
+<node id="Ministry of Public Security">
+  <data key="d0">Ministry of Public Security</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Ministry of Public Security oversees vehicle deregistration and registration processes during automobile replacement subsidy applications.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805070</data>
+</node>
+<node id="Ministry of Industry and Information Technology">
+  <data key="d0">Ministry of Industry and Information Technology</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Ministry of Industry and Information Technology monitors issues related to vehicle registration certificates and related data management during subsidy allocation processes.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805070</data>
+</node>
+<node id="State Administration of Taxation">
+  <data key="d0">State Administration of Taxation</data>
+  <data key="d1">organization</data>
+  <data key="d2">The State Administration of Taxation contributes to the verification of tax-related data during subsidy approval processes.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805070</data>
+</node>
+<node id="Central Government Funding">
+  <data key="d0">Central Government Funding</data>
+  <data key="d1">concept</data>
+  <data key="d2">Central Government Funding refers to financial resources allocated by the central government to support the automobile replacement subsidy program.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805071</data>
+</node>
+<node id="Provincial Government Funding">
+  <data key="d0">Provincial Government Funding</data>
+  <data key="d1">concept</data>
+  <data key="d2">Provincial Government Funding refers to resources allocated by provincial authorities to cover additional costs of the subsidy program.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805071</data>
+</node>
+<node id="Local Funds">
+  <data key="d0">Local Funds</data>
+  <data key="d1">concept</data>
+  <data key="d2">Local Funds are resources provided by municipal or county-level governments when central and provincial budgets are insufficient.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805071</data>
+</node>
+<node id="2025 Equipment Upgrade and Consumer Products Policy">
+  <data key="d0">2025 Equipment Upgrade and Consumer Products Policy</data>
+  <data key="d1">policy</data>
+  <data key="d2">The "2025 Equipment Upgrade and Consumer Products Policy" is a guideline document established by national authorities to enhance vehicle replacement and consumer product upgrading.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805071</data>
+</node>
+<node id="Qualified Dismantling Enterprises">
+  <data key="d0">Qualified Dismantling Enterprises</data>
+  <data key="d1">organization</data>
+  <data key="d2">Qualified Dismantling Enterprises are certified organizations authorized to issue Scrapped Vehicle Recycling Certificates for subsidy applications.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805071</data>
+</node>
+<node id="Province Development and Reform Commission">
+  <data key="d0">Province Development and Reform Commission</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Province Development and Reform Commission is involved in supervising and coordinating automobile replacement subsidy processes at the provincial level.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805072</data>
+</node>
+<node id="Hotline for Automobile Replacement Consultation">
+  <data key="d0">Hotline for Automobile Replacement Consultation</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Hotline for Automobile Replacement Consultation is a phone service set up by cities to address public inquiries and provide support related to subsidy applications.</data>
+  <data key="d3">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805072</data>
+</node>
+<node id="Jinan Municipal Bureau Of Commerce">
+  <data key="d0">Jinan Municipal Bureau Of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jinan Municipal Bureau of Commerce manages and executes the 2025 automobile consumption subsidy program in Jinan.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805072</data>
+</node>
+<node id="2025 Second Half Automobile Consumption Subsidy Program">
+  <data key="d0">2025 Second Half Automobile Consumption Subsidy Program</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 Second Half Automobile Consumption Subsidy Program is the third round of an automobile subsidy initiative focused on personal and enterprise purchases in Jinan.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805072</data>
+</node>
+<node id="China Petroleum">
+  <data key="d0">China Petroleum</data>
+  <data key="d1">organization</data>
+  <data key="d2">China Petroleum provides fuel cards as part of the subsidy program benefits.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805073</data>
+</node>
+<node id="China Petrochemical Corporation">
+  <data key="d0">China Petrochemical Corporation</data>
+  <data key="d1">organization</data>
+  <data key="d2">China Petrochemical Corporation provides fuel cards under the subsidy program with specific usage rules.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805073</data>
+</node>
+<node id="Chinese Consumers">
+  <data key="d0">Chinese Consumers</data>
+  <data key="d1">group</data>
+  <data key="d2">Chinese consumers include personal and enterprise participants eligible for the automobile subsidy program.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805073</data>
+</node>
+<node id="Chinese Enterprises">
+  <data key="d0">Chinese Enterprises</data>
+  <data key="d1">group</data>
+  <data key="d2">Chinese enterprises are eligible entities under the automobile subsidy program, excluding government and administrative entities, with a limit of 3 vehicles.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805073</data>
+</node>
+<node id="Motor Vehicle Sales Unified Invoice">
+  <data key="d0">Motor Vehicle Sales Unified Invoice</data>
+  <data key="d1">document</data>
+  <data key="d2">The Motor Vehicle Sales Unified Invoice is essential documentation for subsidy applications, and must be issued within the program’s time frame.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805074</data>
+</node>
+<node id="Motor Vehicle Certificate Of Registration">
+  <data key="d0">Motor Vehicle Certificate Of Registration</data>
+  <data key="d1">document</data>
+  <data key="d2">The Motor Vehicle Certificate of Registration is required for applying for subsidies under the 2025 program.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805074</data>
+</node>
+<node id="Commercial Vehicle Insurance Policy">
+  <data key="d0">Commercial Vehicle Insurance Policy</data>
+  <data key="d1">document</data>
+  <data key="d2">The Commercial Vehicle Insurance Policy must cover one year and be effective during the program period to qualify for subsidy benefits.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805074</data>
+</node>
+<node id="Subsidy Rules">
+  <data key="d0">Subsidy Rules</data>
+  <data key="d1">concept</data>
+  <data key="d2">Subsidy Rules govern the eligibility, application process, and distribution of automobile subsidies during the 2025 event in Jinan.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805074</data>
+</node>
+<node id="China Construction Bank Hotline">
+  <data key="d0">China Construction Bank Hotline</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The China Construction Bank Hotline provides customer assistance regarding the subsidy program.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805074</data>
+</node>
+<node id="China Petrochemical Corporation Hotline">
+  <data key="d0">China Petrochemical Corporation Hotline</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The China Petrochemical Corporation Hotline offers customer support regarding fuel cards and program rules.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805074</data>
+</node>
+<node id="China Petroleum Hotline">
+  <data key="d0">China Petroleum Hotline</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The China Petroleum Hotline provides customer service for questions about the fuel cards and subsidy specifics.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805075</data>
+</node>
+<node id="Identity Card">
+  <data key="d0">Identity Card</data>
+  <data key="d1">document</data>
+  <data key="d2">The Identity Card is a document required for individual participants to apply for the subsidy program.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805075</data>
+</node>
+<node id="Business License">
+  <data key="d0">Business License</data>
+  <data key="d1">document</data>
+  <data key="d2">The Business License is a document required for enterprises participating in the subsidy program.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805075</data>
+</node>
+<node id="Bank Card">
+  <data key="d0">Bank Card</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Bank Card is used by individual participants to receive subsidy payments.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805075</data>
+</node>
+<node id="Bank Account License">
+  <data key="d0">Bank Account License</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Bank Account License is used by enterprises to ensure the receipt of subsidy payments.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805075</data>
+</node>
+<node id="Mobile Phone Number">
+  <data key="d0">Mobile Phone Number</data>
+  <data key="d1">data</data>
+  <data key="d2">The Mobile Phone Number is required to confirm application submissions and communicate updates.</data>
+  <data key="d3">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805076</data>
+</node>
+<node id="济南市商务局">
+  <data key="d0">济南市商务局</data>
+  <data key="d1">organization</data>
+  <data key="d2">济南市商务局is an organization in Jinan responsible for implementing policies related to automobile scrapping and replacement subsidies.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805076</data>
+</node>
+<node id="2025年汽车报废更新补贴活动">
+  <data key="d0">2025年汽车报废更新补贴活动</data>
+  <data key="d1">event</data>
+  <data key="d2">2025年汽车报废更新补贴活动is a subsidy event focused on renewing and scrapping automobiles, running from January 1 to December 31, 2025.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805076</data>
+</node>
+<node id="山东省置换更新平台">
+  <data key="d0">山东省置换更新平台</data>
+  <data key="d1">organization</data>
+  <data key="d2">山东省置换更新平台is a platform in Shandong that facilitates applications for automobile subsidy programs.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805076</data>
+</node>
+<node id="汽车以旧换新平台">
+  <data key="d0">汽车以旧换新平台</data>
+  <data key="d1">organization</data>
+  <data key="d2">汽车以旧换新平台is a platform where applications for the automobile renewal and replacement subsidy are processed.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805077</data>
+</node>
+<node id="新能源乘用车补贴">
+  <data key="d0">新能源乘用车补贴</data>
+  <data key="d1">concept</data>
+  <data key="d2">新能源乘用车补贴is a subsidy provided for purchasing new energy passenger vehicles as part of the automobile renewal program.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805077</data>
+</node>
+<node id="燃油乘用车补贴">
+  <data key="d0">燃油乘用车补贴</data>
+  <data key="d1">concept</data>
+  <data key="d2">燃油乘用车补贴is a subsidy provided for purchasing standard fuel passenger vehicles as part of the automobile renewal program.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805077</data>
+</node>
+<node id="资格券">
+  <data key="d0">资格券</data>
+  <data key="d1">artifact</data>
+  <data key="d2">资格券is a voucher used to apply for subsidies in the automobile renewal program, with specific requirements for validity and usage.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805077</data>
+</node>
+<node id="机动车登记证书">
+  <data key="d0">机动车登记证书</data>
+  <data key="d1">artifact</data>
+  <data key="d2">《机动车登记证书》 is an official certificate required for vehicle registration and subsidy application in the automobile renewal program.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805077</data>
+</node>
+<node id="2025年济南市汽车报废更新补贴实施细则">
+  <data key="d0">2025年济南市汽车报废更新补贴实施细则</data>
+  <data key="d1">content</data>
+  <data key="d2">《2025年济南市汽车报废更新补贴实施细则》 is a document detailing the subsidy implementation rules for automobile scrapping in Jinan.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805078</data>
+</node>
+<node id="2025年济南市汽车置换更新补贴实施细则">
+  <data key="d0">2025年济南市汽车置换更新补贴实施细则</data>
+  <data key="d1">content</data>
+  <data key="d2">《2025年济南市汽车置换更新补贴实施细则》 is a document outlining the subsidy rules for automobile replacement in Jinan.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805078</data>
+</node>
+<node id="0531-67976998">
+  <data key="d0">0531-67976998</data>
+  <data key="d1">data</data>
+  <data key="d2">0531-67976998 is one of the hotline numbers provided for inquiries related to the automobile subsidy programs in Jinan.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805078</data>
+</node>
+<node id="0531-67976967">
+  <data key="d0">0531-67976967</data>
+  <data key="d1">data</data>
+  <data key="d2">0531-67976967 is a hotline number provided for consumers to inquire about the automobile renewal program in Jinan.</data>
+  <data key="d3">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805078</data>
+</node>
+<node id="报废机动车回收管理办法">
+  <data key="d0">报废机动车回收管理办法</data>
+  <data key="d1">method</data>
+  <data key="d2">The "报废机动车回收管理办法" is a regulatory framework issued by the State Council that governs the handling and management of scrapped vehicles.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805079</data>
+</node>
+<node id="国务院令第715号">
+  <data key="d0">国务院令第715号</data>
+  <data key="d1">document</data>
+  <data key="d2">The "国务院令第715号" is the State Council directive related to the management of scrapped vehicles.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805079</data>
+</node>
+<node id="国务院令第427号">
+  <data key="d0">国务院令第427号</data>
+  <data key="d1">document</data>
+  <data key="d2">The "国务院令第427号" is the State Council directive concerning financial misconduct penalties and regulations.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805079</data>
+</node>
+<node id="报废机动车回收证明">
+  <data key="d0">报废机动车回收证明</data>
+  <data key="d1">document</data>
+  <data key="d2">The "报废机动车回收证明" is a certification for scrapped vehicle recovery.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805079</data>
+</node>
+<node id="拼装车">
+  <data key="d0">拼装车</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The term "拼装车" refers to reconstructed or assembled vehicles, often from scrapped parts.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805079</data>
+</node>
+<node id="省商务厅">
+  <data key="d0">省商务厅</data>
+  <data key="d1">organization</data>
+  <data key="d2">The省商务厅is a provincial commerce department responsible for overseeing business-related policies.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805079</data>
+</node>
+<node id="省财政厅">
+  <data key="d0">省财政厅</data>
+  <data key="d1">organization</data>
+  <data key="d2">The省财政厅is a provincial financial department responsible for managing fiscal policies and interpretation of financial measures.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805080</data>
+</node>
+<node id="济南市">
+  <data key="d0">济南市</data>
+  <data key="d1">location</data>
+  <data key="d2">济南市is a city in China, the location of an automobile consumer subsidy activity in 2025.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805080</data>
+</node>
+<node id="汽车消费补贴活动">
+  <data key="d0">汽车消费补贴活动</data>
+  <data key="d1">event</data>
+  <data key="d2">The "汽车消费补贴活动" is a fourth-round automobile consumer subsidy promotion held in济南市during October 2025.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805080</data>
+</node>
+<node id="工银e生活">
+  <data key="d0">工银e生活</data>
+  <data key="d1">platform</data>
+  <data key="d2">工银e生活is a mobile application platform used for managing and applying for automobile purchase subsidies.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805080</data>
+</node>
+<node id="机动车销售统一发票">
+  <data key="d0">机动车销售统一发票</data>
+  <data key="d1">document</data>
+  <data key="d2">The "机动车销售统一发票" is a standardized invoice for the sale of automobiles used for subsidy applications.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805081</data>
+</node>
+<node id="汽车消费礼包">
+  <data key="d0">汽车消费礼包</data>
+  <data key="d1">product</data>
+  <data key="d2">The "汽车消费礼包" is a financial incentive package offered to participants during the subsidy activity based on vehicle price ranges.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805081</data>
+</node>
+<node id="财政违法行为处罚处分条例">
+  <data key="d0">财政违法行为处罚处分条例</data>
+  <data key="d1">method</data>
+  <data key="d2">The "财政违法行为处罚处分条例" is a regulatory framework issued under国务院令第427号for managing and penalizing financial misconduct.</data>
+  <data key="d3">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805081</data>
+</node>
+<node id="Shandong Province">
+  <data key="d0">Shandong Province</data>
+  <data key="d1">location</data>
+  <data key="d2">Shandong Province is the administrative region where the automobile replacement subsidy policy for 2025 is implemented.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805081</data>
+</node>
+<node id="2025 Automobile Replacement Subsidy Implementation Guidelines">
+  <data key="d0">2025 Automobile Replacement Subsidy Implementation Guidelines</data>
+  <data key="d1">content</data>
+  <data key="d2">The guidelines outline the subsidy details for automobile replacement in Shandong Province, effective in 2025.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805082</data>
+</node>
+<node id="Personal Consumer">
+  <data key="d0">Personal Consumer</data>
+  <data key="d1">concept</data>
+  <data key="d2">Personal Consumer refers to individuals eligible to receive subsidies for automobile replacement under the 2025 guidelines.&lt;SEP&gt;Personal Consumer refers to an individual eligible to apply for the automobile scrap renewal subsidy.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0&lt;SEP&gt;chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805082</data>
+</node>
+<node id="New Energy Passenger Vehicle">
+  <data key="d0">New Energy Passenger Vehicle</data>
+  <data key="d1">artifact</data>
+  <data key="d2">New Energy Passenger Vehicle refers to vehicles using alternative energy sources, qualified for higher subsidy levels.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805082</data>
+</node>
+<node id="Fuel Vehicle">
+  <data key="d0">Fuel Vehicle</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Fuel Vehicle refers to conventional vehicles powered by fuel, also eligible for subsidies albeit at lower levels.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805082</data>
+</node>
+<node id="Vehicle Registration Certificate">
+  <data key="d0">Vehicle Registration Certificate</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Vehicle Registration Certificate is the official document validating the registration of a vehicle under the applicant's name.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805082</data>
+</node>
+<node id="Motor Vehicle Sales Invoice">
+  <data key="d0">Motor Vehicle Sales Invoice</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Motor Vehicle Sales Invoice serves as proof of purchase for new vehicles.&lt;SEP&gt;The Motor Vehicle Sales Invoice is a document necessary for claiming subsidies on purchased new vehicles.&lt;SEP&gt;The Motor Vehicle Sales Invoice is proof of purchase for a new car, required for subsidy application.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0&lt;SEP&gt;chunk-96b586e144360ef80aa8abc561f73854&lt;SEP&gt;chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805083</data>
+</node>
+<node id="Used Car Sales Invoice">
+  <data key="d0">Used Car Sales Invoice</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Used Car Sales Invoice is a document required to validate the transfer of ownership of the applicant's old vehicle.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805083</data>
+</node>
+<node id="Subsidy Amount">
+  <data key="d0">Subsidy Amount</data>
+  <data key="d1">data</data>
+  <data key="d2">The Subsidy Amount specifies monetary benefits based on the type and cost of the new automobile purchased.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805083</data>
+</node>
+<node id="Shandong Automobile Replacement Small Program">
+  <data key="d0">Shandong Automobile Replacement Small Program</data>
+  <data key="d1">method</data>
+  <data key="d2">Shandong Automobile Replacement Small Program is the online platform for Shandong residents to apply for subsidies.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805083</data>
+</node>
+<node id="National Development and Reform Commission">
+  <data key="d0">National Development and Reform Commission</data>
+  <data key="d1">organization</data>
+  <data key="d2">The National Development and Reform Commission issued national directives for equipment renewal and consumer product replacement policies in 2025.&lt;SEP&gt;The National Development and Reform Commission is a central authority overseeing policies such as the automobile replacement subsidy program.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d&lt;SEP&gt;chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805083</data>
+</node>
+<node id="Ministry of Commerce">
+  <data key="d0">Ministry of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Ministry of Commerce collaborated to ensure effective implementation of automobile replacement work in 2025.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805083</data>
+</node>
+<node id="Shandong Bureau of Commerce">
+  <data key="d0">Shandong Bureau of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Shandong Bureau of Commerce oversees the implementation of automobile subsidy policies within the province.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805084</data>
+</node>
+<node id="2024 Automobile Replacement Subsidy Implementation Guidelines">
+  <data key="d0">2024 Automobile Replacement Subsidy Implementation Guidelines</data>
+  <data key="d1">content</data>
+  <data key="d2">The 2024 Automobile Replacement Subsidy Implementation Guidelines outline requirements for the 2024 subsidy policy, referenced for cross-year policy alignment in 2025.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805084</data>
+</node>
+<node id="Nine-Passenger Vehicle">
+  <data key="d0">Nine-Passenger Vehicle</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Nine-Passenger Vehicle refers to small or micro passenger cars with no more than nine seats, categorized for subsidy eligibility under the guidelines.</data>
+  <data key="d3">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805084</data>
+</node>
+<node id="Motor Vehicle Registration Certificate">
+  <data key="d0">Motor Vehicle Registration Certificate</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Motor Vehicle Registration Certificate records the official registration details of new vehicles.&lt;SEP&gt;The motor vehicle registration certificate is an official document required to prove vehicle registration for subsidy application.&lt;SEP&gt;The Motor Vehicle Registration Certificate records the registration of a newly purchased vehicle, required for subsidy application.&lt;SEP&gt;The Motor Vehicle Registration Certificate is an official document recording vehicle ownership and registration details.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b&lt;SEP&gt;chunk-01ba47ce93bd63521560507f4e60ebd1&lt;SEP&gt;chunk-9d04bcaf9de54cebb144034ea39c9de0&lt;SEP&gt;chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805085</data>
+</node>
+<node id="Used Car Sales Unified Invoice">
+  <data key="d0">Used Car Sales Unified Invoice</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Used Car Sales Unified Invoice serves as proof of the sale of a used vehicle.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805085</data>
+</node>
+<node id="New Car Purchase Unified Invoice">
+  <data key="d0">New Car Purchase Unified Invoice</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The New Car Purchase Unified Invoice is an official receipt issued for purchasing new vehicles.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805085</data>
+</node>
+<node id="Jinan Bureau Of Commerce">
+  <data key="d0">Jinan Bureau Of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jinan Bureau Of Commerce is one of the seven departments involved in implementing the 2024 subsidy policy for car replacement and renewal.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805085</data>
+</node>
+<node id="Shandong Province Vehicle Replacement and Renewal Mini Program">
+  <data key="d0">Shandong Province Vehicle Replacement and Renewal Mini Program</data>
+  <data key="d1">method</data>
+  <data key="d2">The Shandong Province Vehicle Replacement and Renewal Mini Program is an online platform used for applying for car update subsidies by uploading required information and documents.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805085</data>
+</node>
+<node id="2025 Jinan Car Replacement Subsidy Policy">
+  <data key="d0">2025 Jinan Car Replacement Subsidy Policy</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 Jinan Car Replacement Subsidy Policy is a program offering financial incentives to replace old cars with qualifying new cars between January 1, 2025, and December 31, 2025.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805086</data>
+</node>
+<node id="National Vehicle Scrap Update Subsidy">
+  <data key="d0">National Vehicle Scrap Update Subsidy</data>
+  <data key="d1">concept</data>
+  <data key="d2">The National Vehicle Scrap Update Subsidy refers to a financial support system for vehicle upgrades in China.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805086</data>
+</node>
+<node id="Commuter Cars">
+  <data key="d0">Commuter Cars</data>
+  <data key="d1">category</data>
+  <data key="d2">Commuter Cars refer to passenger vehicles with a capacity of nine seats or fewer, including small and micro passenger cars.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805086</data>
+</node>
+<node id="New Energy Passenger Cars">
+  <data key="d0">New Energy Passenger Cars</data>
+  <data key="d1">category</data>
+  <data key="d2">New Energy Passenger Cars are cars using alternative energy sources and can be identified by new energy license plates in China.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805086</data>
+</node>
+<node id="Fossil Fuel Passenger Cars">
+  <data key="d0">Fossil Fuel Passenger Cars</data>
+  <data key="d1">category</data>
+  <data key="d2">Fossil Fuel Passenger Cars include vehicles running on petrol or diesel and are identified by non-new energy plates in China.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805086</data>
+</node>
+<node id="Jinan">
+  <data key="d0">Jinan</data>
+  <data key="d1">location</data>
+  <data key="d2">Jinan is designated as the subsidy acceptance location in the application process for new cars purchased there.&lt;SEP&gt;Jinan is the city in China implementing a 2025 policy for car scrapping and replacement subsidies.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b&lt;SEP&gt;chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805086</data>
+</node>
+<node id="Consumer">
+  <data key="d0">Consumer</data>
+  <data key="d1">person</data>
+  <data key="d2">A consumer is an individual filing for subsidies under the car replacement or scrapping program by meeting specific criteria.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805086</data>
+</node>
+<node id="Vehicle Identification Number">
+  <data key="d0">Vehicle Identification Number</data>
+  <data key="d1">data</data>
+  <data key="d2">The Vehicle Identification Number (VIN) is a unique identifier for a vehicle required for submission in subsidy applications.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805087</data>
+</node>
+<node id="2024 Jinan Car Replacement Subsidy Policy">
+  <data key="d0">2024 Jinan Car Replacement Subsidy Policy</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2024 Jinan Car Replacement Subsidy Policy is a program providing financial support for car replacement and renewal in Jinan.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805087</data>
+</node>
+<node id="Reduction of Vehicle Purchase Tax for New Energy Vehicle Models">
+  <data key="d0">Reduction of Vehicle Purchase Tax for New Energy Vehicle Models</data>
+  <data key="d1">category</data>
+  <data key="d2">This category refers to the vehicle models listed under the directory for reduced vehicle purchase tax, impacting car replacement policies.</data>
+  <data key="d3">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805087</data>
+</node>
+<node id="Shandong Province Automobile Scrap Renewal Subsidy Implementation Details">
+  <data key="d0">Shandong Province Automobile Scrap Renewal Subsidy Implementation Details</data>
+  <data key="d1">content</data>
+  <data key="d2">The Shandong Province Automobile Scrap Renewal Subsidy Implementation Details outline the policies and procedures for automobile renewal subsidies in 2025.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805088</data>
+</node>
+<node id="State Council Order No. 427">
+  <data key="d0">State Council Order No. 427</data>
+  <data key="d1">content</data>
+  <data key="d2">The State Council Order No. 427 refers to the Fiscal Violations Punishment Regulations, used for addressing misuse of subsidy funds.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805088</data>
+</node>
+<node id="2025 Automobile Scrap Renewal Work">
+  <data key="d0">2025 Automobile Scrap Renewal Work</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 Automobile Scrap Renewal Work emphasizes the transition to updated vehicles and increased automobile consumption.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805088</data>
+</node>
+<node id="Shandong Province Commerce Department">
+  <data key="d0">Shandong Province Commerce Department</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Shandong Province Commerce Department is responsible for implementing automobile renewal-related policies in the province.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805088</data>
+</node>
+<node id="National Automotive Renewal Policy">
+  <data key="d0">National Automotive Renewal Policy</data>
+  <data key="d1">concept</data>
+  <data key="d2">The National Automotive Renewal Policy is a framework for replacing old vehicles with new ones, administered through subsidies and regulations.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805088</data>
+</node>
+<node id="Individual Consumer">
+  <data key="d0">Individual Consumer</data>
+  <data key="d1">concept</data>
+  <data key="d2">An individual consumer is the main beneficiary of the automobile subsidy policies outlined for vehicle scrap and purchase updates.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805088</data>
+</node>
+<node id="Scrap Motor Vehicle Recovery Certificate">
+  <data key="d0">Scrap Motor Vehicle Recovery Certificate</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Scrap Motor Vehicle Recovery Certificate confirms the official recovery and disposal of old vehicles.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805089</data>
+</node>
+<node id="National Automotive Circulation Information Management System">
+  <data key="d0">National Automotive Circulation Information Management System</data>
+  <data key="d1">organization</data>
+  <data key="d2">The National Automotive Circulation Information Management System is an online portal for managing automotive-related processes and subsidy applications.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805089</data>
+</node>
+<node id="Commerce Department Circular No. 392">
+  <data key="d0">Commerce Department Circular No. 392</data>
+  <data key="d1">content</data>
+  <data key="d2">Commerce Department Circular No. 392 provides guidance on automotive renewal processes and associated requirements.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805089</data>
+</node>
+<node id="State Council, National Development and Reform Committee, Ministry of Finance">
+  <data key="d0">State Council, National Development and Reform Committee, Ministry of Finance</data>
+  <data key="d1">organization</data>
+  <data key="d2">These governmental organizations collaborate to formulate policies and oversee regulatory compliance in automobile renewal and subsidy processes.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805089</data>
+</node>
+<node id="Subsidy Funds Misuse">
+  <data key="d0">Subsidy Funds Misuse</data>
+  <data key="d1">concept</data>
+  <data key="d2">Subsidy Funds Misuse refers to the unauthorized or fraudulent use of financial aid allocated for automobile scrap and renewal policies.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805090</data>
+</node>
+<node id="Regulation On Punishments For Fiscal Violations">
+  <data key="d0">Regulation On Punishments For Fiscal Violations</data>
+  <data key="d1">content</data>
+  <data key="d2">Regulation On Punishments For Fiscal Violations is a legal framework under State Council Order No. 427 used to penalize misuse of subsidy funds.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805090</data>
+</node>
+<node id="Industrial And Information Technology Ministry's Vehicle Tax Exemption List">
+  <data key="d0">Industrial And Information Technology Ministry's Vehicle Tax Exemption List</data>
+  <data key="d1">data</data>
+  <data key="d2">Industrial And Information Technology Ministry's Vehicle Tax Exemption List includes automotive models eligible for tax deductions and renewals.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805090</data>
+</node>
+<node id="Fuel Consumption Standards">
+  <data key="d0">Fuel Consumption Standards</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fuel Consumption Standards refer to benchmarks for emissions levels that determine vehicle eligibility for scrap and renewal subsidies.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805090</data>
+</node>
+<node id="State-Level Automotive Renewal Policies">
+  <data key="d0">State-Level Automotive Renewal Policies</data>
+  <data key="d1">concept</data>
+  <data key="d2">State-Level Automotive Renewal Policies outline the overarching national standards for updating old vehicles and increasing automotive consumption.</data>
+  <data key="d3">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805090</data>
+</node>
+<node id="Debet Card Information">
+  <data key="d0">Debet Card Information</data>
+  <data key="d1">data</data>
+  <data key="d2">Debet card information includes card numbers and the name of the issuing bank required for processing applications.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805090</data>
+</node>
+<node id="Applicant Photo and ID">
+  <data key="d0">Applicant Photo and ID</data>
+  <data key="d1">data</data>
+  <data key="d2">Applicant photo and ID refer to the photographic and scanned images of the applicant's ID card (front and back) required for submissions.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805090</data>
+</node>
+<node id="Old Passenger Car VIN Code">
+  <data key="d0">Old Passenger Car VIN Code</data>
+  <data key="d1">data</data>
+  <data key="d2">The VIN (Vehicle Identification Number) code of the old passenger car is required for transfer documentation.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805091</data>
+</node>
+<node id="Old Passenger Car Documents">
+  <data key="d0">Old Passenger Car Documents</data>
+  <data key="d1">data</data>
+  <data key="d2">The old passenger car documents include the unified invoice for second-hand car sales and the certificate of motor vehicle registration.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805092</data>
+</node>
+<node id="New Passenger Car Documents">
+  <data key="d0">New Passenger Car Documents</data>
+  <data key="d1">data</data>
+  <data key="d2">The new passenger car documents include the unified invoice for motor vehicle sales and the certificate of motor vehicle registration.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805092</data>
+</node>
+<node id="Central Government Funds">
+  <data key="d0">Central Government Funds</data>
+  <data key="d1">concept</data>
+  <data key="d2">Central government funds refer to allocated financial support provided for subsidy programs.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805092</data>
+</node>
+<node id="Provincial Government Funds">
+  <data key="d0">Provincial Government Funds</data>
+  <data key="d1">concept</data>
+  <data key="d2">Provincial government funds represent regional financial contributions to subsidy programs.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805092</data>
+</node>
+<node id="2025 Automobile Replacement Subsidy Program">
+  <data key="d0">2025 Automobile Replacement Subsidy Program</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 automobile replacement subsidy program supports the replacement of old cars with newer vehicles and provides financial subsidies to applicants meeting specific conditions.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805092</data>
+</node>
+<node id="Ministry Of Commerce">
+  <data key="d0">Ministry Of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Ministry of Commerce is involved in guiding cities in implementing automobile replacement subsidy policies.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805092</data>
+</node>
+<node id="Ministry Of Finance">
+  <data key="d0">Ministry Of Finance</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Ministry of Finance is responsible for financial supervision and the performance evaluation of subsidy fund allocation.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805092</data>
+</node>
+<node id="City Commercial Departments">
+  <data key="d0">City Commercial Departments</data>
+  <data key="d1">organization</data>
+  <data key="d2">City commercial departments collaborate with other authorities to review applications and manage subsidy programs at the municipal level.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805093</data>
+</node>
+<node id="Municipal Finance Departments">
+  <data key="d0">Municipal Finance Departments</data>
+  <data key="d1">organization</data>
+  <data key="d2">Municipal finance departments manage budget execution, performance evaluation, and corrective monitoring for the subsidy programs.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805093</data>
+</node>
+<node id="Tax Authority">
+  <data key="d0">Tax Authority</data>
+  <data key="d1">organization</data>
+  <data key="d2">The tax authority collaborates to ensure proper management of unified motor vehicle sales invoices.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805093</data>
+</node>
+<node id="Automobile Replacement Subsidy Hotline">
+  <data key="d0">Automobile Replacement Subsidy Hotline</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The automobile replacement subsidy hotline provides public support and answers queries related to the subsidy program.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805093</data>
+</node>
+<node id="Automobile Sales Staff">
+  <data key="d0">Automobile Sales Staff</data>
+  <data key="d1">person</data>
+  <data key="d2">Automobile sales staff are individuals who must ensure integrity in selling processes and compliance with subsidy rules.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805094</data>
+</node>
+<node id="Automobile Replacement Information Platform">
+  <data key="d0">Automobile Replacement Information Platform</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The automobile replacement information platform supports data submission and transparency for the subsidy program.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805094</data>
+</node>
+<node id="State-Owned Assets Supervision Commission">
+  <data key="d0">State-Owned Assets Supervision Commission</data>
+  <data key="d1">organization</data>
+  <data key="d2">The commission cooperates in managing subsidy-related funds and resource allocation.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805094</data>
+</node>
+<node id="2026 Deadline">
+  <data key="d0">2026 Deadline</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2026 deadline refers to the final date for applicants to submit or correct subsidy application materials, specifically by January 20, 2026.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805094</data>
+</node>
+<node id="Provincial Development and Reform Commissions">
+  <data key="d0">Provincial Development and Reform Commissions</data>
+  <data key="d1">organization</data>
+  <data key="d2">Provincial development and reform commissions are regional authorities involved in supervising the implementation of the automobile replacement subsidy program.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805095</data>
+</node>
+<node id="2025 Implementation Period">
+  <data key="d0">2025 Implementation Period</data>
+  <data key="d1">event</data>
+  <data key="d2">The 2025 implementation period refers to the timespan during which the automobile replacement subsidy program is active and operational.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805095</data>
+</node>
+<node id="Applicants">
+  <data key="d0">Applicants</data>
+  <data key="d1">person</data>
+  <data key="d2">Applicants are individuals or entities seeking financial subsidies through the automobile replacement program by submitting required documentation.</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805095</data>
+</node>
+<node id="Automobile Scrap Renewal Subsidy Policy">
+  <data key="d0">Automobile Scrap Renewal Subsidy Policy</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Automobile Scrap Renewal Subsidy Policy provides financial incentives to consumers for scrapping old cars and purchasing new ones under specific guidelines.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805095</data>
+</node>
+<node id="Old Passenger Vehicles">
+  <data key="d0">Old Passenger Vehicles</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Old Passenger Vehicles are cars previously owned by individuals and subject to scrapping under the subsidy policy.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805095</data>
+</node>
+<node id="New Passenger Vehicles">
+  <data key="d0">New Passenger Vehicles</data>
+  <data key="d1">artifact</data>
+  <data key="d2">New Passenger Vehicles are cars purchased by personal consumers to replace scrapped vehicles under the subsidy policy.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805096</data>
+</node>
+<node id="Scrap Motor Vehicle Recycling Certificate">
+  <data key="d0">Scrap Motor Vehicle Recycling Certificate</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Scrap Motor Vehicle Recycling Certificate is proof issued upon scrapping a vehicle, required for subsidy application.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805096</data>
+</node>
+<node id="Ministry of Commerce Automobile Circulation Information Management System Website">
+  <data key="d0">Ministry of Commerce Automobile Circulation Information Management System Website</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Ministry of Commerce Automobile Circulation Information Management System Website allows personal consumers to apply online for the subsidy.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805096</data>
+</node>
+<node id="Automobile Trade-In Mini Program">
+  <data key="d0">Automobile Trade-In Mini Program</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Automobile Trade-In Mini Program provides an exclusive platform for consumers to submit applications for the subsidy.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805097</data>
+</node>
+<node id="China Ministry of Commerce">
+  <data key="d0">China Ministry of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">The China Ministry of Commerce oversees the automobile scrap renewal subsidy policy and its guidelines.</data>
+  <data key="d3">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805097</data>
+</node>
+<node id="Personal Consumers">
+  <data key="d0">Personal Consumers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Personal consumers refer to individuals who purchase goods or services for personal use, including participation in the subsidy program for non-operating passenger cars.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805097</data>
+</node>
+<node id="Enterprises">
+  <data key="d0">Enterprises</data>
+  <data key="d1">concept</data>
+  <data key="d2">Enterprises are organizations eligible to participate in the subsidy program for purchasing non-operating passenger cars under certain conditions.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805097</data>
+</node>
+<node id="Subsidy Program">
+  <data key="d0">Subsidy Program</data>
+  <data key="d1">concept</data>
+  <data key="d2">The subsidy program provides financial support to personal consumers and enterprises who purchase new non-operating passenger cars in Jinan City.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805098</data>
+</node>
+<node id="Administrative Units">
+  <data key="d0">Administrative Units</data>
+  <data key="d1">organization</data>
+  <data key="d2">Administrative units are government-related organizations excluded from eligibility in the subsidy program.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805098</data>
+</node>
+<node id="Commercial Units">
+  <data key="d0">Commercial Units</data>
+  <data key="d1">organization</data>
+  <data key="d2">Commercial units are business entities or enterprises eligible to apply for subsidies under the program.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805098</data>
+</node>
+<node id="New Passenger Cars">
+  <data key="d0">New Passenger Cars</data>
+  <data key="d1">artifact</data>
+  <data key="d2">New passenger cars refer to non-operating vehicles purchased under the subsidy program, with eligibility tied to specific invoice amounts.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805098</data>
+</node>
+<node id="Vehicle Purchase Invoice">
+  <data key="d0">Vehicle Purchase Invoice</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The vehicle purchase invoice is the official document required to validate the purchase amount for subsidy claims.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805098</data>
+</node>
+<node id="Motor Vehicle Driving Permit">
+  <data key="d0">Motor Vehicle Driving Permit</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The motor vehicle driving permit is an official document confirming the completion of vehicle registration, necessary for subsidy application.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805099</data>
+</node>
+<node id="Bank Accounts">
+  <data key="d0">Bank Accounts</data>
+  <data key="d1">data</data>
+  <data key="d2">Bank accounts refer to the financial accounts of consumers or enterprises needed for receiving subsidy funds.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805099</data>
+</node>
+<node id="China Petroleum (PetroChina)">
+  <data key="d0">China Petroleum (PetroChina)</data>
+  <data key="d1">organization</data>
+  <data key="d2">China Petroleum, also known as PetroChina, is one of the organizations responsible for distributing fuel stored-value cards to subsidy recipients.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805099</data>
+</node>
+<node id="China Petrochemical Corporation (Sinopec)">
+  <data key="d0">China Petrochemical Corporation (Sinopec)</data>
+  <data key="d1">organization</data>
+  <data key="d2">China Petrochemical Corporation, also known as Sinopec, is responsible for distributing fuel stored-value cards to subsidy recipients.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805100</data>
+</node>
+<node id="Commercial Vehicle Insurance">
+  <data key="d0">Commercial Vehicle Insurance</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Commercial vehicle insurance is a mandatory one-year insurance policy required for subsidy eligibility.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805100</data>
+</node>
+<node id="Electronic Insurance Policy">
+  <data key="d0">Electronic Insurance Policy</data>
+  <data key="d1">data</data>
+  <data key="d2">The electronic insurance policy is an officially accepted insurance document necessary for subsidy applications.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805100</data>
+</node>
+<node id="System Initial Review">
+  <data key="d0">System Initial Review</data>
+  <data key="d1">method</data>
+  <data key="d2">The system initial review is the first stage of the subsidy application process, evaluating the completeness and validity of submitted documents.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805100</data>
+</node>
+<node id="Third-Party Institution Review">
+  <data key="d0">Third-Party Institution Review</data>
+  <data key="d1">method</data>
+  <data key="d2">The third-party institution review is the secondary assessment of submitted documents in the subsidy approval process.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805100</data>
+</node>
+<node id="Fuel Stored-Value Card">
+  <data key="d0">Fuel Stored-Value Card</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The fuel stored-value card is a prepaid card provided as part of the subsidy, usable for fuel purchases within a defined validity period.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805101</data>
+</node>
+<node id="Activity QR Code">
+  <data key="d0">Activity QR Code</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The activity QR code is an encoded graphic that participants can scan to apply for subsidies through the mobile system.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805101</data>
+</node>
+<node id="工银e生活 App">
+  <data key="d0">工银e生活 App</data>
+  <data key="d1">artifact</data>
+  <data key="d2">“工银e生活” App is a mobile application that provides an interface for users to apply for the subsidy program under the Jinan Special Promotion section.</data>
+  <data key="d3">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805101</data>
+</node>
+<node id="Council Citizens">
+  <data key="d0">Council Citizens</data>
+  <data key="d3">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d2">The automobile replacement subsidy hotline assists the general public by addressing questions and concerns about the program.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">car.docx</data>
+  <data key="d5">1759805165</data>
+</node>
+<edge source="Jinan City" target="Jinan Municipal Bureau of Commerce">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan Municipal Bureau of Commerce administers the implementation of vehicle-related subsidy programs in Jinan City.</data>
+  <data key="d8">central coordination,policy enforcement</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805102</data>
+</edge>
+<edge source="Jinan Municipal Bureau of Commerce" target="Automobile Replacement Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan Municipal Bureau of Commerce oversees the Automobile Replacement Subsidy Program in the region.</data>
+  <data key="d8">oversight,policy-driven initiative</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805105</data>
+</edge>
+<edge source="Jinan Municipal Bureau of Commerce" target="Vehicle Scrapping Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan Municipal Bureau of Commerce implements the 2025 Vehicle Scrapping Policy in Jinan City.</data>
+  <data key="d8">administration,regulatory framework</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805107</data>
+</edge>
+<edge source="Jinan Municipal Bureau of Commerce" target="Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">The Jinan Municipal Bureau of Commerce oversees and administers the subsidy program, including publicizing recipients and issuing insurance subsidies.</data>
+  <data key="d8">administration,oversight</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805174</data>
+</edge>
+<edge source="China National Petroleum Corporation (CNPC)" target="Fuel Top-Up Cards">
+  <data key="d6">1.0</data>
+  <data key="d7">CNPC provides fuel top-up cards as part of subsidy benefits to qualifying applicants.</data>
+  <data key="d8">energy-related services,provision</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805102</data>
+</edge>
+<edge source="China Petroleum &amp; Chemical Corporation (Sinopec)" target="Fuel Top-Up Cards">
+  <data key="d6">1.0</data>
+  <data key="d7">Sinopec offers fuel top-up cards under the vehicle replacement subsidy program.</data>
+  <data key="d8">energy-related benefits,provision</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805104</data>
+</edge>
+<edge source="Automobile Replacement Subsidy Program" target="Commercial Banks">
+  <data key="d6">1.0</data>
+  <data key="d7">Commercial banks handle inquiries related to the Automobile Replacement Subsidy Program through dedicated hotline services.</data>
+  <data key="d8">consultation,financial support</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805107</data>
+</edge>
+<edge source="Automobile Replacement Subsidy Program" target="Vehicle Scrapping Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Automobile Replacement Subsidy Program is designed as part of Jinan City's 2025 Vehicle Scrapping Policy.</data>
+  <data key="d8">environmental objective,subsidy initiative</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805109</data>
+</edge>
+<edge source="Fiscal Subsidies for Vehicles" target="Motor Vehicles">
+  <data key="d6">1.0</data>
+  <data key="d7">Motor vehicles are subject to fiscal subsidies under strict documentation criteria.</data>
+  <data key="d8">eligibility,subsidy criteria</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805102</data>
+</edge>
+<edge source="Fiscal Subsidies for Vehicles" target="Automobile Sales Enterprises">
+  <data key="d6">1.0</data>
+  <data key="d7">Automobile sales enterprises must follow regulations to prevent fraudulent subsidy claims.</data>
+  <data key="d8">integrity enforcement,regulatory adherence</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805104</data>
+</edge>
+<edge source="Fiscal Subsidies for Vehicles" target="Automobile Subsidy Qualification Coupon">
+  <data key="d6">1.0</data>
+  <data key="d7">Automobile Subsidy Qualification Coupons are used to access fiscal subsidies under the vehicle replacement program.</data>
+  <data key="d8">program eligibility,subsidy tool</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805106</data>
+</edge>
+<edge source="Automobile Sales Enterprises" target="Automobile Sales Staff">
+  <data key="d6">1.0</data>
+  <data key="d7">Automobile sales enterprises and their staff must comply with regulations to ensure integrity in the subsidy process.</data>
+  <data key="d8">ethical conduct,policy compliance</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805165</data>
+</edge>
+<edge source="Fuel Top-Up Cards" target="Smartphone-Based Qualification Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Fuel top-up cards are distributed to eligible applicants who register via the smartphone-based qualification method.</data>
+  <data key="d8">digital application,distribution</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805107</data>
+</edge>
+<edge source="Smartphone-Based Qualification Program" target="Business Jinan">
+  <data key="d6">1.0</data>
+  <data key="d7">Business Jinan allows applicants to register and upload necessary documents to participate in the Smartphone-Based Qualification Program.</data>
+  <data key="d8">registration platform,subsidy qualification</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805105</data>
+</edge>
+<edge source="Business Jinan" target="Automobile Subsidy Qualification Coupon">
+  <data key="d6">1.0</data>
+  <data key="d7">The Automobile Subsidy Qualification Coupon is issued via the Business Jinan platform upon successful application.</data>
+  <data key="d8">issuance,platform-based application</data>
+  <data key="d9">chunk-6789897058a30b32172d17be14ab5980</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805107</data>
+</edge>
+<edge source="National Vehicle Circulation Information Management System" target="&quot;Automobile Old-for-New&quot; Mini Program">
+  <data key="d6">1.0</data>
+  <data key="d7">The "Automobile Old-for-New" Mini Program is integrated with the National Vehicle Circulation Information Management System for subsidy application processing.</data>
+  <data key="d8">online platform,subsidy application</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805107</data>
+</edge>
+<edge source="Identity Information" target="Automobile Replacement Subsidy">
+  <data key="d6">1.0</data>
+  <data key="d7">Identity information is required as part of the application process for the Automobile Replacement Subsidy.</data>
+  <data key="d8">application requirement,data submission</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805109</data>
+</edge>
+<edge source="Vehicle Identification Number (VIN)" target="Personal Consumer">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal Consumers must provide the Vehicle Identification Number for verification of old vehicle transfers when applying for subsidies.</data>
+  <data key="d8">application requirement,ownership validation</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805155</data>
+</edge>
+<edge source="Vehicle Identification Number (VIN)" target="Old Passenger Vehicles">
+  <data key="d6">1.0</data>
+  <data key="d7">The Vehicle Identification Number is used to identify Old Passenger Vehicles during the scrapping and subsidy application process.</data>
+  <data key="d8">data requirement,identification</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805171</data>
+</edge>
+<edge source="Vehicle Identification Number (VIN)" target="New Passenger Vehicles">
+  <data key="d6">1.0</data>
+  <data key="d7">The Vehicle Identification Number is required for New Passenger Vehicles in the subsidy application process.</data>
+  <data key="d8">data requirement,tracking</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805172</data>
+</edge>
+<edge source="Vehicle Identification Number (VIN)" target="Automobile Scrap Renewal Subsidy Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Vehicle Identification Number is a mandatory piece of data for complying with the Automobile Scrap Renewal Subsidy Policy.</data>
+  <data key="d8">compliance,data validation</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805175</data>
+</edge>
+<edge source="Scrapped Vehicle Recycling Certificate" target="Automobile Replacement Subsidy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Scrapped Vehicle Recycling Certificate must be submitted to demonstrate eligibility for the Automobile Replacement Subsidy.</data>
+  <data key="d8">artifact submission,eligibility criteria</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805110</data>
+</edge>
+<edge source="Scrapped Vehicle Recycling Certificate" target="Qualified Dismantling Enterprises">
+  <data key="d6">1.0</data>
+  <data key="d7">Qualified Dismantling Enterprises are responsible for issuing Scrapped Vehicle Recycling Certificates as part of the automobile replacement process.</data>
+  <data key="d8">certification,document issuance</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805116</data>
+</edge>
+<edge source="Motor Vehicle Deregistration Certificate" target="Automobile Replacement Subsidy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Motor Vehicle Deregistration Certificate is required to confirm that the applicant has deregistered their old vehicle.</data>
+  <data key="d8">artifact submission,eligibility criteria</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805112</data>
+</edge>
+<edge source="Motor Vehicle Deregistration Certificate" target="Scrap Motor Vehicle Recovery Certificate">
+  <data key="d6">1.0</data>
+  <data key="d7">The Scrap Motor Vehicle Recovery Certificate and Motor Vehicle Deregistration Certificate jointly support the documentation required for vehicle renewal subsidies.</data>
+  <data key="d8">connection,documentation</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805161</data>
+</edge>
+<edge source="Motor Vehicle Deregistration Certificate" target="Old Passenger Vehicles">
+  <data key="d6">1.0</data>
+  <data key="d7">Old Passenger Vehicles must be deregistered to secure the Motor Vehicle Deregistration Certificate.</data>
+  <data key="d8">deregistration,proof</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805169</data>
+</edge>
+<edge source="Motor Vehicle Deregistration Certificate" target="Automobile Scrap Renewal Subsidy Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Automobile Scrap Renewal Subsidy Policy mandates a Motor Vehicle Deregistration Certificate for application eligibility.</data>
+  <data key="d8">eligibility,requirement</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805172</data>
+</edge>
+<edge source="Uniform Invoice for Motor Vehicle Sale" target="Automobile Replacement Subsidy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Uniform Invoice for Motor Vehicle Sale verifies the purchase of a new car as part of the subsidy application.</data>
+  <data key="d8">artifact submission,financial proof</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805113</data>
+</edge>
+<edge source="Certificate of Vehicle Registration" target="Automobile Replacement Subsidy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Certificate of Vehicle Registration must be provided to confirm ownership of the newly purchased car, as required for the subsidy.</data>
+  <data key="d8">artifact submission,registration process</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805115</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="City Commerce Departments">
+  <data key="d6">1.0</data>
+  <data key="d7">City Commerce Departments oversee the implementation and supervision of the Automobile Replacement Subsidy program.</data>
+  <data key="d8">implementation,supervision</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805107</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="Central Government Funding">
+  <data key="d6">1.0</data>
+  <data key="d7">Central Government Funding is used to support the implementation of the Automobile Replacement Subsidy program.</data>
+  <data key="d8">funding allocation,program support</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805116</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="Provincial Government Funding">
+  <data key="d6">1.0</data>
+  <data key="d7">Provincial Government Funding supplements the central government's budget for the subsidy program.</data>
+  <data key="d8">funding allocation,supplementary funds</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805118</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="Local Funds">
+  <data key="d6">1.0</data>
+  <data key="d7">Local Funds are provided to cover any excess costs when central and provincial allocations are insufficient.</data>
+  <data key="d8">budget gap coverage,resource allocation</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805119</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="Ministry of Finance">
+  <data key="d6">1.0</data>
+  <data key="d7">The Ministry of Finance oversees the distribution and effective use of funds for the Automobile Replacement Subsidy program.</data>
+  <data key="d8">financial oversight,fund allocation</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805121</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="Ministry of Public Security">
+  <data key="d6">1.0</data>
+  <data key="d7">The Ministry of Public Security verifies vehicular data as part of the subsidy application requirements.</data>
+  <data key="d8">regulatory oversight,vehicle data verification</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805122</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="2025 Equipment Upgrade and Consumer Products Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">The subsidy program was created under the framework of the "2025 Equipment Upgrade and Consumer Products Policy."</data>
+  <data key="d8">policy adherence,subsidy enhancement</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805124</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="State Administration of Taxation">
+  <data key="d6">1.0</data>
+  <data key="d7">The State Administration of Taxation assists with tax-related data verification during subsidy approval processes.</data>
+  <data key="d8">data verification,tax oversight</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805126</data>
+</edge>
+<edge source="Automobile Replacement Subsidy" target="Province Development and Reform Commission">
+  <data key="d6">1.0</data>
+  <data key="d7">The Province Development and Reform Commission supervises the implementation of the Automobile Replacement Subsidy at the provincial level.</data>
+  <data key="d8">oversight,policy implementation</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805128</data>
+</edge>
+<edge source="City Commerce Departments" target="Hotline for Automobile Replacement Consultation">
+  <data key="d6">1.0</data>
+  <data key="d7">City Commerce Departments set up and manage the Hotline for Automobile Replacement Consultation to assist the public and provide information.</data>
+  <data key="d8">communication,public support</data>
+  <data key="d9">chunk-83ca4195a3f5f9fa7ecdb28e60122379</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805118</data>
+</edge>
+<edge source="Jinan Municipal Bureau Of Commerce" target="2025 Second Half Automobile Consumption Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan Municipal Bureau of Commerce manages and oversees the 2025 subsidy program in Jinan.</data>
+  <data key="d8">coordination,management</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805119</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="China Petroleum">
+  <data key="d6">1.0</data>
+  <data key="d7">China Petroleum offers fuel cards to participants of the program as part of the subsidy benefits.</data>
+  <data key="d8">fuel cards,program benefits</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805121</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="China Petrochemical Corporation">
+  <data key="d6">1.0</data>
+  <data key="d7">China Petrochemical Corporation provides fuel cards under the program, subject to specified usage rules.</data>
+  <data key="d8">benefit distribution,fuel cards</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805123</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Chinese Consumers">
+  <data key="d6">1.0</data>
+  <data key="d7">Chinese consumers, including individuals and enterprises, are eligible to apply for subsidies during the program period.</data>
+  <data key="d8">consumer participation,eligibility</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805125</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Subsidy Rules">
+  <data key="d6">1.0</data>
+  <data key="d7">Subsidy Rules define the conditions, processes, and limitations of the subsidy program.</data>
+  <data key="d8">eligibility,regulations</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805126</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Motor Vehicle Sales Unified Invoice">
+  <data key="d6">1.0</data>
+  <data key="d7">The Motor Vehicle Sales Unified Invoice is mandatory for subsidy applications in the program.</data>
+  <data key="d8">eligibility,required documentation</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805128</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Motor Vehicle Certificate Of Registration">
+  <data key="d6">1.0</data>
+  <data key="d7">The Motor Vehicle Certificate of Registration must match the applicant's information to qualify for subsidies.</data>
+  <data key="d8">compliance,proof of ownership</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805129</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Commercial Vehicle Insurance Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Commercial Vehicle Insurance Policy is a compulsory document for subsidy claims during the program period.</data>
+  <data key="d8">eligibility,insurance requirement</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805131</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="China Construction Bank Hotline">
+  <data key="d6">1.0</data>
+  <data key="d7">The China Construction Bank Hotline assists with inquiries and support about the subsidy program.</data>
+  <data key="d8">assistance,customer support</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805133</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="China Petrochemical Corporation Hotline">
+  <data key="d6">1.0</data>
+  <data key="d7">The China Petrochemical Corporation Hotline offers guidance on fuel card rules and program details.</data>
+  <data key="d8">customer service,fuel card support</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805135</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="China Petroleum Hotline">
+  <data key="d6">1.0</data>
+  <data key="d7">The China Petroleum Hotline provides assistance on fuel cards and other subsidy program details.</data>
+  <data key="d8">customer inquiries,subsidy information</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805136</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Identity Card">
+  <data key="d6">1.0</data>
+  <data key="d7">The Identity Card is required for individuals applying for subsidies during the program.</data>
+  <data key="d8">documentation requirement,individual eligibility</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805138</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Business License">
+  <data key="d6">1.0</data>
+  <data key="d7">The Business License is mandatory for enterprises applying for subsidies during the program.</data>
+  <data key="d8">documentation requirement,enterprise eligibility</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805139</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Bank Card">
+  <data key="d6">1.0</data>
+  <data key="d7">The Bank Card is used to deposit subsidies for individuals under the program.</data>
+  <data key="d8">payment method,subsidy disbursement</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805141</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Bank Account License">
+  <data key="d6">1.0</data>
+  <data key="d7">The Bank Account License ensures subsidy payments are directed to enterprise accounts.</data>
+  <data key="d8">payment method,subsidy regulation</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805142</data>
+</edge>
+<edge source="2025 Second Half Automobile Consumption Subsidy Program" target="Mobile Phone Number">
+  <data key="d6">1.0</data>
+  <data key="d7">A valid Mobile Phone Number is required to receive notifications and updates regarding subsidy applications.</data>
+  <data key="d8">application tracking,communication</data>
+  <data key="d9">chunk-ec6417bc419266b6d4432d11ccf2ddd9</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805144</data>
+</edge>
+<edge source="济南市商务局" target="汽车以旧换新平台">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局oversees the administration of subsidy applications on the汽车以旧换新platform.</data>
+  <data key="d8">administration,policy implementation</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805135</data>
+</edge>
+<edge source="济南市商务局" target="山东省置换更新平台">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局manages the subsidy application processing facilitated by the山东省置换更新平台.</data>
+  <data key="d8">administration,policy implementation</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805137</data>
+</edge>
+<edge source="济南市商务局" target="2025年济南市汽车报废更新补贴实施细则">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局follows the guidelines specified in 《2025年济南市汽车报废更新补贴实施细则》.</data>
+  <data key="d8">policy enforcement,regulatory guidelines</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805140</data>
+</edge>
+<edge source="济南市商务局" target="2025年济南市汽车置换更新补贴实施细则">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局enforces subsidy rules detailed in 《2025年济南市汽车置换更新补贴实施细则》.</data>
+  <data key="d8">policy enforcement,regulatory document</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805142</data>
+</edge>
+<edge source="济南市商务局" target="0531-67976998">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局provides the hotline number 0531-67976998 for public inquiries related to the automobile subsidy programs.</data>
+  <data key="d8">hotline,information access</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805143</data>
+</edge>
+<edge source="济南市商务局" target="0531-67976967">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局provides the hotline number 0531-67976967 for consumers to obtain information about the automobile renewal program.</data>
+  <data key="d8">hotline,information access</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805145</data>
+</edge>
+<edge source="2025年汽车报废更新补贴活动" target="新能源乘用车补贴">
+  <data key="d6">1.0</data>
+  <data key="d7">新能源乘用车补贴is one of the subsidy types provided under the 2025年汽车报废更新补贴活动.</data>
+  <data key="d8">program alignment,subsidy provision</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805137</data>
+</edge>
+<edge source="2025年汽车报废更新补贴活动" target="燃油乘用车补贴">
+  <data key="d6">1.0</data>
+  <data key="d7">燃油乘用车补贴is one of the subsidy types offered under the 2025年汽车报废更新补贴活动.</data>
+  <data key="d8">program alignment,subsidy provision</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805138</data>
+</edge>
+<edge source="2025年汽车报废更新补贴活动" target="资格券">
+  <data key="d6">1.0</data>
+  <data key="d7">资格券is used in applications for subsidies in the 2025年汽车报废更新补贴活动.</data>
+  <data key="d8">subsidy application,voucher</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805142</data>
+</edge>
+<edge source="2025年汽车报废更新补贴活动" target="机动车登记证书">
+  <data key="d6">1.0</data>
+  <data key="d7">《机动车登记证书》 is required for verification during subsidy applications in the 2025年汽车报废更新补贴活动.</data>
+  <data key="d8">application,registration requirement</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805143</data>
+</edge>
+<edge source="山东省置换更新平台" target="资格券">
+  <data key="d6">1.0</data>
+  <data key="d7">资格券must also be uploaded to the山东省置换更新平台for subsidy applications.</data>
+  <data key="d8">application process,voucher usage</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805140</data>
+</edge>
+<edge source="汽车以旧换新平台" target="资格券">
+  <data key="d6">1.0</data>
+  <data key="d7">资格券needs to be uploaded to the汽车以旧换新平台as part of the subsidy application process.</data>
+  <data key="d8">application process,voucher usage</data>
+  <data key="d9">chunk-7dec2795b9a7da8240c60af2e5d93ee1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805138</data>
+</edge>
+<edge source="报废机动车回收管理办法" target="国务院令第715号">
+  <data key="d6">1.0</data>
+  <data key="d7">The "报废机动车回收管理办法" is implemented under "国务院令第715号" for managing scrapped vehicles.</data>
+  <data key="d8">regulation,vehicle management</data>
+  <data key="d9">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805142</data>
+</edge>
+<edge source="报废机动车回收管理办法" target="报废机动车回收证明">
+  <data key="d6">1.0</data>
+  <data key="d7">The "报废机动车回收管理办法" requires the issuance and management of the "报废机动车回收证明."</data>
+  <data key="d8">documentation,regulation</data>
+  <data key="d9">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805144</data>
+</edge>
+<edge source="国务院令第427号" target="财政违法行为处罚处分条例">
+  <data key="d6">1.0</data>
+  <data key="d7">The "财政违法行为处罚处分条例" provides detailed guidelines under "国务院令第427号" for addressing financial misconduct.</data>
+  <data key="d8">framework,regulation</data>
+  <data key="d9">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805145</data>
+</edge>
+<edge source="省商务厅" target="省财政厅">
+  <data key="d6">1.0</data>
+  <data key="d7">The省商务厅and省财政厅are jointly responsible for interpreting specific issues in the implementation of the automobile scrapping and subsidy policies.</data>
+  <data key="d8">collaboration,policy interpretation</data>
+  <data key="d9">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805145</data>
+</edge>
+<edge source="济南市" target="汽车消费补贴活动">
+  <data key="d6">1.0</data>
+  <data key="d7">The "汽车消费补贴活动" is held within济南市during October 2025.</data>
+  <data key="d8">automobile promotion,event location</data>
+  <data key="d9">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805143</data>
+</edge>
+<edge source="汽车消费补贴活动" target="工银e生活">
+  <data key="d6">1.0</data>
+  <data key="d7">The "汽车消费补贴活动" allows participants to apply for subsidies through the "工银e生活" app.</data>
+  <data key="d8">application process,subsidy</data>
+  <data key="d9">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805145</data>
+</edge>
+<edge source="汽车消费补贴活动" target="汽车消费礼包">
+  <data key="d6">1.0</data>
+  <data key="d7">Participants of the "汽车消费补贴活动" receive an "汽车消费礼包" based on vehicle price ranges.</data>
+  <data key="d8">automobile purchase,financial incentive</data>
+  <data key="d9">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805146</data>
+</edge>
+<edge source="汽车消费补贴活动" target="机动车销售统一发票">
+  <data key="d6">1.0</data>
+  <data key="d7">The "机动车销售统一发票" is a required document for applications in the "汽车消费补贴活动."</data>
+  <data key="d8">documentation,subsidy</data>
+  <data key="d9">chunk-69bbd43b13ba8685843c414bf93d64bc</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805148</data>
+</edge>
+<edge source="Shandong Province" target="2025 Automobile Replacement Subsidy Implementation Guidelines">
+  <data key="d6">1.0</data>
+  <data key="d7">The guidelines are specific to Shandong Province for automobile replacement and upgrading.</data>
+  <data key="d8">policy scope,regional implementation</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805145</data>
+</edge>
+<edge source="2025 Automobile Replacement Subsidy Implementation Guidelines" target="Personal Consumer">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal Consumers are the target beneficiaries of the subsidy policy in the guidelines.</data>
+  <data key="d8">eligibility,policy</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805148</data>
+</edge>
+<edge source="2025 Automobile Replacement Subsidy Implementation Guidelines" target="National Development and Reform Commission">
+  <data key="d6">1.0</data>
+  <data key="d7">The National Development and Reform Commission provided governing directives for the development of the guidelines.</data>
+  <data key="d8">directive,policy framework</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805150</data>
+</edge>
+<edge source="2025 Automobile Replacement Subsidy Implementation Guidelines" target="Ministry of Commerce">
+  <data key="d6">1.0</data>
+  <data key="d7">The Ministry of Commerce contributed to the overarching policy framework that shaped the guidelines.</data>
+  <data key="d8">directive,policy collaboration</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805151</data>
+</edge>
+<edge source="2025 Automobile Replacement Subsidy Implementation Guidelines" target="Shandong Bureau of Commerce">
+  <data key="d6">1.0</data>
+  <data key="d7">The Shandong Bureau of Commerce ensures the effective implementation of the subsidy guidelines within Shandong Province.</data>
+  <data key="d8">oversight,regional execution</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805153</data>
+</edge>
+<edge source="2025 Automobile Replacement Subsidy Implementation Guidelines" target="2024 Automobile Replacement Subsidy Implementation Guidelines">
+  <data key="d6">1.0</data>
+  <data key="d7">The 2025 guidelines include provisions for vehicles partially compliant with 2024 requirements, enabling cross-year policy continuity.</data>
+  <data key="d8">cross-year reference,policy alignment</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805155</data>
+</edge>
+<edge source="2025 Automobile Replacement Subsidy Implementation Guidelines" target="Nine-Passenger Vehicle">
+  <data key="d6">1.0</data>
+  <data key="d7">Nine-Passenger Vehicles are explicitly defined in the guidelines for determining eligibility for subsidies.</data>
+  <data key="d8">subsidy eligibility,vehicle categorization</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805157</data>
+</edge>
+<edge source="Personal Consumer" target="Vehicle Registration Certificate">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal Consumers must present the Vehicle Registration Certificate for eligibility verification.</data>
+  <data key="d8">proof of ownership,subsidy application</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805147</data>
+</edge>
+<edge source="Personal Consumer" target="Used Car Sales Invoice">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal Consumers must provide the Used Car Sales Invoice to validate the old car transfer.</data>
+  <data key="d8">ownership transfer,subsidy application</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805150</data>
+</edge>
+<edge source="Personal Consumer" target="Motor Vehicle Sales Invoice">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal Consumers need the Motor Vehicle Sales Invoice to prove new vehicle acquisition for subsidy eligibility.</data>
+  <data key="d8">purchase validation,subsidy application</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805152</data>
+</edge>
+<edge source="Personal Consumer" target="Shandong Automobile Replacement Small Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal Consumers must use the Shandong Automobile Replacement Small Program to submit subsidy applications.</data>
+  <data key="d8">application process,platform</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805153</data>
+</edge>
+<edge source="Personal Consumer" target="Automobile Scrap Renewal Subsidy Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">The Automobile Scrap Renewal Subsidy Policy is designed for personal consumers replacing scrapped cars with new ones.</data>
+  <data key="d8">eligibility,financial incentive</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805167</data>
+</edge>
+<edge source="New Energy Passenger Vehicle" target="Subsidy Amount">
+  <data key="d6">1.0</data>
+  <data key="d7">New Energy Passenger Vehicles are designated for higher subsidy amounts under the policy.</data>
+  <data key="d8">financial allocation,vehicle type</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805148</data>
+</edge>
+<edge source="Fuel Vehicle" target="Subsidy Amount">
+  <data key="d6">1.0</data>
+  <data key="d7">Fuel Vehicles are eligible for specific subsidy amounts based on their price range.</data>
+  <data key="d8">financial allocation,vehicle type</data>
+  <data key="d9">chunk-96b586e144360ef80aa8abc561f73854</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805146</data>
+</edge>
+<edge source="Motor Vehicle Sales Invoice" target="Commerce Department Circular No. 392">
+  <data key="d6">1.0</data>
+  <data key="d7">Commerce Department Circular No. 392 specifies the necessity of presenting a Motor Vehicle Sales Invoice for subsidy applications.</data>
+  <data key="d8">documentation requirement,policy compliance</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805160</data>
+</edge>
+<edge source="Motor Vehicle Sales Invoice" target="New Passenger Vehicles">
+  <data key="d6">1.0</data>
+  <data key="d7">The Motor Vehicle Sales Invoice is required for New Passenger Vehicles purchased to replace scrapped cars.</data>
+  <data key="d8">documentation,purchase</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805167</data>
+</edge>
+<edge source="Motor Vehicle Registration Certificate" target="Consumer">
+  <data key="d6">1.0</data>
+  <data key="d7">The consumer must submit the Motor Vehicle Registration Certificate for both the old and newly purchased cars during subsidy applications.</data>
+  <data key="d8">legal documentation,ownership proof</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805158</data>
+</edge>
+<edge source="Motor Vehicle Registration Certificate" target="New Passenger Vehicles">
+  <data key="d6">1.0</data>
+  <data key="d7">The Motor Vehicle Registration Certificate is needed for registering New Passenger Vehicles after purchase.</data>
+  <data key="d8">proof,registration</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805170</data>
+</edge>
+<edge source="Motor Vehicle Registration Certificate" target="Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">The motor vehicle registration certificate is required to verify registration and eligibility for the subsidy program.</data>
+  <data key="d8">documentation requirement,verification</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805176</data>
+</edge>
+<edge source="Used Car Sales Unified Invoice" target="Consumer">
+  <data key="d6">1.0</data>
+  <data key="d7">Consumers must provide a Used Car Sales Unified Invoice as proof of transferring their old vehicle ownership.</data>
+  <data key="d8">documentation,proof of sale</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805155</data>
+</edge>
+<edge source="New Car Purchase Unified Invoice" target="Consumer">
+  <data key="d6">1.0</data>
+  <data key="d7">Consumers must present a New Car Purchase Unified Invoice to validate their purchase of a new car.</data>
+  <data key="d8">documentation,purchase evidence</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805157</data>
+</edge>
+<edge source="Jinan Bureau Of Commerce" target="2025 Jinan Car Replacement Subsidy Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan Bureau of Commerce is involved in implementing the 2025 Jinan Car Replacement Subsidy Policy.</data>
+  <data key="d8">local administration,policy implementation</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805152</data>
+</edge>
+<edge source="Shandong Province Vehicle Replacement and Renewal Mini Program" target="Consumer">
+  <data key="d6">1.0</data>
+  <data key="d7">Consumers use the Shandong Province Vehicle Replacement and Renewal Mini Program to apply for car replacement subsidies.</data>
+  <data key="d8">application process,online platform</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805153</data>
+</edge>
+<edge source="2025 Jinan Car Replacement Subsidy Policy" target="New Energy Passenger Cars">
+  <data key="d6">1.0</data>
+  <data key="d7">Replacing an old vehicle with a qualifying New Energy Passenger Car is a requirement to receive higher subsidies under the policy.</data>
+  <data key="d8">eligibility,incentive</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805155</data>
+</edge>
+<edge source="2025 Jinan Car Replacement Subsidy Policy" target="Fossil Fuel Passenger Cars">
+  <data key="d6">1.0</data>
+  <data key="d7">Replacing an old vehicle with a qualifying Fossil Fuel Passenger Car is part of the subsidy program but provides a lower financial incentive.</data>
+  <data key="d8">eligibility,incentive</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805156</data>
+</edge>
+<edge source="2025 Jinan Car Replacement Subsidy Policy" target="National Vehicle Scrap Update Subsidy">
+  <data key="d6">1.0</data>
+  <data key="d7">The 2025 Jinan policy ensures that consumers cannot simultaneously apply for this local subsidy and the National Vehicle Scrap Update Subsidy for the same vehicle.</data>
+  <data key="d8">differentiation,subsidy type</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805160</data>
+</edge>
+<edge source="2025 Jinan Car Replacement Subsidy Policy" target="Vehicle Identification Number">
+  <data key="d6">1.0</data>
+  <data key="d7">The Vehicle Identification Number is a mandatory submission component for subsidy applications under the 2025 Jinan Car Replacement Subsidy Policy.</data>
+  <data key="d8">submission requirement,unique data</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805161</data>
+</edge>
+<edge source="2025 Jinan Car Replacement Subsidy Policy" target="2024 Jinan Car Replacement Subsidy Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">The 2024 Jinan Car Replacement Subsidy Policy laid the groundwork for the 2025 subsidy program, setting certain eligibility guidelines.</data>
+  <data key="d8">eligibility,policy sequence</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805163</data>
+</edge>
+<edge source="2025 Jinan Car Replacement Subsidy Policy" target="Reduction of Vehicle Purchase Tax for New Energy Vehicle Models">
+  <data key="d6">1.0</data>
+  <data key="d7">Purchasing cars listed under the directory for reduced vehicle purchase tax is necessary to qualify for subsidies under the 2025 Jinan Car Replacement Subsidy Policy.</data>
+  <data key="d8">eligibility requirement,financial incentive</data>
+  <data key="d9">chunk-9b19e990273d899596baca4278c9632b</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805165</data>
+</edge>
+<edge source="Jinan" target="Automobile Scrap Renewal Subsidy Policy">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan is designated as the subsidy application location for purchasing new cars tied to the policy.</data>
+  <data key="d8">application location,process</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805173</data>
+</edge>
+<edge source="Shandong Province Automobile Scrap Renewal Subsidy Implementation Details" target="Shandong Province Commerce Department">
+  <data key="d6">1.0</data>
+  <data key="d7">The Shandong Province Commerce Department is tasked with executing the directives outlined in the automobile scrap renewal subsidy policies.</data>
+  <data key="d8">organizational responsibility,policy implementation</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805158</data>
+</edge>
+<edge source="Shandong Province Automobile Scrap Renewal Subsidy Implementation Details" target="State-Level Automotive Renewal Policies">
+  <data key="d6">1.0</data>
+  <data key="d7">The Shandong Province Automobile Scrap Renewal Subsidy Implementation Details adapt to the State-Level Automotive Renewal Policies.</data>
+  <data key="d8">policy alignment,regional adaptation</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805161</data>
+</edge>
+<edge source="State Council Order No. 427" target="2025 Automobile Scrap Renewal Work">
+  <data key="d6">1.0</data>
+  <data key="d7">State Council Order No. 427 provides the legal basis for handling misuse in automobile subsidy allocation.</data>
+  <data key="d8">financial regulation,legal framework</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805158</data>
+</edge>
+<edge source="National Automotive Renewal Policy" target="State Council, National Development and Reform Committee, Ministry of Finance">
+  <data key="d6">1.0</data>
+  <data key="d7">The State Council, National Development and Reform Committee, and Ministry of Finance are responsible for creating and monitoring the National Automotive Renewal Policy.</data>
+  <data key="d8">policy formulation,regulatory oversight</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805160</data>
+</edge>
+<edge source="Individual Consumer" target="National Automotive Circulation Information Management System">
+  <data key="d6">1.0</data>
+  <data key="d7">Individual consumers use the National Automotive Circulation Information Management System to apply for automobile renewal subsidies.</data>
+  <data key="d8">platform usage,subsidy application</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805160</data>
+</edge>
+<edge source="Subsidy Funds Misuse" target="Regulation On Punishments For Fiscal Violations">
+  <data key="d6">1.0</data>
+  <data key="d7">Regulation On Punishments For Fiscal Violations defines the penalties for Subsidy Funds Misuse.</data>
+  <data key="d8">financial violations,legal consequences</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805161</data>
+</edge>
+<edge source="Industrial And Information Technology Ministry's Vehicle Tax Exemption List" target="Fuel Consumption Standards">
+  <data key="d6">1.0</data>
+  <data key="d7">The Vehicle Tax Exemption List created by the Industrial And Information Technology Ministry is influenced by Fuel Consumption Standards.</data>
+  <data key="d8">eligibility criteria,emissions regulation</data>
+  <data key="d9">chunk-955f3bcc2b443e2e7604b1e8bd4fc758</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805161</data>
+</edge>
+<edge source="Debet Card Information" target="Applicant Photo and ID">
+  <data key="d6">1.0</data>
+  <data key="d7">Debet card information must be submitted alongside applicant photos and ID for processing subsidy applications.</data>
+  <data key="d8">application requirements,data submission</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805162</data>
+</edge>
+<edge source="Old Passenger Car VIN Code" target="Old Passenger Car Documents">
+  <data key="d6">1.0</data>
+  <data key="d7">The VIN code of the old passenger car is linked to its documents to verify ownership and facilitate transfer processes.</data>
+  <data key="d8">ownership verification,transfer registration</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805163</data>
+</edge>
+<edge source="Old Passenger Car Documents" target="Tax Authority">
+  <data key="d6">1.0</data>
+  <data key="d7">The tax authority oversees the management and validation of unified invoices and related car transfer documents.</data>
+  <data key="d8">document validation,tax regulation</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805165</data>
+</edge>
+<edge source="New Passenger Car Documents" target="2025 Automobile Replacement Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">New passenger car documents are required to establish eligibility for the 2025 automobile replacement subsidy program.</data>
+  <data key="d8">documentation,subsidy eligibility</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805163</data>
+</edge>
+<edge source="Central Government Funds" target="Provincial Government Funds">
+  <data key="d6">1.0</data>
+  <data key="d7">Both central and provincial government funds contribute to the financial backing of the automobile replacement subsidy program.</data>
+  <data key="d8">financial support,resource allocation</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805163</data>
+</edge>
+<edge source="2025 Automobile Replacement Subsidy Program" target="Provincial Development and Reform Commissions">
+  <data key="d6">1.0</data>
+  <data key="d7">Provincial development and reform commissions oversee the proper implementation of the 2025 automobile replacement subsidy program at the regional level.</data>
+  <data key="d8">regulatory oversight,subsidy supervision</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805165</data>
+</edge>
+<edge source="2025 Automobile Replacement Subsidy Program" target="2025 Implementation Period">
+  <data key="d6">1.0</data>
+  <data key="d7">The 2025 implementation period marks the active phase of the automobile replacement subsidy program.</data>
+  <data key="d8">operational framework,policy timeline</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805167</data>
+</edge>
+<edge source="Ministry Of Commerce" target="City Commercial Departments">
+  <data key="d6">1.0</data>
+  <data key="d7">The Ministry of Commerce provides guidance to city commercial departments for properly implementing the subsidy policy.</data>
+  <data key="d8">administrative collaboration,regulatory guidance</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805163</data>
+</edge>
+<edge source="Ministry Of Finance" target="Municipal Finance Departments">
+  <data key="d6">1.0</data>
+  <data key="d7">The Ministry of Finance works with municipal finance departments to ensure proper management and evaluation of subsidy funds.</data>
+  <data key="d8">financial supervision,performance evaluation</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805163</data>
+</edge>
+<edge source="City Commercial Departments" target="Automobile Replacement Information Platform">
+  <data key="d6">1.0</data>
+  <data key="d7">The automobile replacement information platform aids city commercial departments in managing data and streamlining subsidy application reviews.</data>
+  <data key="d8">application processing,data management</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805165</data>
+</edge>
+<edge source="City Commercial Departments" target="Applicants">
+  <data key="d6">1.0</data>
+  <data key="d7">Applicants interact with city commercial departments to have their subsidy applications reviewed and validated.</data>
+  <data key="d8">application review,regulatory process</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805167</data>
+</edge>
+<edge source="Automobile Replacement Subsidy Hotline" target="Council Citizens">
+  <data key="d6">1.0</data>
+  <data key="d7">The automobile replacement subsidy hotline assists the general public by addressing questions and concerns about the program.</data>
+  <data key="d8">inquiry resolution,public support</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805165</data>
+</edge>
+<edge source="2026 Deadline" target="Applicants">
+  <data key="d6">1.0</data>
+  <data key="d7">The 2026 deadline specifies the latest date for applicants to submit additional or corrected documentation for subsidy eligibility.</data>
+  <data key="d8">compliance timeline,submission requirement</data>
+  <data key="d9">chunk-619c2f7f68856aebad4b43e5180a797d</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805165</data>
+</edge>
+<edge source="Automobile Scrap Renewal Subsidy Policy" target="China Ministry of Commerce">
+  <data key="d6">1.0</data>
+  <data key="d7">The China Ministry of Commerce manages and oversees the Automobile Scrap Renewal Subsidy Policy.</data>
+  <data key="d8">management,oversight</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805169</data>
+</edge>
+<edge source="Automobile Scrap Renewal Subsidy Policy" target="Scrap Motor Vehicle Recycling Certificate">
+  <data key="d6">1.0</data>
+  <data key="d7">The Automobile Scrap Renewal Subsidy Policy requires a Scrap Motor Vehicle Recycling Certificate as part of the application materials.</data>
+  <data key="d8">eligibility,requirement</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805170</data>
+</edge>
+<edge source="Old Passenger Vehicles" target="Scrap Motor Vehicle Recycling Certificate">
+  <data key="d6">1.0</data>
+  <data key="d7">Old Passenger Vehicles must be scrapped to obtain the Scrap Motor Vehicle Recycling Certificate.</data>
+  <data key="d8">documentation,proof</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805167</data>
+</edge>
+<edge source="Ministry of Commerce Automobile Circulation Information Management System Website" target="Automobile Trade-In Mini Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Both the Ministry of Commerce Automobile Circulation Information Management System Website and the Automobile Trade-In Mini Program facilitate subsidy applications.</data>
+  <data key="d8">application,platform</data>
+  <data key="d9">chunk-9d04bcaf9de54cebb144034ea39c9de0</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805168</data>
+</edge>
+<edge source="Personal Consumers" target="Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Personal consumers are eligible to participate in the subsidy program by purchasing non-operating passenger cars within specified conditions.</data>
+  <data key="d8">eligibility,participation</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805171</data>
+</edge>
+<edge source="Enterprises" target="Subsidy Program">
+  <data key="d6">1.0</data>
+  <data key="d7">Enterprises can participate in the subsidy program under specified conditions, including restrictions on the number of vehicles subsidized.</data>
+  <data key="d8">eligibility,participation</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805172</data>
+</edge>
+<edge source="Subsidy Program" target="Vehicle Purchase Invoice">
+  <data key="d6">1.0</data>
+  <data key="d7">The vehicle purchase invoice is used to validate the purchase amount for determining subsidy eligibility.</data>
+  <data key="d8">documentation requirement,financial validation</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805177</data>
+</edge>
+<edge source="Subsidy Program" target="Fuel Stored-Value Card">
+  <data key="d6">1.0</data>
+  <data key="d7">Fuel stored-value cards are distributed to qualified recipients as part of the subsidy program.</data>
+  <data key="d8">benefit distribution,consumer incentive</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805179</data>
+</edge>
+<edge source="Subsidy Program" target="Commercial Vehicle Insurance">
+  <data key="d6">1.0</data>
+  <data key="d7">Commercial vehicle insurance is mandatory for subsidy eligibility and must have a one-year validity.</data>
+  <data key="d8">eligibility requirement,insurance</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805180</data>
+</edge>
+<edge source="Subsidy Program" target="System Initial Review">
+  <data key="d6">1.0</data>
+  <data key="d7">The system initial review is part of the subsidy program and evaluates the initial completeness of the application documents.</data>
+  <data key="d8">application process,documentation verification</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805182</data>
+</edge>
+<edge source="Subsidy Program" target="Third-Party Institution Review">
+  <data key="d6">1.0</data>
+  <data key="d7">The third-party institution review ensures the indepth verification of documents submitted under the subsidy program.</data>
+  <data key="d8">application process,further verification</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805184</data>
+</edge>
+<edge source="Subsidy Program" target="Activity QR Code">
+  <data key="d6">1.0</data>
+  <data key="d7">The activity QR code can be scanned by participants to digitally apply for the subsidy program.</data>
+  <data key="d8">application process,digital interface</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805185</data>
+</edge>
+<edge source="Subsidy Program" target="工银e生活 App">
+  <data key="d6">1.0</data>
+  <data key="d7">The “工银e生活” App provides a platform for users to access the subsidy program and submit applications.</data>
+  <data key="d8">application process,user platform</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805187</data>
+</edge>
+<edge source="China Petroleum (PetroChina)" target="Fuel Stored-Value Card">
+  <data key="d6">1.0</data>
+  <data key="d7">China Petroleum (PetroChina) distributes the fuel stored-value cards to qualified recipients of the subsidy program.</data>
+  <data key="d8">distribution,usage</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805180</data>
+</edge>
+<edge source="China Petrochemical Corporation (Sinopec)" target="Fuel Stored-Value Card">
+  <data key="d6">1.0</data>
+  <data key="d7">China Petrochemical Corporation (Sinopec) distributes the fuel stored-value cards to subsidy recipients for fuel purchases.</data>
+  <data key="d8">distribution,usage</data>
+  <data key="d9">chunk-01ba47ce93bd63521560507f4e60ebd1</data>
+  <data key="d10">car.docx</data>
+  <data key="d11">1759805182</data>
+</edge>
+</graph></graphml>

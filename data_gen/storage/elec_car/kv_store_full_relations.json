@@ -1,0 +1,110 @@
+{
+  "doc-4699ca71ec89fb7e8917bc173376167a": {
+    "relation_pairs": [
+      [
+        "Personal Consumer",
+        "Return Policy"
+      ],
+      [
+        "Fraudulent Activities",
+        "Personal Consumer"
+      ],
+      [
+        "Government Subsidy",
+        "Store Discounts"
+      ],
+      [
+        "Subsidy Eligibility Code",
+        "泉城购电动自行车以旧换新平台"
+      ],
+      [
+        "Store Discounts",
+        "Vehicle Company"
+      ],
+      [
+        "Consultation Hotlines",
+        "Sales Entity"
+      ],
+      [
+        "2025 Electric Bicycle Trade-In Subsidy Program",
+        "Government Subsidy"
+      ],
+      [
+        "City-Level Commerce Authority",
+        "Sales Entity"
+      ],
+      [
+        "District/County Commerce Departments",
+        "Sales Entities"
+      ],
+      [
+        "City-Level Commerce Authority",
+        "Fraudulent Activities"
+      ],
+      [
+        "2025 Electric Bicycle Trade-In Subsidy Program",
+        "泉城购电动自行车以旧换新平台"
+      ],
+      [
+        "Return Policy",
+        "Sales Entity"
+      ],
+      [
+        "Fiscal Subsidy Fund",
+        "Subsidy Indicator"
+      ],
+      [
+        "Consumer Complaint Channel",
+        "Personal Consumer"
+      ],
+      [
+        "Fraudulent Activities",
+        "Sales Entity"
+      ],
+      [
+        "2025 Electric Bicycle Trade-In Subsidy Program",
+        "Electric Bicycles"
+      ],
+      [
+        "Policy Brochure",
+        "Sales Entity"
+      ],
+      [
+        "City-Level Commerce Authority",
+        "Subsidy Conflict Responsibility"
+      ],
+      [
+        "Personal Consumer",
+        "Sales Entity"
+      ],
+      [
+        "Government Subsidy",
+        "Sales Entity"
+      ],
+      [
+        "2025 Electric Bicycle Trade-In Subsidy Program",
+        "Recycling Companies"
+      ],
+      [
+        "Consumer Registration Process",
+        "Subsidy Eligibility Code"
+      ],
+      [
+        "Fiscal Subsidy Fund",
+        "Personal Consumer"
+      ],
+      [
+        "2025 Electric Bicycle Trade-In Subsidy Program",
+        "济南市"
+      ],
+      [
+        "2025 Electric Bicycle Trade-In Subsidy Program",
+        "Sales Entities"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1759805735,
+    "update_time": 1759805735,
+    "_id": "doc-4699ca71ec89fb7e8917bc173376167a"
+  }
+}

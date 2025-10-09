@@ -1,0 +1,21 @@
+{
+  "doc-4699ca71ec89fb7e8917bc173376167a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-697ae77dca5a5a723d9eb560f2f9b1c2",
+      "chunk-8362d09bbd6dbf6a99d79666d8ad2eca"
+    ],
+    "content_summary": "(1)\n\n标题：济南市2025年电动自行车以旧换新补贴活动公告，时间：2025/3/18，发布级别：济南市级，类型：电动车类\n\n内容：\n\n```\n\n\"一、活动时间\n\n2025年度延续开展电动自行车以旧换新工作，活动自2025年1月1日起。补贴资金实行限额管理，资金使用完毕即活动结束。\n\n二、补贴标准\n\n2025年济南市电动自行车以旧换新补贴标准与上年补贴标准相衔接，来源权属明确且配备车载电池的报废老旧电动自行车可参加以旧换新（含无牌）。即：对个人消费者交售报废老旧电动自行车并换购合格新车的，给予...",
+    "content_length": 2148,
+    "created_at": "2025-10-07T02:54:59.262597+00:00",
+    "updated_at": "2025-10-07T10:55:35+00:00",
+    "file_path": "elec_car.docx",
+    "track_id": "insert_20251007_105459_8bb96dc7",
+    "metadata": {
+      "processing_start_time": 1759805699,
+      "processing_end_time": 1759805735
+    },
+    "multimodal_processed": true
+  }
+}

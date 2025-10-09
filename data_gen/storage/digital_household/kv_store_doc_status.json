@@ -1,0 +1,27 @@
+{
+  "doc-5589023f94e6a1c8751f4578a57ead1e": {
+    "status": "processed",
+    "chunks_count": 8,
+    "chunks_list": [
+      "chunk-c70268b1ba222088a7aef37dce1b03b8",
+      "chunk-ca79cabbb1b23504872d920dcee1ec71",
+      "chunk-845f0d63cf33fd2cd2fea3886bffcd80",
+      "chunk-1f4113e0d87f17983af7cd7b4224d627",
+      "chunk-febf6109f34913ae55354e7147217954",
+      "chunk-8eca60ca704f92814b12c8e1c18713f5",
+      "chunk-4cf0e519187eb1777f56e94378fe1c9a",
+      "chunk-264a919748dd9de4825b5d57cf16c5fa"
+    ],
+    "content_summary": "（1）\n\n标题：山东省手机、平板、智能手表（手环）购新补贴实施细则，时间：2025/1/21，发布级别：省级文件，类型：电子产品\n\n内容：\n\n```\n\n\"为深入贯彻落实党中央、国务院决策部署，按照省委、省政府工作要求，顺应消费市场新形式新趋势，打造消费新增长点，进一步发挥消费在经济增长中的重要作用，根据国家发展改革委、财政部《关于2025年加力扩围实施大规模设备更新和消费品以旧换新政策的通知》（发改环资〔2025〕13号），商务部等5部门办公厅《关于印发<手机、平板、智能手表（手环）购新补贴实施...",
+    "content_length": 11788,
+    "created_at": "2025-10-07T03:09:42.076966+00:00",
+    "updated_at": "2025-10-07T11:25:16+00:00",
+    "file_path": "digital_household.docx",
+    "track_id": "insert_20251007_110942_78e3ffd4",
+    "metadata": {
+      "processing_start_time": 1759806582,
+      "processing_end_time": 1759806735
+    },
+    "multimodal_processed": true
+  }
+}

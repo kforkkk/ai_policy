@@ -1,0 +1,22 @@
+{
+  "doc-a76972afe1e1726bb205565cee6c88c8": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-5e90e5ef5bed92c11095540a239e72b7",
+      "chunk-3ac8ed145d9aeefb3ecdac91794b6b43",
+      "chunk-005bc16c2bcd22ae91aa935c60e9c950"
+    ],
+    "content_summary": "(1)\n\n标题：2025年济南市家装、家居“焕新”补贴活动公告，时间：2025/5/3，发布级别：济南市级，类型：家居\n\n内容：\n\n```\n\n\"一、实施时间\n\n2025年5月4日至12月31日，补贴资金实行总额控制，如补贴资金提前使用完毕，活动结束。\n\n二、补贴范围\n\n（一）装修材料类：个人消费者对本人名下合法取得的旧房〔2020年1月26日（含）前竣工的个人住房〕开展内部装修或厨卫等局部改造所购置的门、窗、木地板、瓷砖、乳胶漆、壁纸、淋浴房或淋浴隔断等7类装修材料和物品（含辅料及配件）进行补贴...",
+    "content_length": 3068,
+    "created_at": "2025-10-07T03:08:05.801168+00:00",
+    "updated_at": "2025-10-07T11:08:47+00:00",
+    "file_path": "household.docx",
+    "track_id": "insert_20251007_110805_24f6a6ec",
+    "metadata": {
+      "processing_start_time": 1759806485,
+      "processing_end_time": 1759806527
+    },
+    "multimodal_processed": true
+  }
+}

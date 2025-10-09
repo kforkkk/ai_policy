@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="2025年济南市泉城购零售、餐饮消费券发放活动">
+  <data key="d0">2025年济南市泉城购零售、餐饮消费券发放活动</data>
+  <data key="d1">event</data>
+  <data key="d2">An event held in Jinan City in 2025 focused on distributing retail and dining coupons to stimulate consumption.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805910</data>
+</node>
+<node id="济南市">
+  <data key="d0">济南市</data>
+  <data key="d1">location</data>
+  <data key="d2">Jinan City is the location where the “泉城购” coupon distribution event is taking place.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805910</data>
+</node>
+<node id="抖音APP">
+  <data key="d0">抖音APP</data>
+  <data key="d1">platform</data>
+  <data key="d2">Douyin APP is the designated platform for distributing and managing coupons during the “泉城购” event.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805910</data>
+</node>
+<node id="零售类消费券">
+  <data key="d0">零售类消费券</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Retail coupons offered during the event that provide specific discounts such as 20, 40, or 60 yuan off based on purchase amount thresholds.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805910</data>
+</node>
+<node id="餐饮类消费券">
+  <data key="d0">餐饮类消费券</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Dining coupons offered during the event that provide specific discounts such as 25, 50, or 75 yuan off based on purchase amount thresholds.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805910</data>
+</node>
+<node id="市商务局">
+  <data key="d0">市商务局</data>
+  <data key="d1">organization</data>
+  <data key="d2">The City Commerce Bureau is involved in monitoring the activities and operations of the “泉城购” coupon distribution event.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805910</data>
+</node>
+<node id="活动商家">
+  <data key="d0">活动商家</data>
+  <data key="d1">organization</data>
+  <data key="d2">Participating merchants in the “泉城购” event who offer discounts and sales incentives with the distributed coupons.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805910</data>
+</node>
+<node id="消费券领取规则">
+  <data key="d0">消费券领取规则</data>
+  <data key="d1">concept</data>
+  <data key="d2">The rules governing how consumers can claim retail and dining coupons through the Douyin APP during the “泉城购” event.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805910</data>
+</node>
+<node id="消费券使用规则">
+  <data key="d0">消费券使用规则</data>
+  <data key="d1">concept</data>
+  <data key="d2">The rules outlining how consumers can utilize retail and dining coupons during the “泉城购” event, including constraints and allowances.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805912</data>
+</node>
+<node id="不可抗力">
+  <data key="d0">不可抗力</data>
+  <data key="d1">concept</data>
+  <data key="d2">Force majeure situations, such as major disasters or technical issues, that may affect the operation of the “泉城购” coupon distribution event.</data>
+  <data key="d3">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805912</data>
+</node>
+<node id="济南市商务局">
+  <data key="d0">济南市商务局</data>
+  <data key="d1">organization</data>
+  <data key="d2">济南市商务局is the municipal business bureau responsible for overseeing and explaining the rules of the "泉城购" activity.</data>
+  <data key="d3">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805912</data>
+</node>
+<node id="活动页面">
+  <data key="d0">活动页面</data>
+  <data key="d1">location</data>
+  <data key="d2">活动页面refers to the webpage where updates and changes about the activity are announced.</data>
+  <data key="d3">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805912</data>
+</node>
+<node id="抖音客服">
+  <data key="d0">抖音客服</data>
+  <data key="d1">organization</data>
+  <data key="d2">抖音客服is a customer service support channel for users and merchants with questions about the activity rules, available at specific working hours.</data>
+  <data key="d3">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805912</data>
+</node>
+<node id="泉城购零售、餐饮消费券活动">
+  <data key="d0">泉城购零售、餐饮消费券活动</data>
+  <data key="d1">event</data>
+  <data key="d2">"泉城购" Retail and Catering Consumption Voucher Activity is a 2025 initiative in济南市focused on retail and dining consumption promotion.</data>
+  <data key="d3">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805912</data>
+</node>
+<node id="消费券">
+  <data key="d0">消费券</data>
+  <data key="d1">artifact</data>
+  <data key="d2">消费券are vouchers issued for consumption during the "泉城购" activity and are tied to specific rules for redemption.</data>
+  <data key="d3">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805912</data>
+</node>
+<node id="系统故障">
+  <data key="d0">系统故障</data>
+  <data key="d1">concept</data>
+  <data key="d2">系统故障refers to technical issues or failures in system operations that might disrupt the activity during its execution.</data>
+  <data key="d3">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805912</data>
+</node>
+<node id="政府机关">
+  <data key="d0">政府机关</data>
+  <data key="d1">organization</data>
+  <data key="d2">政府机关refers to regulatory authorities that may issue directives influencing the "泉城购" activity.</data>
+  <data key="d3">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805913</data>
+</node>
+<node id="财政资金">
+  <data key="d0">财政资金</data>
+  <data key="d1">concept</data>
+  <data key="d2">财政资金refers to government financial resources used to support the "泉城购" activity and subject to audit.</data>
+  <data key="d3">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d4">food.docx</data>
+  <data key="d5">1759805914</data>
+</node>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="济南市">
+  <data key="d6">1.0</data>
+  <data key="d7">Jinan City is hosting the 2025 “泉城购” coupon distribution event as part of municipal-level activities.</data>
+  <data key="d8">event location,municipal initiative</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805915</data>
+</edge>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="零售类消费券">
+  <data key="d6">1.0</data>
+  <data key="d7">Retail coupons are one of the features of the “泉城购” event, designed to encourage retail consumption.</data>
+  <data key="d8">discount offering,event feature</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805917</data>
+</edge>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="餐饮类消费券">
+  <data key="d6">1.0</data>
+  <data key="d7">Dining coupons are one of the features of the “泉城购” event, designed to encourage dining consumption.</data>
+  <data key="d8">discount offering,event feature</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805918</data>
+</edge>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="抖音APP">
+  <data key="d6">1.0</data>
+  <data key="d7">Douyin APP is the platform used for coupon distribution and management during the 2025 “泉城购” event.</data>
+  <data key="d8">coupon distribution,role in event</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805920</data>
+</edge>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="市商务局">
+  <data key="d6">1.0</data>
+  <data key="d7">The City Commerce Bureau oversees and monitors the execution of the “泉城购” coupon distribution event.</data>
+  <data key="d8">event oversight,organizational involvement</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805921</data>
+</edge>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="活动商家">
+  <data key="d6">1.0</data>
+  <data key="d7">Participating merchants are key stakeholders offering discounts in the “泉城购” coupon distribution event.</data>
+  <data key="d8">business incentives,merchant participation</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805923</data>
+</edge>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="消费券领取规则">
+  <data key="d6">1.0</data>
+  <data key="d7">The “泉城购” event includes specific rules for consumers to claim coupons via Douyin APP platforms.</data>
+  <data key="d8">consumer guidelines,digital distribution</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805924</data>
+</edge>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="消费券使用规则">
+  <data key="d6">1.0</data>
+  <data key="d7">Guidelines for using the coupons, including validity periods, refund conditions, and restrictions, are part of the event rules.</data>
+  <data key="d8">consumer policy,guide for use</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805926</data>
+</edge>
+<edge source="2025年济南市泉城购零售、餐饮消费券发放活动" target="不可抗力">
+  <data key="d6">1.0</data>
+  <data key="d7">Force majeure situations may pose challenges to the smooth execution of the event.</data>
+  <data key="d8">event risks,operational challenges</data>
+  <data key="d9">chunk-4d5c9bc775d00fd6a442a0245ffc8454</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805927</data>
+</edge>
+<edge source="济南市商务局" target="泉城购零售、餐饮消费券活动">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局oversees the "泉城购" Retail and Catering Consumption Voucher Activity, including its rules and execution.</data>
+  <data key="d8">activity oversight,governance</data>
+  <data key="d9">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805918</data>
+</edge>
+<edge source="济南市商务局" target="政府机关">
+  <data key="d6">1.0</data>
+  <data key="d7">政府机关may issue directives that affect the conduct of activities overseen by济南市商务局.</data>
+  <data key="d8">activity regulation,authority oversight</data>
+  <data key="d9">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805922</data>
+</edge>
+<edge source="济南市商务局" target="财政资金">
+  <data key="d6">1.0</data>
+  <data key="d7">济南市商务局manages the fiscal funding allocated for the activity and ensures compliance with audit requirements.</data>
+  <data key="d8">financial oversight,resource management</data>
+  <data key="d9">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805923</data>
+</edge>
+<edge source="活动页面" target="泉城购零售、餐饮消费券活动">
+  <data key="d6">1.0</data>
+  <data key="d7">活动页面provides announcements and updates about the "泉城购" activity to users.</data>
+  <data key="d8">event hosting,information updates</data>
+  <data key="d9">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805920</data>
+</edge>
+<edge source="抖音客服" target="泉城购零售、餐饮消费券活动">
+  <data key="d6">1.0</data>
+  <data key="d7">抖音客服offers customer support to users and merchants with queries related to the "泉城购" activity.</data>
+  <data key="d8">support channel,user assistance</data>
+  <data key="d9">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805922</data>
+</edge>
+<edge source="泉城购零售、餐饮消费券活动" target="消费券">
+  <data key="d6">1.0</data>
+  <data key="d7">消费券are central to the "泉城购" activity and follow specific rules for their usage.</data>
+  <data key="d8">event artifacts,voucher issuance</data>
+  <data key="d9">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805924</data>
+</edge>
+<edge source="泉城购零售、餐饮消费券活动" target="系统故障">
+  <data key="d6">1.0</data>
+  <data key="d7">Unforeseen system failures may disrupt the "泉城购" activity, causing changes or adjustments to the rules.</data>
+  <data key="d8">event disruption,technical issues</data>
+  <data key="d9">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805925</data>
+</edge>
+<edge source="泉城购零售、餐饮消费券活动" target="财政资金">
+  <data key="d6">1.0</data>
+  <data key="d7">财政资金are allocated for the "泉城购" activity and represent the government’s financial support for this initiative.</data>
+  <data key="d8">financial support,government funding</data>
+  <data key="d9">chunk-0b9c4bf6c9f2de69232a80921c55f4be</data>
+  <data key="d10">food.docx</data>
+  <data key="d11">1759805926</data>
+</edge>
+</graph></graphml>

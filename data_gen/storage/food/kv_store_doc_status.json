@@ -1,0 +1,21 @@
+{
+  "doc-92e18861c6c3aaf74662c67cbc2df87e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-4d5c9bc775d00fd6a442a0245ffc8454",
+      "chunk-0b9c4bf6c9f2de69232a80921c55f4be"
+    ],
+    "content_summary": "(1)\n\n标题：2025年济南市“泉城购”零售、餐饮消费券发放活动公告，时间：2025/7/18，发布级别：济南市级，类别：食品类\n\n内容：\n\n```\n\n\"一、消费券发放时间:2025年7月19日至2025年11月15日\n\n二、参与对象\n\n参与用户：活动期间手机定位在济南市的用户（不限户籍，在活动平台已绑定手机号且已完成实名认证）均可参与领券。用户需在每批次发放时间内领取消费券，在消费券有效期内核销使用。\n\n适用场景：\n\n零售类：商超（不含数码产品、家电、家居等按国家和省规定实施消费品以旧换新政...",
+    "content_length": 2209,
+    "created_at": "2025-10-07T02:58:14.972453+00:00",
+    "updated_at": "2025-10-07T10:58:49+00:00",
+    "file_path": "food.docx",
+    "track_id": "insert_20251007_105814_a46d459c",
+    "metadata": {
+      "processing_start_time": 1759805894,
+      "processing_end_time": 1759805929
+    },
+    "multimodal_processed": true
+  }
+}
