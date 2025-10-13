@@ -12,13 +12,13 @@ import json
 df = pd.read_csv("./prompt_qgen.csv")
 gen_prompt = df["prompt"][0]
 client = OpenAI(
-    api_key="sk-b09c374d8bd2478fa94697ae79dad1bd",
-    base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
+    api_key="",
+    base_url=""
 )
 async def load_existing_lightrag(query:str,mode):
     # 设置 API 配置
-    api_key = "sk-tkQC6suw159dxQoCkSrf2pTmSbIBawo7pP15FQN7d5vfTCxO"
-    base_url = "https://api.agicto.cn/v1"  # 可选
+    api_key = ""
+    base_url = ""  # 可选
 
     # 首先，创建或加载已存在的 LightRAG 实例
     lightrag_working_dir = "./storage/household"

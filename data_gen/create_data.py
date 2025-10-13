@@ -6,8 +6,8 @@ from lightrag.utils import EmbeddingFunc
 
 async def main():
     # 设置 API 配置
-    api_key = "sk-tkQC6suw159dxQoCkSrf2pTmSbIBawo7pP15FQN7d5vfTCxO"
-    base_url = "https://api.agicto.cn/v1"  # 可选
+    api_key = ""
+    base_url = ""  # 可选
 
     # 创建 RAGAnything 配置
     config = RAGAnythingConfig(

@@ -1,0 +1,63 @@
+type,prompt
+deep,"我想让你帮我重写一个提示词。
+你的目标是将给定的提示词改写成更复杂的版本，以增加知名AI系统（例如ChatGPT和GPT-4）处理的难度。但改写后的提示词必须合理，且人类能够理解并作出回应。
+请不要省略#Given Prompt#中的输入内容。
+你应当使用以下方法来复杂化给定的提示词：如果#Given Prompt#包含对某些问题的询问，则应拓展该问题的深度与广度。
+请尽量避免使#Rewritten Prompt#变得冗长，#Rewritten Prompt#只能在#Given Prompt#基础上增加10到20个字。
+尽量站在提问用户的角度修改这个提示词
+#Rewritten Prompt#中不得出现“#Given Prompt#”、“#Rewritten Prompt#”、“given prompt”或“rewritten prompt”等字样。
+！注意，请你仅仅输出重写的提示词，不要包含你的思考过程和解释
+#Given Prompt#: $Given_Prompt$
+#Rewritten Prompt#:"
+con,"我想让你帮我重写一个提示词。  
+你的目标是将给定的提示词改写成更复杂的版本，以增加知名AI系统（例如ChatGPT和GPT-4）处理的难度。但改写后的提示词必须合理，且人类能够理解并作出回应。  
+请不要省略#Given Prompt#中的输入内容。  
+你应当使用以下方法来复杂化给定的提示词：请将其中的通用概念替换为更具体的概念。  
+尽量站在提问用户的角度修改这个提示词
+请尽量避免使#Rewritten Prompt#变得冗长，#Rewritten Prompt#只能在#Given Prompt#基础上增加10到20个字。  
+#Rewritten Prompt#中不得出现“#Given Prompt#”、“#Rewritten Prompt#”、“given prompt”或“rewritten prompt”等字样。  
+！注意，请你仅仅输出重写的提示词，不要包含你的思考过程和解释
+#Given Prompt#: $Given_Prompt$  
+#Rewritten Prompt#:"
+reason,"我想让你帮我重写一个提示词。
+你的目标是将给定的提示词改写成更复杂的版本，以增加知名AI系统（例如ChatGPT和GPT-4）处理的难度。但改写后的提示词必须合理，且能被人类理解并作出回应。
+请不要省略#Given Prompt#中的输入内容。
+你应采用以下方法复杂化提示：如果原提示仅需几步简单思考即可解决，则应明确要求进行多步骤推理。
+请尽量避免冗长，改写后的提示只能在原提示基础上增加10到20个字，且不得包含“#Given Prompt#”、“#Rewritten Prompt#”、“given prompt”或“rewritten prompt”等字样。
+尽量站在提问用户的角度修改这个提示词
+！注意，请你仅仅输出重写的提示词，不要包含你的思考过程和解释
+#Given Prompt#: $Given_Prompt$  
+#Rewritten Prompt#:"
+instruct_check,"以下是两个instruction，一个是增强前的，一个是增强后的，你认为它们是否在内容上过于相近？
+判断依据：1. 是否提升了提问深度；2. 是否将一些广泛的概念替换为更具体的概念; 3. 是否增加推理的步骤和难度.
+如果三个判断依据均为否，则认为二者在内容上过于接近
+增强前：$previous$
+增强后：$after$
+请你以以下的格式输出：
+判据1：（是/否）
+判据2：（是/否）
+判据3：（是/否）
+
+输出：（要求仅仅输出是/否，不要输出理由）
+"
+field_check,"你是一个擅长根据提问寻找对应资料库的助手。
+下面有一些资料库的名字和对应内容的简介。
+请你根据收到的一个问题，请你根据这个问题找到可能需要资料库的名字
+资料库：
+1.car: 关于汽车补贴资料库
+2.digital_household:关于电子家居和数码产品补贴的资料库
+3.elec_car：关于电动车补贴的资料库
+4.food: 关于食品补贴的资料库
+5.household：关于一些家居用品的补贴资料库
+
+提问：$question$
+请你选择可能的对应的资料库，允许最多选择两个，请完全按照原来资料库的名字进行输出。
+请你以以下的格式输出,不要输出你的思考过程或者解释：
+[<资料库1>,<资料库2>]
+
+这里提供给你一个示例：
+提问：我想知道关于汽车补贴的截止时间
+输出：[car]
+"
+
+
