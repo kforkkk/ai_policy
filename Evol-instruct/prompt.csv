@@ -1,33 +1,34 @@
 type,prompt
 deep,"我想让你帮我重写一个提示词。
 你的目标是将给定的提示词改写成更复杂的版本，以增加知名AI系统（例如ChatGPT和GPT-4）处理的难度。但改写后的提示词必须合理，且人类能够理解并作出回应。
-请不要省略#Given Prompt#中的输入内容。
-你应当使用以下方法来复杂化给定的提示词：如果#Given Prompt#包含对某些问题的询问，则应拓展该问题的深度与广度。
-请尽量避免使#Rewritten Prompt#变得冗长，#Rewritten Prompt#只能在#Given Prompt#基础上增加10到20个字。
-尽量站在提问用户的角度修改这个提示词
-#Rewritten Prompt#中不得出现“#Given Prompt#”、“#Rewritten Prompt#”、“given prompt”或“rewritten prompt”等字样。
+请不要省略Given Prompt中的输入内容。
+你应当使用以下方法来复杂化给定的提示词：如果Given Prompt包含对某些问题的询问，则应拓展该问题的深度与广度, 比如基于原来问题提出符合现实场景的进一步问询或者提出同方面的新问题。
+请尽量避免使Rewritten Prompt变得冗长。
+尽量以用户的口吻修改这个提示词
+Rewritten Prompt中不得出现Given Prompt、Rewritten Prompt、given prompt或rewritten prompt等字样。
 ！注意，请你仅仅输出重写的提示词，不要包含你的思考过程和解释
-#Given Prompt#: $Given_Prompt$
-<#Rewritten Prompt#>:"
+Given Prompt: $Given_Prompt$
+<Rewritten Prompt>:"
 con,"我想让你帮我重写一个提示词。  
 你的目标是将给定的提示词改写成更复杂的版本，以增加知名AI系统（例如ChatGPT和GPT-4）处理的难度。但改写后的提示词必须合理，且人类能够理解并作出回应。  
-请不要省略#Given Prompt#中的输入内容。  
-你应当使用以下方法来复杂化给定的提示词：请将其中的通用概念替换为更具体的概念。  
-尽量站在提问用户的角度修改这个提示词
-请尽量避免使#Rewritten Prompt#变得冗长，#Rewritten Prompt#只能在#Given Prompt#基础上增加10到20个字。  
-#Rewritten Prompt#中不得出现“#Given Prompt#”、“#Rewritten Prompt#”、“given prompt”或“rewritten prompt”等字样。  
+请不要省略Given Prompt中的输入内容。  
+你应当使用以下方法来复杂化给定的提示词：请将其中的通用概念替换为更具体的概念，比方说遇到一个物体，尽可能明确他的类型或者描述。  
+尽量以用户的口吻修改这个提示词
+请尽量避免使Rewritten Prompt变得冗长。  
+尽量以用户的口吻修改这个提示词
+Rewritten Prompt中不得出现Given Prompt、Rewritten Prompt、given prompt或rewritten prompt等字样。  
 ！注意，请你仅仅输出重写的提示词，不要包含你的思考过程和解释
-#Given Prompt#: $Given_Prompt$  
-<#Rewritten Prompt#>:"
+Given Prompt: $Given_Prompt$  
+<Rewritten Prompt>:"
 reason,"我想让你帮我重写一个提示词。
 你的目标是将给定的提示词改写成更复杂的版本，以增加知名AI系统（例如ChatGPT和GPT-4）处理的难度。但改写后的提示词必须合理，且能被人类理解并作出回应。
-请不要省略#Given Prompt#中的输入内容。
-你应采用以下方法复杂化提示：如果原提示仅需几步简单思考即可解决，则应明确要求进行多步骤推理。
-请尽量避免冗长，改写后的提示只能在原提示基础上增加10到20个字，且不得包含“#Given Prompt#”、“#Rewritten Prompt#”、“given prompt”或“rewritten prompt”等字样。
-尽量站在提问用户的角度修改这个提示词
+请不要省略Given Prompt中的输入内容。
+你应采用以下方法复杂化提示：如果原提示仅需几步简单思考即可解决，则应加深问题难度，改变问法或者结构，增加推理难度，使得回答需要多步骤推理。
+请尽量避免冗长，不得包含Given Prompt、Rewritten Prompt、given prompt或rewritten prompt等字样。
+尽量以用户的口吻修改这个提示词
 ！注意，请你仅仅输出重写的提示词，不要包含你的思考过程和解释
-#Given Prompt#: $Given_Prompt$  
-<#Rewritten Prompt#>:"
+Given Prompt: $Given_Prompt$  
+<Rewritten Prompt>:"
 instruct_check,"以下是两个instruction，一个是增强前的，一个是增强后的，你认为它们是否在内容上过于相近？
 判断依据：1. 是否提升了提问深度；2. 是否将一些广泛的概念替换为更具体的概念; 3. 是否增加推理的步骤和难度.
 如果三个判断依据均为否，则认为二者在内容上过于接近
@@ -38,26 +39,23 @@ instruct_check,"以下是两个instruction，一个是增强前的，一个是�
 判据2：（是/否）
 判据3：（是/否）
 
-<输出>：（要求仅仅输出是/否，不要输出理由）
+<final>：（要求仅仅输出是/否，不要输出理由）
 "
 field_check,"你是一个擅长根据提问寻找对应资料库的助手。
 下面有一些资料库的名字和对应内容的简介。
-请你根据收到的一个问题，请你根据这个问题找到可能需要资料库的名字
+请你根据收到的一个问题，请你根据这个问题找到最可能需要资料库的名字
 资料库：
-1.car: 关于汽车补贴资料库
+1.car: 关于机动汽车补贴资料库
 2.digital_household:关于电子家居和数码产品补贴的资料库
-3.elec_car：关于电动车补贴的资料库
+3.elec_car：关于非机动电动自行车补贴的资料库
 4.food: 关于食品补贴的资料库
 5.household：关于一些家居用品的补贴资料库
 
 提问：$question$
-请你选择可能的对应的资料库，允许最多选择两个，请完全按照原来资料库的名字进行输出。
+请你选择可能的对应的资料库，允许最多选择一个，请完全按照原来资料库的名字进行输出。
 请你以以下的格式输出,不要输出你的思考过程或者解释：
-<输出>： [<资料库1>,<资料库2>]
+<final>： <资料库1>
 
-这里提供给你一个示例：
-提问：我想知道关于汽车补贴的截止时间
-<输出>：[car]
 "
 answer,"我想你充当我的智能客服。
 我需要你要根据一个参考答案，一段额外的资料库信息来回答这个问题。这个参考答案可能无法完美回答这个问题，你需要进一步结合资料库的信息来回答。
@@ -72,11 +70,11 @@ answer_check,"我想你充当一个答案筛选专家，下面你会收到一个
 答案：$answer$
 请根据以下规则判断大模型的输出是否有效：
 
-1.道歉且简短：若输出中包含“抱歉”“对不起”等致歉词语，且总字数少于80字；
-2.无实质内容：若输出仅由标点符号、停用词（如“的”“了”“在”“和”等无独立语义的常见虚词）组成，缺乏具体信息或观点；
-3.泄露提示痕迹：若输出中直接出现与指令演化过程相关的元语言词汇，例如#Given Prompt#，#Rewritten Prompt#，$question$，$answer$，$field$等。
+1.道歉且简短：若输出中包含抱歉对不起等致歉词语，且总字数少于80字；
+2.无实质内容：若输出仅由标点符号、停用词（如的了在和等无独立语义的常见虚词）组成，缺乏具体信息或观点；
+3.泄露提示痕迹：若输出中直接出现与指令演化过程相关的元语言词汇，例如Given Prompt，Rewritten Prompt，$question$，$answer$，$field$等。
 
-如果满足上面任意一条，这个答案就不通过，请你仅仅输出"是"或者"否"，不需要任何解释和思考过程
+如果满足上面任意一条，这个答案就不通过，请你仅仅输出是或者否，不需要任何解释和思考过程
 
 <输出>：
 "
