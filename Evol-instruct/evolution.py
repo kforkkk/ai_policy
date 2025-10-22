@@ -37,8 +37,11 @@ async def evol_policy(iteration:int,check_point):
         print(f"此轮结束,接受的数据量为：{accept}，占比为：{accept/len(dataset)*100:.2f}\n")
 
     print("数据集生成完毕")
-    with open(check_point,'w',encoding='utf-8') as f:
-        json.dump(new_dataset,f,ensure_ascii=False)
+    manul_accept = input("是否手动选择数据？(y/n)")
+    if manul_accept == "y":
+        
+        with open(check_point,'w',encoding='utf-8') as f:
+            json.dump(new_dataset,f,ensure_ascii=False)
     print("数据集保存完毕")
 
 if __name__ == "__main__":
